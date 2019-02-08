@@ -1,0 +1,60 @@
+<nav id="sideNav" class="navbar navbar-default bg-primary navbar-fixed-top">
+    
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+            aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+            <img src="/assets//img/profile.jpg" alt="Profile" class="img-profile img-circle">
+        </a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/over">Over</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/ervaring">Ervaring</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/contact">Contact</a>
+            </li>
+            <li class="divider" role="presentation"></li>
+            <li class="nav-item nav-item-icon">
+                <a class="nav-link" title="Bellen" href="tel:{{ site.telefoon }}">
+                    <div class="fa fa-phone"></div>
+                    <span class="icon-nav-label">Bellen</span>
+                </a>
+            </li>
+            <li class="nav-item nav-item-icon">
+                <a class="nav-link" title="Mailen" href="mailto:{{ site.email }}">
+                    <div class="fa fa-envelope"></div>
+                    <span class="icon-nav-label">Mailen</span>
+                </a>
+            </li>
+            {% if site.twitter_username%}<li class="nav-item nav-item-icon">
+                <a class="nav-link" target="_blank" title="twitter" aria-label="twitter" href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">
+                    <div class="fa fa-twitter"></div>
+                    <span class="icon-nav-label">Twitter</span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.facebook_username%}<li class="nav-item nav-item-icon">
+                <a class="nav-link" target="_blank" title="twitter" aria-label="twitter" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
+                    <div class="fa fa-facebook"></div>
+                    <span class="icon-nav-label">Facebook</span>
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+
+    </div>
+    <!--/.nav-collapse -->
+</nav>

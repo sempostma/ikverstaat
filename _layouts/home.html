@@ -1,0 +1,194 @@
+---
+layout: page
+---
+{{ content }}
+
+<section class="container-fluid" id="intro">
+    <div class="w-100">
+        <h1 class="mb-0">Ienze Koekkoek
+            <span class="text-primary">Verstaat</span>
+        </h1>
+        <div class="subheading mb-5">{{ page.sub_titel }}
+        </div>
+        <p class="lead mb-5">{{ page.description }}</p>
+        <div class="social-icons">
+            {% include social.html %}
+        </div>
+        <!-- <div class="tel">
+            <a title="Bellen" href="tel:{{ site.telefoon }}">
+                <div class="fa fa-phone"></div>
+                <b>Bellen</b>
+            </a>
+        </div>
+        <div class="email">
+            <a title="Mailen" href="mailto:{{ site.email }}">
+                <div class="fa fa-envelope"></div>
+                <b>Mailen</b>
+            </a>
+        </div> -->
+    </div>
+</section>
+<div id="diagonal-message">
+    <a href="/contact">Stel een vraag</a>
+</div>
+<section class="blocks container-fluid" id="blocks">
+    <div class="row">
+        <div class="block col-xs-12 col-sm-4" style="background-color: {{ site.groene_accent_kleur }}">
+            <div class="inner">
+                <img src="/assets/img/generic-icons/network.png">
+                <h3>
+                    Verstaan
+                </h3>
+                <p>
+                    Stukje tekst.
+                </p>
+            </div>
+
+        </div>
+        <div class="block col-xs-12 col-sm-4" style="background-color: {{ site.oranje_accent_kleur }}">
+            <div class="inner">
+                <img src="/assets/img/generic-icons/support.png">
+                <h3>
+                    Samenwerken
+                </h3>
+                <p>
+                    Bijvoorbeeld: Gezamenlijk veranderingen in gang zetten die nodig
+                    zijn
+                    voor een duurzame toekomst voor mens, milieu en economie.
+                </p>
+            </div>
+        </div>
+        <div class="block col-xs-12 col-sm-4" style="background-color: {{ site.blauwe_accent_kleur }}">
+            <div class="inner">
+                <img src="/assets/img/generic-icons/team.png">
+                <h3>
+                    Samen duurzamer
+                </h3>
+                <p>
+                    Stukje tekst
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+<section class="container-fluid text-center" id="over-home-section">
+    <h2>Over</h2>
+
+    <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of
+        the day, going forward, a new normal that has evolved from generation X is on the runway
+        heading towards a streamlined cloud solution. User generated content in real-time will have
+        multiple touchpoints for offshoring.</p>
+
+    <p style="padding-top: 20px; padding-bottom: 30px;">
+        <a href="/ervaring" class="btn btn-primary">Lees verder</a>
+    </p>
+</section>
+<div id="home-page-carousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <figure style="background-image:url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg')"
+                alt="Voorbeeld 1">
+                <figcaption>
+                    <h2>Kopje 1</h2>
+                    <p>Stukje text 1</p>
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="item">
+            <figure style="background-image:url('/assets/img/generic-images/agriculture-animal-close-up-1007809.jpg')"
+                alt="Voorbeeld 2">
+                <figcaption>
+                    <h2>Kopje 2</h2>
+                    <p>Stukje text 2</p>
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="item">
+            <figure style="background-image:url('/assets/img/generic-images/agriculture-barn-clouds-462136.jpg')" alt="Voorbeeld 3">
+                <figcaption>
+                    <h2>Kopje 3</h2>
+                    <p>Stukje text 3</p>
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="item">
+            <figure style="background-image:url('/assets/img/generic-images/agriculture-bridge-clouds-1368231.jpg')"
+                alt="Voorbeeld 4">
+                <figcaption>
+                    <h2>Kopje 4</h2>
+                    <p>Stukje text 4</p>
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="item">
+            <figure style="background-image:url('/assets/img/generic-images/agriculture-country-countryside-810893.jpg')"
+                alt="Voorbeeld 5">
+                <figcaption>
+                    <h2>Kopje 5</h2>
+                    <p>Stukje text 5</p>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<section class="container-fluid text-center" id="experience-home-section">
+    <h2>Ervaring</h2>
+
+    <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of
+        the day, going forward, a new normal that has evolved from generation X is on the runway
+        heading towards a streamlined cloud solution. User generated content in real-time will have
+        multiple touchpoints for offshoring.</p>
+
+    <p style="padding-top: 20px; padding-bottom: 30px;">
+        <a href="/ervaring" class="btn btn-primary">Lees verder</a>
+    </p>
+</section>
+<section id="experience-images-home-section container-fluid">
+    <div class="row">
+        <figure class="col col-xs-12 col-sm-4 experience-image-block" style="background-image: url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg')">
+            <figcaption>
+                <h3>Project 1</h3>
+                <p>Stukje Tekst</p>
+            </figcaption>
+        </figure>
+        <figure class="col col-xs-12 col-sm-4 experience-image-block" style="background-image: url('/assets/img/generic-images/agriculture-animal-close-up-1007809.jpg')">
+            <figcaption>
+                <h3>Project 2</h3>
+                <p>Stukje Tekst</p>
+            </figcaption>
+
+        </figure>
+        <figure class="col col-xs-12 col-sm-4 experience-image-block" style="background-image: url('/assets/img/generic-images/agriculture-barn-clouds-462136.jpg')">
+            <figcaption>
+                <h3>Project 3</h3>
+                <p>Stukje Tekst</p>
+            </figcaption>
+        </figure>
+    </div>
+</section>

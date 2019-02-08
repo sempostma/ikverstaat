@@ -1,0 +1,158 @@
+#sideNav {
+    border: none;
+    .navbar-nav .nav-item .nav-link {
+        font-weight: 800;
+        letter-spacing: 0.05rem;
+        text-transform: uppercase;
+    }
+    .navbar-toggler {
+        &:focus {
+            outline-color: lighten($primary, 15%);
+        }
+    }
+    .navbar-brand {
+        padding: 5px;
+        .img-profile {
+            height: 40px;
+        }
+    }
+    .navbar-collapse {
+        .navbar-nav {
+            padding-right: 20px;
+            .nav-item {
+                .nav-link {
+                    color: #9fbbc5;
+                }
+                .nav-link:hover {
+                    color: #c6d6dc;
+                }
+            }
+        }
+    }
+}
+
+@media (min-width: 992px) {
+    #sideNav {
+        text-align: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: $sidebar-base-width;
+        height: 100vh !important;
+        
+        .navbar-header {
+            float: none;
+            margin-top: 30px;
+        }
+        .navbar-brand {
+            height: auto;
+            float: none;
+            display: block;
+            .img-profile {
+                margin: auto;
+                width: 150px;
+                height: 150px;
+                border: 0.5rem solid fade-out($white, 0.8);
+            }
+        }
+        .navbar-collapse {
+            width: 100%;
+            .navbar-nav {
+                float: none !important;
+                clear: both;
+                width: auto;
+                margin-right: 0 !important;
+                padding-right: 0;
+                .nav-item {
+                    display: block;
+                    float: none !important;
+                    .nav-link {
+                        padding-bottom: 3px;
+                        display: block;
+                    }
+                }
+                .divider {
+                    margin-top: 100px;
+                    float: none !important;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 991.9px) and (min-width: 768px) {
+    #sideNav {
+        height: 150px;
+        .navbar-header {
+            height: 100%;
+        }
+        .navbar-brand {
+            height: 100%;
+            .img-profile {
+                height: 100%;
+            }
+        }
+        .navbar-collapse {
+            height: 100% !important;
+            .navbar-nav {
+                height: 100%;
+                .nav-item {
+                    height: 100%;
+                    .nav-link {
+                        height: 100%;
+                    }
+                    .nav-link::before {
+                        content: "";
+                        display: inline-block;
+                        width: 1px;
+                        height: 100%;
+                        vertical-align: middle;
+                    }
+                }
+                .nav-item:hover {
+                    background-color: #86a9b5;
+                }
+                .nav-item-icon {
+                    .icon-nav-label {
+                        display: none;
+                    }
+                    .nav-link {
+                        padding: 0;
+                        .fa {
+                            border-radius: 50%;
+                            padding: .5em;
+                            width: 2em;
+                            height: 2em;
+                            text-align: center;
+                        }
+                    }
+                }
+                .nav-item-icon:hover {
+                    background-color: transparent;
+                    .nav-link .fa {
+                        background-color: #86a9b5;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #sideNav {
+        height: auto !important;
+    }
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ddd;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ddd;
+}
+
+.navbar-default .navbar-toggle:focus .icon-bar,
+.navbar-default .navbar-toggle:hover .icon-bar {
+    background-color: $primary;
+}

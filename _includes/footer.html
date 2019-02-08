@@ -1,0 +1,65 @@
+<footer class="bg-grey">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col col-xs-6">
+                <ul>
+                    <li>
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/over">Over</a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/ervaring">Ervaring</a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/contact">Contact</a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/privacy">Privacy</a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/algemene-voorwaarden">Algemene voorwaarden</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col col-xs-6 footer-social">
+                <p>
+                    <b>Bellen</b>
+                    <br>
+                    <a title="Bellen" href="tel:{{ site.telefoon }}">{{ site.telefoon }}</a>
+                </p>
+                <p>
+                    <b>Email</b>
+                    <br>
+                    <a title="Mailen" href="mailto:{{ site.email }}">{{ site.email }}</a>
+                </p>
+
+                {% include social.html %}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-xs-12">
+                <div class="copyright">&copy; Ienze Koekkoek {{ 'now' | date: "%Y" }}
+                    Alle rechten voorbehouden.</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- <noscript>
+    <div id="noscript-modal" role="dialog" aria-expanded="true">
+        <div class="modal-content">
+            <h2>Belangrijk!</h2>
+            <p class="noscript-msg">
+                Deze website gebruikt javascript.
+                <br>
+                <a href="https://www.enable-javascript.com/" target="_blank">
+                    Je kunt instructies om javascript aan te zitten, hier vinden.</a>
+            </p>
+        </div>
+    </div>
+</noscript> -->
+
+<script src="/assets/vendor/bootstrap-native.min.js"></script>
+<script src="/assets/js/main.js"></script>
