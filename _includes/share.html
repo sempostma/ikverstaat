@@ -110,7 +110,7 @@
 </a>
 {% endif %}
 {% if site.share contains 'whatsapp' or page.share contains 'whatsapp' %}
-<a class="resp-sharing-button__link" href="whatsapp://send?text={{ page.description | default: page.excerpt | default: site.description | cgi_escape }}%20{{ page.url | absolute_url | cgi_escape }}"
+<a class="resp-sharing-button__link" href="https://api.whatsapp.com/send?text={{ page.description | default: page.excerpt | default: site.description | uri_escape }}%20{{ page.url | absolute_url | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--{{ include.size | default: 'medium' }}"><span
       aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
