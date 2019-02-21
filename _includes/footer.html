@@ -1,8 +1,15 @@
-<footer class="bg-grey">
+<footer>
     <div class="container-fluid">
+        <div class="row footer-header">
+            <div class="col-xs-12">
+                <img class="img-responsive" style="margin: auto" width="200" src="/assets/img/logo-sm-white.png" alt="Klein logo">
+                <hr>                
+            </div>
+        </div>
         <div class="row">
             <div class="col col-xs-6">
                 <ul>
+                    <div class="lead">Pagina's</div>
                     <li>
                         <a class="nav-link" href="/">Home</a>
                     </li>
@@ -24,6 +31,7 @@
                 </ul>
             </div>
             <div class="col col-xs-6 footer-social">
+                <div class="lead">Contact</div>
                 <p>
                     <b>Bellen</b>
                     <br>
@@ -40,12 +48,40 @@
         </div>
         <div class="row">
             <div class="col col-xs-12">
-                <div class="copyright">&copy; Ienze Koekkoek {{ 'now' | date: "%Y" }}
+                <div class="copyright">&copy; Ienze Koekkoek - Verstaat {{ 'now' | date: "%Y" }}
                     Alle rechten voorbehouden.</div>
             </div>
         </div>
     </div>
 </footer>
+
+<div id="sharing-sidetip">
+    <span class="glyphicon glyphicon-share-alt"></span>
+    <div class="sharing-sidetip-title">
+        Delen
+    </div>
+    <div class="sharing">
+        {% include share.html %}
+    </div>
+</div>
+
+<div class="cookie-disclaimer js-cookie-disclaimer">
+
+    <div class="media media--center">
+
+        <div class="media__object media__object--right">
+            <button class="button">OK</button>
+        </div>
+
+        <div class="media__body">
+            <p>{{ site.cookie_text }}
+                <a href="/privacy">Privacy verklaring</a>.
+            </p>
+        </div>
+
+    </div>
+
+</div>
 
 <!-- <noscript>
     <div id="noscript-modal" role="dialog" aria-expanded="true">

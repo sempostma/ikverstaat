@@ -1,9 +1,14 @@
 ---
 title: Echo Sierra Studio
+image: /assets/img/logo.png
+description: Opdrachtgevers vragen mij om in een landelijk gebied  bewoners, ondernemers (zoals agrariërs), organisaties en overheden te organiseren om gezamenlijk veranderingen in gang te zetten die nodig zijn voor een duurzame toekomst voor mens, milieu en economie.
+cookie_text: Wij gebruiken cookies om ervoor te zorgen dat onze website zo soepel mogelijk draait. 
 timezone: Europe/Amsterdam
 blauwe_accent_kleur: "#3f768a"
-groene_accent_kleur: "#3b702a"
-oranje_accent_kleur: "#f7a600"
+groene_accent_kleur: "#5eab46"
+gele_accent_kleur: "#f7a61b"
+rode_accent_kleur: "#da512c"
+footer_background: "#343a40"
 dribbble_username: es_studio
 facebook_username: ES-Studio-2052606714783317
 flickr_username: es_studio
@@ -15,7 +20,19 @@ twitter_username: esstudio_site
 youtube_username: 9Wereld
 telefoon: 0612345678
 email: i.koekkoek@ikverstaat.nl
-
+share:
+- facebook
+- twitter
+- google
+- email
+- linkedin
+- whatsapp
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      share: []
 sass:
   style: compressed
   sass_dir: assets/_scss

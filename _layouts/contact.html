@@ -8,20 +8,23 @@ layout: page
         <h1>Contact</h1>
     </div>
     <div class="row">
-        <a class="col col-xs-6" title="Bellen" href="tel:0612345678">
+        <a class="col col-sm-6 col-xs-12" title="Bellen" href="tel:0612345678">
             <div class="contact-block">
                 <div class="fa fa-phone"></div>
                 Bellen
             </div>
         </a>
-        <a class="col col-xs-6" title="Mailen" href="mailto:i.koekkoek@ikverstaat.nl">
+        <a class="col col-sm-6 col-xs-12" title="Mailen" href="mailto:i.koekkoek@ikverstaat.nl">
             <div class="contact-block">
                 <div class="fa fa-envelope"></div>
                 Stuur een mailtje
             </div>
         </a>
+        <div class="col-xs-12 or-contact-us-via-social-media">
+            <p style="margin-top: 20px; color: #fff">
+                Of neem contact op via social media...
+            </p>
+            {% include social.html %}
+        </div>
     </div>
-    <p style="margin-top: 20px;">
-        Of neem contact op via social media...
-    </p>
 </div>

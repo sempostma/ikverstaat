@@ -11,9 +11,11 @@ layout: page
         <div class="subheading mb-5">{{ page.sub_titel }}
         </div>
         <p class="lead mb-5">{{ page.description }}</p>
+        {% comment %}
         <div class="social-icons">
             {% include social.html %}
         </div>
+        {% endcomment %}
         <!-- <div class="tel">
             <a title="Bellen" href="tel:{{ site.telefoon }}">
                 <div class="fa fa-phone"></div>
@@ -45,7 +47,7 @@ layout: page
             </div>
 
         </div>
-        <div class="block col-xs-12 col-sm-4" style="background-color: {{ site.oranje_accent_kleur }}">
+        <div class="block col-xs-12 col-sm-4" style="background-color: {{ site.gele_accent_kleur }}">
             <div class="inner">
                 <img src="/assets/img/generic-icons/support.png">
                 <h3>
@@ -98,11 +100,14 @@ layout: page
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item active">
-            <figure style="background-image:url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg')"
+            <figure
+                style="background-image:url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg')"
                 alt="Voorbeeld 1">
                 <figcaption>
-                    <h2>Kopje 1</h2>
-                    <p>Stukje text 1</p>
+                    <div class="inline-block">
+                        <h2>Kopje 1</h2>
+                        <p>Stukje text 1</p>
+                    </div>
                 </figcaption>
             </figure>
         </div>
@@ -111,17 +116,22 @@ layout: page
             <figure style="background-image:url('/assets/img/generic-images/agriculture-animal-close-up-1007809.jpg')"
                 alt="Voorbeeld 2">
                 <figcaption>
-                    <h2>Kopje 2</h2>
-                    <p>Stukje text 2</p>
+                    <div class="inline-block">
+                        <h2>Kopje 2</h2>
+                        <p>Stukje text 2</p>
+                    </div>
                 </figcaption>
             </figure>
         </div>
 
         <div class="item">
-            <figure style="background-image:url('/assets/img/generic-images/agriculture-barn-clouds-462136.jpg')" alt="Voorbeeld 3">
+            <figure style="background-image:url('/assets/img/generic-images/agriculture-barn-clouds-462136.jpg')"
+                alt="Voorbeeld 3">
                 <figcaption>
-                    <h2>Kopje 3</h2>
-                    <p>Stukje text 3</p>
+                    <div class="inline-block">
+                        <h2>Kopje 3</h2>
+                        <p>Stukje text 3</p>
+                    </div>
                 </figcaption>
             </figure>
         </div>
@@ -130,18 +140,23 @@ layout: page
             <figure style="background-image:url('/assets/img/generic-images/agriculture-bridge-clouds-1368231.jpg')"
                 alt="Voorbeeld 4">
                 <figcaption>
-                    <h2>Kopje 4</h2>
-                    <p>Stukje text 4</p>
+                    <div class="inline-block">
+                        <h2>Kopje 4</h2>
+                        <p>Stukje text 4</p>
+                    </div>
                 </figcaption>
             </figure>
         </div>
 
         <div class="item">
-            <figure style="background-image:url('/assets/img/generic-images/agriculture-country-countryside-810893.jpg')"
+            <figure
+                style="background-image:url('/assets/img/generic-images/agriculture-country-countryside-810893.jpg')"
                 alt="Voorbeeld 5">
                 <figcaption>
-                    <h2>Kopje 5</h2>
-                    <p>Stukje text 5</p>
+                    <div class="inline-block">
+                        <h2>Kopje 5</h2>
+                        <p>Stukje text 5</p>
+                    </div>
                 </figcaption>
             </figure>
         </div>
@@ -170,25 +185,38 @@ layout: page
     </p>
 </section>
 <section id="experience-images-home-section container-fluid">
-    <div class="row">
-        <figure class="col col-xs-12 col-sm-4 experience-image-block" style="background-image: url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg')">
-            <figcaption>
-                <h3>Project 1</h3>
-                <p>Stukje Tekst</p>
-            </figcaption>
-        </figure>
-        <figure class="col col-xs-12 col-sm-4 experience-image-block" style="background-image: url('/assets/img/generic-images/agriculture-animal-close-up-1007809.jpg')">
-            <figcaption>
-                <h3>Project 2</h3>
-                <p>Stukje Tekst</p>
-            </figcaption>
+    <div class="row nopadding nomargin">
+        <div class="col col-xs-12 col-sm-4 nopadding">
+            <figure class="experience-image-block">
+                <div style="background-image: url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg')"
+                    class="bg-image fit-abs"></div>
+                <figcaption>
+                    <h3>Project 1</h3>
+                    <p>Stukje Tekst</p>
+                </figcaption>
+            </figure>
+        </div>
 
-        </figure>
-        <figure class="col col-xs-12 col-sm-4 experience-image-block" style="background-image: url('/assets/img/generic-images/agriculture-barn-clouds-462136.jpg')">
-            <figcaption>
-                <h3>Project 3</h3>
-                <p>Stukje Tekst</p>
-            </figcaption>
-        </figure>
+        <div class="col col-xs-12 col-sm-4 nopadding">
+            <figure class="experience-image-block">
+                <div style="background-image: url('/assets/img/generic-images/agriculture-animal-close-up-1007809.jpg')"
+                    class="bg-image fit-abs"></div>
+                <figcaption>
+                    <h3>Project 2</h3>
+                    <p>Stukje Tekst</p>
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="col col-xs-12 col-sm-4 nopadding">
+            <figure class="experience-image-block">
+                <div style="background-image: url('/assets/img/generic-images/agriculture-barn-clouds-462136.jpg')"
+                    class="bg-image fit-abs"></div>
+                <figcaption>
+                    <h3>Project 3</h3>
+                    <p>Stukje Tekst</p>
+                </figcaption>
+            </figure>
+        </div>
     </div>
 </section>

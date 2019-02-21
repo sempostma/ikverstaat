@@ -1,0 +1,57 @@
+#sharing-sidetip {
+    position: fixed;
+    top: 20%;
+    right: -122px;
+    background-color: $primary;
+    padding-left: 30px;
+    color: #9fbbc5;
+    transition: right 300ms ease;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    .glyphicon {
+        font-size: 16px;
+        position: absolute;
+        left: 7px;
+        top: 9px;
+    }
+    .sharing-sidetip-title {
+        position: absolute;
+        left: -11px;
+        transform: rotate(90deg);
+        top: 47px;
+        font-size: 16px;
+        margin: 0;
+        text-transform: uppercase;
+    }
+    .sharing {
+        width: 122px;
+        padding: 5px;
+    }
+    &:hover,
+    &:focus {
+        right: 0;
+    }
+}
+
+.resp-sharing-button span {
+    vertical-align: middle;
+}
+
+.resp-sharing-button__icon svg {
+    width: 20px;
+    fill: #fff;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.resp-sharing-button__link {
+    display: block;
+    color: #9fbbc5;
+    &:hover {
+        color: #c6d6dc;
+        text-decoration: none;
+    }
+}

@@ -29,7 +29,7 @@ $cyan:    #17a2b8 !default;
 
 $primary:       {{site.blauwe_accent_kleur}} !default;
 $secondary:     {{site.groene_accent_kleur}} !default;
-$tertiary:      {{site.groene_accent_kleur}} !default;
+$tertiary:      {{site.gele_accent_kleur}} !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
@@ -37,12 +37,16 @@ $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
 
+$footer_bg:     {{site.footer_background}} !default;
+
 // Page Variables
 
 $sidebar-base-width: 220px;
 
 @import "mixins.scss";
 @import "global.scss";
+@import "cookies.scss";
+@import "resp-sharing.scss";
 @import "nav.scss";
 @import "social.scss";
 @import "resume-item.scss";

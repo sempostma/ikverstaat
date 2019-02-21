@@ -12,8 +12,19 @@
     if (diagonalMessage) diagonalMessage.style.top = Math.max(50, 150 - window.scrollY) + 42 + 'px';
   }
 
-  var msnry = new Masonry('.grid', {
-    itemSelector: '.grid-item',
-    columnWidth: 200
+  // var msnry = new Masonry('.grid', {
+  //   itemSelector: '.grid-item',
+  //   columnWidth: 200
+  // });
+
+  const $$cookieDisclaimer = document.querySelector('.js-cookie-disclaimer');
+
+  if (!localStorage.getItem('cookieDisclaimer')) {
+    $$cookieDisclaimer.classList.add('is-active');
+  }
+
+  $$cookieDisclaimer.querySelector('button').addEventListener('click', () => {
+    localStorage.setItem('cookieDisclaimer', true);
+    $$cookieDisclaimer.classList.remove('is-active');
   });
 })();
