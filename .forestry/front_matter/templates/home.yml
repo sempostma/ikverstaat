@@ -92,6 +92,7 @@ fields:
   description: De items voor de dia presentatie.
   config:
     min: '2'
+    labelField: title
   fields:
   - type: text
     name: title
@@ -113,5 +114,27 @@ fields:
     hidden: false
     config:
       maxSize: '50'
+- type: field_group_list
+  label: De 3 projecten op de homepagina
+  name: projecten
+  description: De 3 projecten op de homepagina.
+  config:
+    min: '3'
+    max: '3'
+  fields:
+  - type: text
+    name: title
+    label: Titel
+    description: De titel van het project.
+    config:
+      required: true
+  - type: text
+    label: beschrijving
+    name: description
+    description: Een beschrijving van het project.
+  - type: file
+    name: image
+    label: Achtergrond foto
+    description: De achtergrond foto voor dit item. Een foto van het project.
 pages:
 - index.md
