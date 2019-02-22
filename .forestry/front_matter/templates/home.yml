@@ -31,23 +31,6 @@ fields:
   description: Het stukje tekst onder de titel op home pagina.
   config:
     required: true
-- type: field_group_list
-  config:
-    min: '3'
-    max: '3'
-    labelField: title
-  label: colored_blocks
-  name: colored_blocks
-  fields:
-  - type: text
-    label: title
-    name: title
-  - type: text
-    name: description
-    label: description
-  - type: file
-    name: icon
-    label: icon
 - type: text
   name: permalink
   label: permalink
@@ -56,5 +39,14 @@ fields:
   name: layout
   label: layout
   hidden: true
+- type: field_group
+  name: ''
+  label: ''
+- type: list
+  config:
+    min: '3'
+    max: '3'
+  label: colored_blocks
+  name: colored_blocks
 pages:
 - index.md
