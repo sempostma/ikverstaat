@@ -86,5 +86,31 @@ fields:
     schema:
       format: markdown
   default: ''
+- type: field_group_list
+  name: slideshow
+  label: Dia presentatie items
+  description: De items voor de dia presentatie.
+  config:
+    min: '2'
+  fields:
+  - type: text
+    name: title
+    label: Titel
+    description: De titel van de dia
+    config:
+      required: true
+  - type: text
+    name: description
+    label: Tekst
+    description: Het stukje tekst onder de titel
+    config:
+      required: true
+  - type: text
+  - type: file
+    name: image
+    label: Achtergrond foto
+    description: De achtergrond foto voor de dia. Dit moet een grote afbeelding zijn,
+      het liefst meer dan 1920 bij 1080.
+    hidden: true
 pages:
 - index.md
