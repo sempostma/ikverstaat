@@ -3,6 +3,7 @@ layout: default
 title: ESStudio Terms of Service
 permalink: "/algemene-voorwaarden"
 description: ESStudio Terms of Service (ToS) page.
+image: ''
 
 ---
 ESStudio Terms of Service
