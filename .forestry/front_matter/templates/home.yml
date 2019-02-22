@@ -50,6 +50,8 @@ fields:
   - type: text
     name: title
     label: Titel
+    config:
+      required: true
   - type: textarea
     name: description
     label: Stukje tekst
