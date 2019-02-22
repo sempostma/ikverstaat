@@ -1,0 +1,35 @@
+---
+label: Over
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  description: De titel van deze pagina. Is ook zichtbaar op google en wanneer mensen
+    links van ikverstaat.nl posten op facebook of whatsapp bijvoorbeeld.
+  label: Titel
+  config:
+    required: true
+- type: textarea
+  label: Beschrijving
+  name: description
+  description: De beschrijving van de pagina. Is ook zichtbaar op google en wanneer
+    mensen links posten naar de website.
+  config:
+    required: true
+- type: file
+  name: image
+  label: Afbeelding
+  description: Optioneel. Soms zet google deze foto jouw website bij zoekresultaten.
+    Een icon van deze foto kun je ook zien als je een link naar deze pagina op whatsapp
+    plaatst bijvoorbeeld.
+  config:
+    maxSize: '10'
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
+- type: text
+  name: layout
+  label: layout
+  hidden: true
