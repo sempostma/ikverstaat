@@ -3,7 +3,7 @@ title: Over
 permalink: "/over"
 layout: over
 description: Een korte uitleg, zichtbaar op de website en op google.
-image: ''
+image: "/uploads/cold-december-environment-760971.jpg"
 cta: Bekijk ook mijn ervaring.
 me: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare dui in lectus
   mollis bibendum. Nunc interdum fermentum porta. Mauris mollis commodo libero sed
