@@ -46,6 +46,9 @@ fields:
   config:
     min: '3'
     max: '3'
+    use_select: true
+    source:
+      type: documents
   default:
   - ''
   - ''
