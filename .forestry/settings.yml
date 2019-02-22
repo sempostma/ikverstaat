@@ -7,7 +7,6 @@ sections:
 - type: document
   path: over.md
   label: Over
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
