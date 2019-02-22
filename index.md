@@ -16,5 +16,23 @@ colored_blocks:
 - title: Samen Duurzamer
   description: Stukje tekst.
   icon: "/uploads/team.png"
+over: Bring to the table win-win survival strategies to ensure proactive domination.
+  At the end of the day, going forward, a new normal that has evolved from generation
+  X is on the runway heading towards a streamlined cloud solution. User generated
+  content in real-time will have multiple touchpoints for offshoring.
+ervaring: Bring to the table win-win survival strategies to ensure proactive domination.
+  At the end of the day, going forward, a new normal that has evolved from generation
+  X is on the runway heading towards a streamlined cloud solution. User generated
+  content in real-time will have multiple touchpoints for offshoring.
+slideshow:
+- title: Kopje 1
+  description: Stukje tekst 1
+  image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
+- title: Kopje 2
+  description: Stukje tekst 2
+  image: "/uploads/agriculture-animal-close-up-1007809.jpg"
+- title: Kopje 3
+  description: Stukje tekst 3
+  image: "/uploads/agriculture-barn-clouds-462136.jpg"
 
 ---
