@@ -31,17 +31,6 @@ fields:
   description: Het stukje tekst onder de titel op home pagina.
   config:
     required: true
-- type: text
-  name: permalink
-  label: permalink
-  hidden: true
-- type: text
-  name: layout
-  label: layout
-  hidden: true
-- type: include
-  name: ''
-  label: ''
 - type: field_group_list
   config:
     min: '3'
@@ -59,5 +48,13 @@ fields:
   - type: file
     name: icon
     label: icon
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
+- type: text
+  name: layout
+  label: layout
+  hidden: true
 pages:
 - index.md
