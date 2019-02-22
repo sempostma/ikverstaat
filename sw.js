@@ -94,6 +94,7 @@ self.addEventListener('install', function (event) {
                     "https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i",
                     "https://fonts.gstatic.com/s/sairaextracondensed/v4/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrU23h2wph.woff2",
                     "https://fonts.gstatic.com/s/muli/v12/7Auwp_0qiz-afTLGLQ.woff2",
+                    "https://cdn.polyfill.io/v2/polyfill.min.js"
 
                 ]
             );
