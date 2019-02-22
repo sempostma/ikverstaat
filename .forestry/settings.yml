@@ -5,6 +5,10 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
+  path: ervaring.md
+  label: Ervaring
+  match: "**/*"
+- type: document
   path: privacy-policy.md
   label: Privacy statement
 - type: document
