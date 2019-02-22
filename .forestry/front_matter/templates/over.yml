@@ -33,5 +33,31 @@ fields:
   name: layout
   label: layout
   hidden: true
+- type: text
+  label: Actie knop
+  name: cta
+  description: De call to action knop.
+- type: text
+  name: me
+  label: Een stukje over jezelf
+  config:
+    required: true
+- type: field_group_list
+  config:
+    min: '0'
+  label: Persoonlijke eigenschappen
+  name: eigenschappen
+  description: Gegevens en eigenschappen
+  fields:
+  - type: text
+    name: key
+    label: Eerste kolom
+    config:
+      required: true
+  - type: text
+    name: value
+    label: Tweede kolom
+    config:
+      required: true
 pages:
 - over.md
