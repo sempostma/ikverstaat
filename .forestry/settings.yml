@@ -5,6 +5,10 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
+  path: projecten.md
+  label: Projecten
+  match: "**/*"
+- type: document
   path: over.md
   label: Over
   match: "**/*"
