@@ -46,6 +46,7 @@ fields:
   config:
     min: '3'
     max: '3'
+    labelField: title
   label: colored_blocks
   name: colored_blocks
   fields:
