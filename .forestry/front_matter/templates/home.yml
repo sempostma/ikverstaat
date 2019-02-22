@@ -39,5 +39,16 @@ fields:
   name: layout
   label: layout
   hidden: true
+- type: list
+  name: colored_blocks
+  label: Gekleurde blokken
+  description: De 3 blokken op de homepage.
+  config:
+    min: '3'
+    max: '3'
+  default:
+  - ''
+  - ''
+  - ''
 pages:
 - index.md
