@@ -5,15 +5,12 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
+  path: index.md
+  label: Home
+  match: "**/*"
+- type: document
   path: over.md
   label: Over
-- type: jekyll-posts
-  label: Posts
-  create: all
-- type: jekyll-pages
-  label: Pages
-  create: documents
-  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
