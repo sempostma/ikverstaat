@@ -1,8 +1,7 @@
 ---
 title: Contact
-permalink: /contact
+permalink: "/contact"
 layout: contact
 description: Een korte uitleg, zichtbaar op de website en op google.
+
 ---
-
-
