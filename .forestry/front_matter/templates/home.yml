@@ -26,6 +26,12 @@ fields:
   config:
     maxSize: '10'
 - type: text
+  name: sub_titel
+  label: Subtitel
+  description: Het stukje tekst onder de titel op home pagina.
+  config:
+    required: true
+- type: text
   name: permalink
   label: permalink
   hidden: true
