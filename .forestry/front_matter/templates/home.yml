@@ -39,9 +39,6 @@ fields:
   name: layout
   label: layout
   hidden: true
-- type: field_group
-  name: ''
-  label: ''
 - type: list
   config:
     min: '3'
