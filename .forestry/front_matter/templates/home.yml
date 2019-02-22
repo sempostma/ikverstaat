@@ -105,12 +105,13 @@ fields:
     description: Het stukje tekst onder de titel
     config:
       required: true
-  - type: text
   - type: file
     name: image
     label: Achtergrond foto
     description: De achtergrond foto voor de dia. Dit moet een grote afbeelding zijn,
       het liefst meer dan 1920 bij 1080.
-    hidden: true
+    hidden: false
+    config:
+      maxSize: '50'
 pages:
 - index.md
