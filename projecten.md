@@ -1,8 +1,9 @@
 ---
 title: Projecten
-permalink: /projecten
+permalink: "/projecten"
 layout: projecten
 description: Een korte uitleg, zichtbaar op de website en op google.
+
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non rhoncus lacus. Morbi non turpis ac felis
 feugiat laoreet vel at mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
