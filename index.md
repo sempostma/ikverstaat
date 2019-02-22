@@ -40,5 +40,15 @@ slideshow:
 - title: Kopje 3
   description: Stukje tekst 3
   image: "/uploads/agriculture-barn-clouds-462136.jpg"
+projecten:
+- title: Project 1
+  description: Stukje tekst.
+  image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
+- title: Project 2
+  description: Stukje tekst.
+  image: "/uploads/agriculture-animal-close-up-1007809.jpg"
+- title: Project 3
+  description: Stukje tekst.
+  image: "/uploads/agriculture-barn-clouds-462136.jpg"
 
 ---
