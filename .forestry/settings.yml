@@ -7,15 +7,12 @@ sections:
 - type: document
   path: projecten.md
   label: Projecten
-  match: "**/*"
 - type: document
   path: over.md
   label: Over
-  match: "**/*"
 - type: document
   path: contact.md
   label: Contact
-  match: "**/*"
 - type: document
   path: index.md
   label: Home
