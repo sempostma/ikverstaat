@@ -37,11 +37,6 @@ fields:
   label: Actie knop
   name: cta
   description: De call to action knop.
-- type: text
-  name: me
-  label: Een stukje over jezelf
-  config:
-    required: true
 - type: field_group_list
   config:
     min: '0'
@@ -59,5 +54,13 @@ fields:
     label: Tweede kolom
     config:
       required: true
+- type: textarea
+  name: me
+  label: Een stukje over jezelf
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - over.md
