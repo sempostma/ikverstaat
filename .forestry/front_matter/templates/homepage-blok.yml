@@ -2,4 +2,22 @@
 label: Homepage blok
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: title
+  description: De titel van het blok.
+  config:
+    required: true
+- type: text
+  name: description
+  label: Beschrijving
+  description: De beschrijving ban het blok.
+  config:
+    required: true
+- type: file
+  name: image
+  label: Illustration
+  description: De kleine illustratie afbeelding.
+  config:
+    maxSize: '10'
