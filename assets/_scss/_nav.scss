@@ -24,7 +24,8 @@
                 .nav-link {
                     color: #9fbbc5;
                 }
-                .nav-link:hover {
+                .nav-link:hover,
+                .nav-link.active {
                     color: #c6d6dc;
                 }
             }
@@ -40,7 +41,7 @@
         left: 0;
         width: $sidebar-base-width;
         height: 100vh !important;
-        padding-top: calc(100vh - 775px);
+        
         .navbar-header {
             float: none;
             margin-top: 0;
@@ -87,6 +88,7 @@
 
 @media screen and (max-width: 991.9px) and (min-width: 768px) {
     #sideNav {
+        padding-top: 0;
         height: 150px;
         .navbar-header {
             height: 100%;
@@ -145,6 +147,7 @@
 
 @media screen and (max-width: 768px) {
     #sideNav {
+        padding-top: 0;
         height: auto !important;
         span.icon-nav-label {
             display: none;

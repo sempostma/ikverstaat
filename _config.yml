@@ -1,5 +1,6 @@
 ---
-title: Echo Sierra Studio
+title: Ienze Koekkoek - Verstaat
+short_title: ikverstaat
 image: /assets/img/logo.png
 description: Opdrachtgevers vragen mij om in een landelijk gebied  bewoners, ondernemers (zoals agrariërs), organisaties en overheden te organiseren om gezamenlijk veranderingen in gang te zetten die nodig zijn voor een duurzame toekomst voor mens, milieu en economie.
 cookie_text: Wij gebruiken cookies om ervoor te zorgen dat onze website zo soepel mogelijk draait. 
@@ -23,10 +24,10 @@ email: i.koekkoek@ikverstaat.nl
 share:
 - facebook
 - twitter
-- google
 - email
 - linkedin
 - whatsapp
+lang: nl
 defaults:
   -
     scope:

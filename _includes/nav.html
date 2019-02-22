@@ -1,4 +1,4 @@
-<nav id="sideNav" class="navbar navbar-default bg-primary navbar-fixed-top">
+<nav id="sideNav" class="padding-top-special navbar navbar-default bg-primary navbar-fixed-top">
     
     <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
@@ -15,18 +15,11 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
+            {% for item in site.data.menu %}
             <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/over">Over</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/ervaring">Ervaring</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/contact">Contact</a>
-            </li>
+                <a class="nav-link{% if page.permalink == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+            </li>  
+            {% endfor %}
             <li class="divider" role="presentation"></li>
             <li class="nav-item nav-item-icon">
                 <a class="nav-link" title="Bellen" href="tel:{{ site.telefoon }}">

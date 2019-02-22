@@ -1,16 +1,6 @@
----
----
-
 {
-    "default_locale": "{{ site.lang | default: "en" }}",
-    "short_name": "{{ site.short_title }}",
-    "description": "{{ site.description }}",
-    "start_url": "./",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "{{ site.blauwe_accent_kleur }}",
-    "name": "{{ site.title }}",
-    "scope": "/",
+    "name": "ikverstaat",
+    "short_name": "ikverstaat",
     "icons": [
         {
             "src": "/assets/img/meta-icons/android-chrome-36x36.png",
@@ -38,11 +28,6 @@
             "type": "image/png"
         },
         {
-            "src": "/assets/img/meta-icons/android-chrome-168x168.png",
-            "sizes": "168x168",
-            "type": "image/png"
-        },
-        {
             "src": "/assets/img/meta-icons/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
@@ -62,5 +47,8 @@
             "sizes": "512x512",
             "type": "image/png"
         }
-    ]
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
 }

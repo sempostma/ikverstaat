@@ -3,13 +3,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="Content-Security-Policy" content="worker-src 'self' http: https: ;">
+  <meta name="keywords" content="Polyism Studio Sem Postma Echo Sierra Studio Web Software Code Programming Hub">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="{{ site.blauwe_accent_kleur }}">
 
   {% seo %}
 
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ff8201">
-  <meta name="msapplication-TileColor" content="#ff8201">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="{{ site.blauwe_accent_kleur }}">
+  <meta name="msapplication-config" content="/browserconfig.xml" />
+  <meta name="msapplication-TileColor" content="{{ site.blauwe_accent_kleur }}">
   <meta name="msapplication-TileImage" content="/assets/img/meta-icons/ms-icon-144x144.png">
-
+  
+  <link rel="image_src" href="{{ page.image | default: site.image | absolute_url }}" />
   <link rel="apple-touch-icon" href="/assets/img/meta-icons/apple-touch-icon.png">
   <link rel="apple-touch-icon-precomposed" href="/assets/img/meta-icons/apple-touch-icon-precomposed.png">
   <link size="76x76" rel="apple-touch-icon" href="/assets/img/meta-icons/apple-touch-icon-76x76.png">
@@ -33,16 +38,36 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/meta-icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/meta-icons/android-chrome-192x192.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/meta-icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/img/meta-icons/safari-pinned-tab.svg" color="{{ site.blauwe_accent_kleur }}">
   <link rel="shortcut icon" href="/assets/img/meta-icons/favicon.ico">
 
   <link rel="manifest" href="/manifest.json">
 
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" as="style">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" as="style">
+  <link rel="preload" href="/assets/vendor/bootstrap/css/bootstrap.min.css" as="style">
+  <link rel="preload" href="/assets/vendor/fontawesome/css/font-awesome.min.css" as="style">
+  <link rel="preload" href="/assets/css/style.css" as="style">
+  <link rel="preload" href="/assets/vendor/aos/aos.css" as="style">
+  
+  <link rel="preload" href="https://fonts.gstatic.com/s/muli/v12/7Au_p_0qiz-adZXgOCX2zw.woff2" as="font">
+  <link rel="preload" href="https://fonts.gstatic.com/s/sairaextracondensed/v4/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrU23h2wph.woff2" as="font">
+
+  <link rel="preload" href="/assets/vendor/bootstrap-native.min.js" as="script">
+  <link rel="preload" href="/assets/vendor/aos/aos.js" as="script">
+  <link rel="preload" href="/assets/js/main.js" as="script">
+
   <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
-
   <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="/assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="/assets/css/style.css" rel="stylesheet">
+  <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <link rel="prefetch" href="/">
+  <link rel="prefetch" href="/contact">
+  <link rel="prefetch" href="/ervaring">
+  <link rel="prefetch" href="/over">
 
   {% feed_meta %}
   {% if jekyll.environment == 'production' and site.google_analytics %}

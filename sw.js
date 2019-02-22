@@ -1,8 +1,8 @@
 ---
 ---
 
-var DYNAMIC_CACHE = 'esstudio-dynamic-cache-{{ site.time | date: "%s" }}';
-var STATIC_CACHE = 'esstudio-static-cache-{{ site.time | date: "%s" }}';
+var DYNAMIC_CACHE = 'ikverstaat-dynamic-cache-{{ site.time | date: "%s" }}';
+var STATIC_CACHE = 'ikverstaat-static-cache-{{ site.time | date: "%s" }}';
 
 // listen for outgoing network request
 self.addEventListener('fetch', function (event) {
@@ -55,18 +55,46 @@ self.addEventListener('install', function (event) {
         caches.open(STATIC_CACHE).then(function (cache) {
             return cache.addAll(
                 [
-                    "{{ "/" | absolute_url }}",
-                    "{{ "/assets/css/main.css" | absolute_url }}",
-                    "{{ "/assets/css/critical.css" | absolute_url }}",
-                    "{{ "/assets/img/logo.png" | absolute_url }}",
-                    "https://cdn.polyfill.io/v2/polyfill.min.js",
-                    "{{ "/assets/js/main.js" | absolute_url }}",
-                    "{{ "/assets/minima-social-icons.svg" | absolute_url }}",
-                    "{{ "/assets/img/home-images/portfolio.jpg" | absolute_url }}",
-                    "{{ "/uploads/my_logo_512.png" | absolute_url }}",
-                    "{{ "/about/" | absolute_url }}",
-                    "{{ "/blog/" | absolute_url }}",
-                    "{{ "/contact/" | absolute_url }}"
+                    {% for page in site.pages %}
+                    "{{ page.url }}",{% endfor %}
+                    "/assets/img/generic-icons/network.png",
+                    "/assets/img/generic-icons/support.png",
+                    "/assets/img/generic-icons/team.png",
+                    // "/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg",
+                    // "/assets/img/generic-images/agriculture-animal-close-up-1007809.jpg",
+                    // "/assets/img/generic-images/agriculture-barn-clouds-462136.jpg",
+                    // "/assets/img/generic-images/agriculture-bridge-clouds-1368231.jpg",
+                    // "/assets/img/generic-images/agriculture-country-countryside-810893.jpg",
+                    // "/assets/img/generic-images/architecture-backyard-boating-534171.jpg",
+                    // "/assets/img/generic-images/bridge-cold-daytime-1559117.jpg",
+                    // "/assets/img/generic-images/cold-december-environment-760971.jpg",
+                    // "/assets/img/generic-images/dutch-farmland-green-141978.jpg",
+                    "/assets/img/logo-sm-black.jpg",
+                    "/assets/img/logo-sm-black.png",
+                    "/assets/img/logo-sm-white.jpg",
+                    "/assets/img/logo-sm-white.png",
+                    "/assets/img/logo.png",
+                    "/assets/img/profile.jpg",
+                    "/assets/js/main.js",
+                    "/assets/minima-social-icons.svg",
+                    "/assets/vendor/aos/aos.css",
+                    "/assets/vendor/aos/aos.js",
+                    "/assets/vendor/bootstrap-native.min.js",
+                    "/assets/vendor/bootstrap/css/bootstrap-theme.min.css",
+                    "/assets/vendor/bootstrap/css/bootstrap.min.css",
+                    "/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2",
+                    "/assets/vendor/bootstrap/js/bootstrap.min.js",
+                    "/assets/vendor/fontawesome/css/font-awesome.min.css",
+                    "/assets/vendor/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+                    "/assets/vendor/masonry.pkgd.min.js",
+                    "/favicon.ico",
+
+                    // external
+                    "https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700",
+                    "https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i",
+                    "https://fonts.gstatic.com/s/sairaextracondensed/v4/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrU23h2wph.woff2",
+                    "https://fonts.gstatic.com/s/muli/v12/7Auwp_0qiz-afTLGLQ.woff2",
+
                 ]
             );
         })

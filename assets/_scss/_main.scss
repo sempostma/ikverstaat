@@ -1,3 +1,10 @@
+.padding-top-special {
+    padding-top: calc(100vh - 775px);
+    @media screen and (min-width: 1600px) {
+        padding-top: 250px;
+    }
+}
+
 html {
     font-size: 1em;
     overflow-x: hidden;
@@ -177,12 +184,13 @@ html {
     }
     min-height: calc(100vh - 350px);
     background: #fff;
-    background: linear-gradient(rgba(#fff, .85), rgba(#fff, .85)),
+    background: linear-gradient(rgba(#fff, .6), rgba(#fff, .6)),
     url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg');
     background-size: cover;
-    .w-100 {
-        padding-top: calc(100vh - 775px);
-    }
+}
+
+.w-100 {
+    width: 100%;
 }
 
 #diagonal-message {
@@ -252,9 +260,9 @@ p::selection {
         position: absolute;
         background-size: cover;
         transition: all 300ms ease;
-        &:hover {
-            transform: scale(1.1);
-        }
+    }
+    &:hover .bg-image {
+        transform: scale(1.1);
     }
     h3 {
         color: #fff;
@@ -306,7 +314,6 @@ footer {
         background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-xxl.jpg');
         padding-top: 15px;
         padding-bottom: 15px;
-
         @media screen and (max-width: 3000px) {
             background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-xl.jpg');
         }
@@ -316,7 +323,6 @@ footer {
         @media screen and (max-width: 1300px) {
             background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-md.jpg');
         }
-
         background-attachment: fixed;
         background-position: center center;
     }
@@ -334,7 +340,6 @@ footer {
             &:hover {
                 transform: scale(1.1);
             }
-
             @media screen and (max-width: 768px) {
                 padding: 100px 0;
             }
@@ -343,10 +348,6 @@ footer {
     a.col {
         text-decoration: none;
     }
-}
-
-.sub-page {
-    padding: 50px 30px;
 }
 
 .nopadding {
@@ -368,3 +369,52 @@ footer {
     }
 }
 
+.btn {
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.btn-white {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    transition: all 200ms ease;
+    &:hover {
+        color: #fff;
+        background-color: $secondary;
+        border-color: $secondary;
+    }
+}
+
+.container {
+    max-width: 100%;
+}
+
+.over-top-content {
+    background: $secondary;
+    padding: 50px 0;
+    margin-bottom: 50px;
+    min-height: 425px;
+}
+
+.over-panel {
+    border: none;
+    box-shadow: 0 0 14px rgba(0, 0, 0, 0.5);
+    margin-bottom: 0;
+    overflow: hidden;
+    img {
+        display: block;
+        max-height: 140px;
+        margin: 10px auto;
+        border-radius: 70px;
+    }
+}
+
+.over-header-image {
+    background-size: cover;
+    padding-bottom: 100px;
+}
