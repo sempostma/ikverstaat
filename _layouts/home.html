@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-{{ content }}
-
 <section class="container-fluid" id="intro">
     <div class="container padding-top-special">
         <h1 class="mb-0">Ienze Koekkoek
@@ -35,58 +33,27 @@ layout: page
 </div>
 <section class="blocks container-fluid" id="blocks">
     <div class="row">
-        <div class="block col-xs-12 col-sm-4" style="background-color: {{ site.groene_accent_kleur }}">
+        {% for block in page.colored_blocks %}
+        <div class="block col-xs-12 col-sm-4" style="background-color: {{ block.color }}">
             <div class="inner">
                 <div data-aos="fade-up">
-                    <img src="/assets/img/generic-icons/network.png" alt="Illustratie werkwijze nummer één.">
+                    <img src="{{ block.icon }}" alt="Illustratie werkwijze nummer {{ forloop.index }}.">
                     <h3>
-                        Verstaan
+                        {{ block.title }}
                     </h3>
                     <p>
-                        Stukje tekst.
+                        {{ block.description }}
                     </p>
                 </div>
             </div>
         </div>
-        <div class="block col-xs-12 col-sm-4" style="background-color: {{ site.gele_accent_kleur }}">
-            <div class="inner">
-                <div data-aos="fade-up">
-                    <img src="/assets/img/generic-icons/support.png" alt="Illustratie werkwijze nummer twee.">
-                    <h3>
-                        Samenwerken
-                    </h3>
-                    <p>
-                        Bijvoorbeeld: Gezamenlijk veranderingen in gang zetten die nodig
-                        zijn
-                        voor een duurzame toekomst voor mens, milieu en economie.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="block col-xs-12 col-sm-4" style="background-color: {{ site.blauwe_accent_kleur }}">
-            <div class="inner">
-                <div data-aos="fade-up">
-                    <img src="/assets/img/generic-icons/team.png" alt="Illustratie werkwijze nummer drie.">
-                    <h3>
-                        Samen duurzamer
-                    </h3>
-                    <p>
-                        Stukje tekst
-                    </p>
-                </div>
-            </div>
-        </div>
-
+        {% endfor %}
     </div>
-
 </section>
 <section class="container-fluid text-center" id="over-home-section">
     <h2>Over</h2>
 
-    <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of
-        the day, going forward, a new normal that has evolved from generation X is on the runway
-        heading towards a streamlined cloud solution. User generated content in real-time will have
-        multiple touchpoints for offshoring.</p>
+    <p>{{ page.over }}</p>
 
     <p style="padding-top: 20px; padding-bottom: 30px;">
         <a href="/ervaring" class="btn btn-primary" data-aos="fade-left">Lees verder</a>
@@ -95,27 +62,28 @@ layout: page
 <div id="home-page-carousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
-        <li data-target="#myCarousel" data-slide-to="4"></li>
+        {% for slide in page.slideshow %}
+        <li data-target="#myCarousel" data-slide-to="{{ forloop.index | minus: 1 }}" {% if forloop.index == 1 %}class="active"{% endif %}></li>
+        {% endfor %}
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        <div class="item active">
+        {% for slide in page.slideshow %}
+        <div class="item{% if forloop.index == 1 %} active{% endif %}">
             <figure
-                style="background-image:url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg')"
-                alt="Voorbeeld 1">
+                style="background-image:url('{{ slide.image }}')"
+                alt="{{ slide.description }}">
                 <figcaption>
                     <div class="inline-block">
-                        <h2>Kopje 1</h2>
-                        <p>Stukje text 1</p>
+                        <h2>{{ slide.title }}</h2>
+                        <p>{{ slide.description }}</p>
                     </div>
                 </figcaption>
             </figure>
         </div>
+        {% endfor %}
+        
 
         <div class="item">
             <figure style="background-image:url('/assets/img/generic-images/agriculture-animal-close-up-1007809.jpg')"
