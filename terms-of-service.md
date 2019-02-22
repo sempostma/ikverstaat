@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Algemene voorwaarden
 permalink: "/algemene-voorwaarden"
 description: De algemene voorwaarden van ikverstaat.nl.
-image: ''
-
+layout: page
 ---
 # Algemene voorwaarden
 
