@@ -60,6 +60,13 @@ fields:
       wysiwyg: false
       schema:
         format: markdown
+  - type: color
+    name: color
+    config:
+      color_format: Hex
+      required: true
+    label: Kleur
+    description: De achtergrond kleur van dit blok.
   - type: file
     name: icon
     label: Illustratie
