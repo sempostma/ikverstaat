@@ -5,7 +5,7 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
-  path: privacy.md
+  path: privacy-policy.md
   label: Privacy statement
 - type: document
   path: terms-of-service.md
