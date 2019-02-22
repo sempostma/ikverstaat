@@ -39,15 +39,29 @@ fields:
   name: layout
   label: layout
   hidden: true
-- type: list
+- type: field_group_list
+  name: colored_blocks
+  label: Gekleurde blokken
   config:
     min: '3'
     max: '3'
-    use_select: true
-    source:
-      type: documents
-      file: index.md
-  label: colored_blocks
-  name: colored_blocks
+  fields:
+  - type: text
+    name: title
+    label: Titel
+  - type: textarea
+    name: description
+    label: Stukje tekst
+    config:
+      required: true
+      wysiwyg: false
+      schema:
+        format: markdown
+  - type: file
+    name: icon
+    label: Illustratie
+    description: Een klein icoontje onder de tekst
+    config:
+      maxSize: '10'
 pages:
 - index.md
