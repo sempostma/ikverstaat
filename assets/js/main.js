@@ -43,6 +43,11 @@ function handleLoaded() {
   // } else {
   //   console.log('Service workers are not supported.');
   // }
+  document.querySelectorAll('.viewport-constant-height').forEach(function(element) {
+    element.style.height = element.style.height + 'px';
+  });
+  document.querySelectorAll('.viewport-constant-min-height').forEach(function(element) {
+    element.style.height = element.style.minHeight + 'px';
+  });
   AOS.init();
-
 }

@@ -2,78 +2,71 @@
 layout: default
 ---
 <header>
-    <div class="container-fluid">
-        <div class="row">
-            <figure class="over-header-image" class="relative" style="background-image: url('/assets/img/generic-images/cold-december-environment-760971.jpg')">
-                <figcaption>
-                    <div class="container padding-top-special">
-                        <div class="row">
-                            <div class="col-xs-12">
-                                <h1 class="color-white page-title">{{ page.title }}</h1>
-                                <p class="color-white lead">{{ page.description }}</p>
-                                <div style="margin-top: 60px"></div>
-                                <a href="/ervaring" data-aos="fade-left" class="btn btn-white">Bekijk ook mijn ervaring.</a>
-                            </div>
-                        </div>
-                    </div>
-                </figcaption>
-            </figure>
-        </div>
-    </div>
+    <figure class="over-header-image" class="relative"
+        style="background-image: url('/assets/img/generic-images/cold-december-environment-760971.jpg')">
+        <figcaption class="container-fluid">
+            <div class="container padding-top-special">
+                <h1 class="color-white page-title">{{ page.title }}</h1>
+                <p class="color-white lead">{{ page.description }}</p>
+                <div style="margin-top: 60px"></div>
+                <a href="/ervaring" data-aos="fade-left" class="btn btn-white">Bekijk ook mijn ervaring.</a>
+            </div>
+        </figcaption>
+    </figure>
 </header>
 <main>
     <section class="container-fluid over-top-content">
-        <div class="container">
-            <div class="row relative">
-                <div class="col-xs-12 col-sm-6 color-white">
-                    <div class="over-text-center-vertical-align"></div>
-                    <p class="over-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare dui in lectus mollis bibendum.
-                        Nunc interdum fermentum porta. Mauris mollis commodo libero sed semper. Donec eu arcu non urna
-                        eleifend aliquam eu eu arcu. Aliquam erat volutpat. Vestibulum accumsan turpis non eros aliquet
-                        sollicitudin. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce non lacinia purus,
-                        non volutpat tellus. Nulla tempor rutrum enim in ullamcorper. Cras maximus, eros vitae maximus
-                        semper, nisl nibh condimentum ante, non vulputate libero urna ut dolor. Pellentesque quis feugiat
-                        nisi. Vestibulum sed tellus urna. Orci varius natoque penatibus et magnis dis parturient montes,
-                        nascetur ridiculus mus.
-    
-                        Maecenas varius at nisi tincidunt lacinia. Morbi id neque
-                    </p>
-                </div>
-                <div class="col-xs-12 col-sm-6">
-                    <div class="panel panel-default over-panel" data-aos="flip-down">
-                        <!-- Default panel contents -->
-                        <div class="panel-heading">
-                            <img src="/assets/img/profile.jpg" alt="Foto die bij de beschrijving hoort." class="img-responsive">
-                            Wat meer over mij...
-                        </div>
-                        <!-- Table -->
-                        <table class="table" role="presentation">
-                            <tr>
-                                <td>Naam</td>
-                                <td>Ienze Koekkoek</td>
-                            </tr>
-                            <tr>
-                                <td>Vorig</td>
-                                <td>...</td>
-                            </tr>
-                            <tr>
-                                <td>Opleiding</td>
-                                <td>...</td>
-                            </tr>
-                        </table>
+        <div class="container relative">
+            <div class="col-xs-12 col-sm-6 color-white">
+                <div class="over-text-center-vertical-align"></div>
+                <p class="over-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare dui in lectus mollis
+                    bibendum.
+                    Nunc interdum fermentum porta. Mauris mollis commodo libero sed semper. Donec eu arcu non urna
+                    eleifend aliquam eu eu arcu. Aliquam erat volutpat. Vestibulum accumsan turpis non eros aliquet
+                    sollicitudin. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce non lacinia
+                    purus,
+                    non volutpat tellus. Nulla tempor rutrum enim in ullamcorper. Cras maximus, eros vitae maximus
+                    semper, nisl nibh condimentum ante, non vulputate libero urna ut dolor. Pellentesque quis
+                    feugiat
+                    nisi. Vestibulum sed tellus urna. Orci varius natoque penatibus et magnis dis parturient montes,
+                    nascetur ridiculus mus.
+
+                    Maecenas varius at nisi tincidunt lacinia. Morbi id neque
+                </p>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                <div class="panel panel-default over-panel" data-aos="flip-down">
+                    <!-- Default panel contents -->
+                    <div class="panel-heading">
+                        <img src="/assets/img/profile.jpg" alt="Foto die bij de beschrijving hoort."
+                            class="img-responsive">
+                        Wat meer over mij...
                     </div>
+                    <!-- Table -->
+                    <table class="table" role="presentation">
+                        <tr>
+                            <td>Naam</td>
+                            <td>Ienze Koekkoek</td>
+                        </tr>
+                        <tr>
+                            <td>Vorig</td>
+                            <td>...</td>
+                        </tr>
+                        <tr>
+                            <td>Opleiding</td>
+                            <td>...</td>
+                        </tr>
+                    </table>
                 </div>
             </div>
         </div>
     </section>
-    <section class="container sub-page" id="over">
-        <div class="row">
-            <div class="col-xs-12">
-                <p>
-                    {{ content }}
-                </p>
-            </div>
+    <section class="container" id="over">
+        <div class="col-xs-12">
+            <p>
+                {{ content }}
+            </p>
         </div>
     </section>
     <div style="padding-top: 50px"></div>

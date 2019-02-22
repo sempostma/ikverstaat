@@ -423,3 +423,19 @@ footer {
     background-size: cover;
     padding-bottom: 100px;
 }
+
+#projecten, #experience {
+    min-height: 100vh;
+}
+
+.full-viewport-height {
+    height: 100vh;
+}
+
+.full-viewport-min-height {
+    min-height: 100vh;
+}
+
+.generic-page {
+    
+}
