@@ -1,4 +1,4 @@
-if (document.readyState === "complete" || document.readyState === "loaded") {
+if (/comp|inter|loaded/.test(document.readyState)) {
   handleLoaded();
 } else {
   document.addEventListener('DOMContentLoaded', handleLoaded);
