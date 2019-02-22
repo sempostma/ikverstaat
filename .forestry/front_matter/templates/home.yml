@@ -43,6 +43,9 @@ fields:
   config:
     min: '3'
     max: '3'
+    use_select: true
+    source:
+      type: simple
   label: colored_blocks
   name: colored_blocks
 pages:
