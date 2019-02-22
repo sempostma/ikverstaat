@@ -32,7 +32,20 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/default-card.png
+      image: /assets/img/logo.png
+# facebook:
+#   app_id: 1234
+#   publisher: 1234
+#   admins: 1234
+# social:
+#   name: Ben Balter
+#   links:
+#     - https://twitter.com/BenBalter
+#     - https://www.facebook.com/ben.balter
+#     - https://www.linkedin.com/in/BenBalter
+#     - https://plus.google.com/+BenBalter
+#     - https://github.com/benbalter
+#     - https://keybase.io/benbalter
 sass:
   style: compressed
   sass_dir: assets/_scss
