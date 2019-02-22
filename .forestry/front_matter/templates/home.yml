@@ -45,6 +45,7 @@ fields:
   config:
     min: '3'
     max: '3'
+    labelField: title
   fields:
   - type: text
     name: title
