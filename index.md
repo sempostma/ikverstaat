@@ -25,6 +25,12 @@ ervaring: Bring to the table win-win survival strategies to ensure proactive dom
   X is on the runway heading towards a streamlined cloud solution. User generated
   content in real-time will have multiple touchpoints for offshoring.
 slideshow:
+- title: Stukje 5
+  description: Stukje tekst 5
+  image: "/uploads/agriculture-country-countryside-810893.jpg"
+- title: Kopje 4
+  description: Stukje tekst 4
+  image: "/uploads/agriculture-bridge-clouds-1368231.jpg"
 - title: Kopje 1
   description: Stukje tekst 1
   image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
