@@ -43,9 +43,10 @@ fields:
   config:
     min: '3'
     max: '3'
-    use_select: true
+    use_select: false
     source:
-      type: simple
+      type: documents
+      file: index.md
   label: colored_blocks
   name: colored_blocks
 pages:
