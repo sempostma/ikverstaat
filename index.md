@@ -9,13 +9,16 @@ colored_blocks:
 - title: Verstaan
   description: Stukje tekst.
   icon: "/uploads/network.png"
+  color: "#D10000"
 - title: Samenwerken
   description: 'Bijvoorbeeld: Gezamenlijk veranderingen in gang zetten die nodig zijn
     voor een duurzame toekomst voor mens, milieu en economie.'
   icon: "/uploads/support.png"
+  color: "#AF1D1D"
 - title: Samen Duurzamer
   description: Stukje tekst.
   icon: "/uploads/team.png"
+  color: "#A21B1B"
 over: Bring to the table win-win survival strategies to ensure proactive domination.
   At the end of the day, going forward, a new normal that has evolved from generation
   X is on the runway heading towards a streamlined cloud solution. User generated
