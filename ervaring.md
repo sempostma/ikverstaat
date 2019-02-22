@@ -1,8 +1,10 @@
 ---
 title: Ervaring
-permalink: /ervaring
+permalink: "/ervaring"
 layout: ervaring
 description: Een korte uitleg, zichtbaar op de website en op google.
+image: ''
+
 ---
 ### Senior Web Developer
 
