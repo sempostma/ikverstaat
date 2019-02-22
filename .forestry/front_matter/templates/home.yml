@@ -133,6 +133,8 @@ fields:
     label: beschrijving
     name: description
     description: Een beschrijving van het project.
+    config:
+      required: true
   - type: file
     name: image
     label: Achtergrond foto
