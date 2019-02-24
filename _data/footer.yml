@@ -1,1 +1,6 @@
-
+---
+pages:
+- page: index.md
+- page: over.md
+- page: ervaring.md
+- page: contact.md

@@ -15,3 +15,5 @@ fields:
         type: pages
     label: pagina
     description: De pagina waar deze link naar wijst.
+pages:
+- _data/footer.yml
