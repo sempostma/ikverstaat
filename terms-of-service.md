@@ -1,6 +1,6 @@
 ---
 title: Algemene voorwaarden website
-permalink: "/algemene-voorwaarden"
+permalink: "/algemene-voorwaarden-website"
 description: De algemene voorwaarden van ikverstaat.nl website.
 layout: page
 image: ''
