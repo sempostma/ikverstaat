@@ -27,10 +27,16 @@ fields:
   description: Standaard afbeelding van de website. Dit zien mensen wanneer ze je
     website delen op facebook bijvoorbeeld.
 - name: description
-  label: Description
+  label: Beschrijving
   type: textarea
   hidden: false
   default: ''
+  description: Een korte uitleg over de website.
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
 - name: cookie_text
   label: Cookie text
   type: text
