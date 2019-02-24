@@ -1,5 +1,5 @@
 <div class="sharing-wrapper">
-{% if site.share.facebook or page.share.facebook %}
+{% if site.share contains 'facebook' or page.share contains 'facebook' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | cgi_escape }}" target="_blank"
   aria-label="">
   <span class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -10,7 +10,7 @@
     {% if include.size != 'small' %}<span>Facebook</span>{% endif %}</span>
 </a>
 {% endif %}
-{% if site.share.twitter or page.share.twitter %}
+{% if site.share contains 'twitter' or page.share contains 'twitter' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" target="_blank" href="https://twitter.com/intent/tweet/?text=={{ page.title | default: site.title | cgi_escape }}%0D%0A{{ page.description | default: page.excerpt | default: site.description | cgi_escape }}&url={{ page.url | absolute_url | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -22,7 +22,7 @@
 </a>
 {% endif %}
 
-{% if site.share.google or page.share.google %}
+{% if site.share contains 'google' or page.share contains 'google' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://plus.google.com/share?url={{ page.url | absolute_url | cgi_escape }}" target="_blank"
   aria-label="">
   <span class="resp-sharing-button resp-sharing-button--google resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -34,7 +34,7 @@
     <span>Google+</span></span>
 </a>
 {% endif %}
-{% if site.share.tumblr or page.share.tumblr %}
+{% if site.share contains 'tumblr' or page.share contains 'tumblr' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" target="_blank" href="https://www.tumblr.com/widgets/share/tool?posttype=link&title={{ page.title  default: site.title | cgi_escape }}&caption={{ page.description | default: page.excerpt | default: site.description | cgi_escape }}&content={{ page.url | cgi_escape }}&canonicalUrl={{ page.url | absolute_url | cgi_escape }}&shareSource=tumblr_share_button"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--tumblr resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -47,7 +47,7 @@
     <span>Tumblr</span></span>
 </a>
 {% endif %}
-{% if site.share.email or page.share.email %}
+{% if site.share contains 'email' or page.share contains 'email' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="mailto:?subject={{ page.title | default: site.title | cgi_escape }}&body={{ page.description | default: page.excerpt | default: site.description | cgi_escape }}%0D%0A{{ page.url | absolute_url | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--email resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -59,7 +59,7 @@
     <span>E-Mail</span></span>
 </a>
 {% endif %}
-{% if site.share.pinterest or page.share.pinterest %}
+{% if site.share contains 'pinterest' or page.share contains 'pinterest' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://pinterest.com/pin/create/button/?url={{ page.url | absolute_url | cgi_escape }}&media={{ page.image | default: site.image | absolute_url | cgi_escape }}&description=={{ page.title | default: site.title | cgi_escape }}%0D%0A{{ page.description | default: page.excerpt | default: site.description | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--pinterest resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -70,7 +70,7 @@
     <span>Pinterest</span></span>
 </a>
 {% endif %}
-{% if site.share.linkedin or page.share.linkedin %}
+{% if site.share contains 'linkedin' or page.share contains 'linkedin' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | cgi_escape }}&title={{ page.title | default: site.title | cgi_escape }}&summary={{ page.description | default: page.excerpt | default: site.description | cgi_escape }}&source={{ page.url | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--linkedin resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -83,7 +83,7 @@
     <span>LinkedIn</span></span>
 </a>
 {% endif %}
-{% if site.share.reddit or page.share.reddit %}
+{% if site.share contains 'reddit' or page.share contains 'reddit' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://reddit.com/submit/?url={{ page.url | absolute_url | cgi_escape }}" target="_blank"
   aria-label="">
   <span class="resp-sharing-button resp-sharing-button--reddit resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -98,7 +98,7 @@
     <span>Reddit</span></span>
 </a>
 {% endif %}
-{% if site.share.xing or page.share.xing %}
+{% if site.share contains 'xing' or page.share contains 'xing' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://www.xing.com/app/user?op=share;url={{ page.url | absolute_url | cgi_escape }};title={{ page.title | default: site.title | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--xing resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -109,7 +109,7 @@
     <span>XING</span></span>
 </a>
 {% endif %}
-{% if site.share.whatsapp or page.share.whatsapp %}
+{% if site.share contains 'whatsapp' or page.share contains 'whatsapp' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://api.whatsapp.com/send?text={{ page.description | default: page.excerpt | default: site.description | uri_escape }}%20{{ page.url | absolute_url | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -120,7 +120,7 @@
     <span>WhatsApp</span></span>
 </a>
 {% endif %}
-{% if site.share.hackernews or page.share.hackernews %}
+{% if site.share contains 'hackernews' or page.share contains 'hackernews' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://news.ycombinator.com/submitlink?u={{ page.url | absolute_url | cgi_escape }}&t={{ page.title | default: site.title | cgi_escape }}%0D%0A{{ page.description | default: page.excerpt | default: site.description | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--hackernews resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -131,7 +131,7 @@
     <span>Hacker News</span></span>
 </a>
 {% endif %}
-{% if site.share.vk or page.share.vk %}
+{% if site.share contains 'vk' or page.share contains 'vk' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="http://vk.com/share.php?title={{ page.title | default: site.title | cgi_escape }}&url={{ page.url | absolute_url | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--vk resp-sharing-button--{{ include.size | default: 'medium' }}"><span
@@ -142,7 +142,7 @@
     <span>VK</span></span>
 </a>
 {% endif %}
-{% if site.share.telegram or page.share.telegram %}
+{% if site.share contains 'telegram' or page.share contains 'telegram' %}
 <a rel="noopener noreferrer" class="resp-sharing-button__link" href="https://telegram.me/share/url?text=={{ page.title | default: site.title | cgi_escape }}%0D%0A{{ page.description | default: page.excerpt | default: site.description | cgi_escape }}&url={{ page.url | absolute_url | cgi_escape }}"
   target="_blank" aria-label="">
   <span class="resp-sharing-button resp-sharing-button--telegram resp-sharing-button--{{ include.size | default: 'medium' }}"><span
