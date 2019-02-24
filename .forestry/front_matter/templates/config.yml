@@ -1,23 +1,31 @@
 ---
 label: config
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Titel
   type: text
   hidden: false
   default: ''
+  description: De titel van de website
+  config:
+    required: true
 - name: short_title
   label: Short title
   type: text
   hidden: false
   default: ''
-- name: image
+  description: Een korte titel (max. 12 tekens)
+  config:
+    required: true
+- name: Afbeelding
   label: Image
   type: file
   hidden: false
   default: ''
+  description: Standaard afbeelding van de website. Dit zien mensen wanneer ze je
+    website delen op facebook bijvoorbeeld.
 - name: description
   label: Description
   type: textarea
