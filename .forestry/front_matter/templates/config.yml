@@ -234,3 +234,5 @@ fields:
   type: text
   hidden: true
   default: ''
+pages:
+- _config.yml
