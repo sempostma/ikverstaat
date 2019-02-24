@@ -100,7 +100,7 @@ fields:
 - name: dribbble_username
   label: Dribbble gebruikersnaam
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: facebook_username
   label: Facebook gebruikersnaam
@@ -110,12 +110,12 @@ fields:
 - name: flickr_username
   label: Flickr gebruikersnaam
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: github_username
   label: Github gebruikersnaam
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: linkedin_username
   label: Linkedin gebruikersnaam
@@ -130,7 +130,7 @@ fields:
 - name: pinterest_username
   label: Pinterest gebruikersnaam
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: twitter_username
   label: Twitter gebruikersnaam
@@ -147,20 +147,23 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: He telefoon nummer wat zichtbaar is op de website.
 - name: email
   label: Email
   type: text
   hidden: false
   default: ''
+  description: Het email adres wat zichtbaar is op de website
 - name: share
-  label: Share
+  label: Delen
   type: list
   hidden: false
   default: []
+  description: Met welke platforms je deze website kunt delen
 - name: lang
-  label: Lang
+  label: Taal
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: defaults
   label: Defaults
@@ -229,5 +232,5 @@ fields:
 - name: google_analytics
   label: Google analytics
   type: text
-  hidden: false
+  hidden: true
   default: ''
