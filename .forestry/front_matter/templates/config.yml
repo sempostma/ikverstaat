@@ -118,29 +118,29 @@ fields:
   hidden: false
   default: ''
 - name: linkedin_username
-  label: Linkedin username
+  label: Linkedin gebruikersnaam
   type: text
   hidden: false
   default: ''
 - name: instagram_username
-  label: Instagram username
+  label: Instagram gebruikersnaam
   type: text
   hidden: false
   default: ''
 - name: pinterest_username
-  label: Pinterest username
+  label: Pinterest gebruikersnaam
   type: text
   hidden: false
   default: ''
 - name: twitter_username
-  label: Twitter username
+  label: Twitter gebruikersnaam
   type: text
   hidden: false
   default: ''
 - name: youtube_username
-  label: Youtube username
+  label: Youtube gebruikersnaam
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: telefoon
   label: Telefoon
