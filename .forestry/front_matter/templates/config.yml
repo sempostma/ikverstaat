@@ -93,7 +93,7 @@ fields:
     color_format: Hex
     required: true
 - name: dribbble_username
-  label: Dribbble username
+  label: Dribbble gebruikersnaam
   type: text
   hidden: false
   default: ''
