@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ienze koekkoek - Verstaat
 permalink: "/"
 layout: home
 sub_titel: Sub titel
