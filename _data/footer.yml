@@ -1,7 +1,5 @@
 ---
 pages:
-- title: Projecten
-  url: "/projecten"
 - page: projecten.md
   title: Home
   url: "/"
@@ -11,6 +9,8 @@ pages:
 - page: over.md
   title: Ervaring
   url: "/ervaring"
+- title: Projecten
+  url: "/projecten"
 - page: ervaring.md
   title: Contact
   url: "/contact"
