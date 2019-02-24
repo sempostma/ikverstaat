@@ -64,7 +64,7 @@ fields:
   default: ''
 - name: rode_accent_kleur
   label: Rode accent kleur
-  type: text
+  type: color
   hidden: false
   default: ''
 - name: footer_background
