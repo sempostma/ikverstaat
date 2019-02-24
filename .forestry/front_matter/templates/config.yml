@@ -159,7 +159,7 @@ fields:
   label: Delen
   description: Met welke sites deze website gedeeld kan worden.
   fields:
-- type: boolean
+  - type: boolean
     name: facebook
     label: Facebook
   - type: boolean
