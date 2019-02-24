@@ -8,13 +8,18 @@ fields:
   label: Pagina's
   description: De links in de footer.
   fields:
-  - type: select
-    name: page
+  - type: text
+    name: title
+    label: Titel
+    description: De titel van de link
     config:
-      source:
-        type: pages
-    label: pagina
-    description: De pagina waar deze link naar wijst.
+      required: true
+  - type: text
+    name: url
+    label: url
+    description: 'De url van de pagina. Bijvoorbeeld: "/projecten"'
+    config:
+      required: true
   config:
     labelField: page
 pages:
