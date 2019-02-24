@@ -1,12 +1,12 @@
 ---
-title: Privacy Policy
+title: Privacyverklaring
 permalink: "/privacy"
-description: Privacy Policy page.
+description: Privacyverklaring pagina.
 layout: page
 image: ''
 
 ---
-# Privacybeleid
+# Privacyverklaring
 
 Uw privacy is belangrijk voor ons. Het is het beleid van ikverstaat.nl om uw privacy te respecteren met betrekking tot alle informatie die we van u verzamelen op onze website.
 
