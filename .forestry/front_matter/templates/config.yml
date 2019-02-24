@@ -19,8 +19,8 @@ fields:
   description: Een korte titel (max. 12 tekens)
   config:
     required: true
-- name: Afbeelding
-  label: Image
+- name: image
+  label: Afbeelding
   type: file
   hidden: false
   default: ''
