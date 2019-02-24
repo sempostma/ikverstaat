@@ -12,7 +12,7 @@ fields:
   config:
     required: true
 - name: short_title
-  label: Short title
+  label: Korte titel
   type: text
   hidden: false
   default: ''
@@ -27,47 +27,113 @@ fields:
   description: Standaard afbeelding van de website. Dit zien mensen wanneer ze je
     website delen op facebook bijvoorbeeld.
 - name: description
-  label: Description
+  label: Beschrijving
   type: textarea
   hidden: false
   default: ''
+  description: Een korte uitleg over de website.
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
 - name: cookie_text
-  label: Cookie text
+  label: Cookie tekst
   type: text
   hidden: false
   default: ''
+  description: De tekst van de cookie vermelding
+  config:
+    required: true
 - name: timezone
   label: Timezone
   type: text
-  hidden: false
+  hidden: true
   default: ''
+  config:
+    required: true
 - name: blauwe_accent_kleur
   label: Blauwe accent kleur
-  type: text
+  type: color
   hidden: false
   default: ''
+  config:
+    color_format: Hex
+    required: true
 - name: groene_accent_kleur
   label: Groene accent kleur
-  type: text
+  type: color
   hidden: false
   default: ''
+  config:
+    color_format: Hex
+    required: true
 - name: gele_accent_kleur
   label: Gele accent kleur
-  type: text
+  type: color
   hidden: false
   default: ''
+  config:
+    color_format: Hex
+    required: true
 - name: rode_accent_kleur
   label: Rode accent kleur
+  type: color
+  hidden: false
+  default: ''
+  config:
+    color_format: Hex
+    required: true
+- name: footer_background
+  label: Footer actergrond kleur
+  type: color
+  hidden: false
+  default: ''
+  config:
+    color_format: Hex
+    required: true
+- name: dribbble_username
+  label: Dribbble gebruikersnaam
   type: text
   hidden: false
   default: ''
-- name: footer_background
-  label: Footer background
+- name: facebook_username
+  label: Facebook username
+  type: text
+  hidden: false
+  default: ''
+- name: flickr_username
+  label: Flickr username
+  type: text
+  hidden: false
+  default: ''
+- name: github_username
+  label: Github username
   type: text
   hidden: false
   default: ''
 - name: linkedin_username
   label: Linkedin username
+  type: text
+  hidden: false
+  default: ''
+- name: instagram_username
+  label: Instagram username
+  type: text
+  hidden: false
+  default: ''
+- name: pinterest_username
+  label: Pinterest username
+  type: text
+  hidden: false
+  default: ''
+- name: twitter_username
+  label: Twitter username
+  type: text
+  hidden: false
+  default: ''
+- name: youtube_username
+  label: Youtube username
   type: text
   hidden: false
   default: ''
@@ -85,7 +151,7 @@ fields:
   label: Share
   type: list
   hidden: false
-  default: ''
+  default: []
 - name: lang
   label: Lang
   type: text
@@ -117,7 +183,7 @@ fields:
       default: ''
     hidden: false
     default: ''
-  hidden: false
+  hidden: true
   default: ''
 - name: sass
   label: Sass
@@ -133,27 +199,27 @@ fields:
     type: text
     hidden: false
     default: ''
-  hidden: false
+  hidden: true
   default: ''
 - name: url
   label: Url
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: enforce_ssl
   label: Enforce ssl
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: plugins
   label: Plugins
   type: list
-  hidden: false
+  hidden: true
   default: ''
 - name: markdown
   label: Markdown
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: google_analytics
   label: Google analytics
