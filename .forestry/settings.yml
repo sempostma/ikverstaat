@@ -7,6 +7,10 @@ sections:
 - type: document
   path: _data/menu.yml
   label: Navigatie Menu
+- type: document
+  path: _data/footer.yml
+  label: Footer
+  match: "**/*"
 - type: heading
   label: Pagina's
 - type: document
