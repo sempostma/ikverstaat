@@ -5,6 +5,10 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
+  path: "./_config.yml"
+  label: config
+  match: "**/*"
+- type: document
   path: _data/menu.yml
   label: Navigatie Menu
 - type: document
