@@ -162,9 +162,11 @@ fields:
   - type: boolean
     name: facebook
     label: Facebook
+    description: Kan ikverstaat.nl worden gedeeld met Facebook?
   - type: boolean
     name: twitter
     label: Twitter
+    description: Kan ikverstaat.nl worden gedeeld met Twitter?
   - type: boolean
     name: reddit
     label: Reddit
@@ -177,18 +179,21 @@ fields:
   - type: boolean
     name: email
     label: Email
+    description: Kan ikverstaat.nl worden gedeeld via Email?
   - type: boolean
     name: pinterest
     label: Pinterest
   - type: boolean
     name: linkedin
     label: Linkedin
+    description: Kan ikverstaat.nl worden gedeeld met Linkedin?
   - type: boolean
     name: xing
     label: Xing
   - type: boolean
     name: whatsapp
     label: Whatsapp
+    description: Kan ikverstaat.nl worden gedeeld met Whatsapp?
   - type: boolean
     name: hackernews
     label: Hackernews
