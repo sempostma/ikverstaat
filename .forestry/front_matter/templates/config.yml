@@ -60,6 +60,7 @@ fields:
   config:
     color_format: Hex
     required: true
+  description: De blauwe kleur op de website.
 - name: groene_accent_kleur
   label: Groene accent kleur
   type: color
@@ -68,6 +69,7 @@ fields:
   config:
     color_format: Hex
     required: true
+  description: De groene kleur op de website
 - name: gele_accent_kleur
   label: Gele accent kleur
   type: color
@@ -76,6 +78,7 @@ fields:
   config:
     color_format: Hex
     required: true
+  description: De gele kleur op de website
 - name: rode_accent_kleur
   label: Rode accent kleur
   type: color
@@ -84,6 +87,7 @@ fields:
   config:
     color_format: Hex
     required: true
+  description: De rode kleur op de website
 - name: footer_background
   label: Footer actergrond kleur
   type: color
@@ -92,13 +96,14 @@ fields:
   config:
     color_format: Hex
     required: true
+  description: De achtergrond kleur van de footer (het onderste gedeelte van de website).
 - name: dribbble_username
   label: Dribbble gebruikersnaam
   type: text
   hidden: false
   default: ''
 - name: facebook_username
-  label: Facebook username
+  label: Facebook gebruikersnaam
   type: text
   hidden: false
   default: ''
