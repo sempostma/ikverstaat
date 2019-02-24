@@ -1,25 +1,29 @@
 ---
 title: ienze koekkoek - Verstaat
 short_title: ikverstaat
-image: /assets/img/logo.png
-description: Opdrachtgevers vragen mij om in een landelijk gebied  bewoners, ondernemers (zoals agrariërs), organisaties en overheden te organiseren om gezamenlijk veranderingen in gang te zetten die nodig zijn voor een duurzame toekomst voor mens, milieu en economie.
-cookie_text: Wij gebruiken cookies om ervoor te zorgen dat onze website zo soepel mogelijk draait. 
+image: "/assets/img/logo.png"
+description: Opdrachtgevers vragen mij om in een landelijk gebied  bewoners, ondernemers
+  (zoals agrariërs), organisaties en overheden te organiseren om gezamenlijk veranderingen
+  in gang te zetten die nodig zijn voor een duurzame toekomst voor mens, milieu en
+  economie.
+cookie_text: Wij gebruiken cookies om ervoor te zorgen dat onze website zo soepel
+  mogelijk draait.
 timezone: Europe/Amsterdam
 blauwe_accent_kleur: "#3f768a"
 groene_accent_kleur: "#5eab46"
 gele_accent_kleur: "#f7a61b"
 rode_accent_kleur: "#da512c"
 footer_background: "#343a40"
-dribbble_username: 
-facebook_username: 
-flickr_username: 
-github_username: 
-instagram_username: 
+dribbble_username: ''
+facebook_username: test
+flickr_username: ''
+github_username: ''
+instagram_username: test
 linkedin_username: ienze-koekkoek-9a4b0013
-pinterest_username: 
-twitter_username: 
-youtube_username: 
-telefoon: 0610596549
+pinterest_username: ''
+twitter_username: test
+youtube_username: ''
+telefoon: '0610596549'
 email: i.koekkoek@ikverstaat.nl
 share:
 - facebook
@@ -29,23 +33,10 @@ share:
 - whatsapp
 lang: nl
 defaults:
-  - scope:
-      path: ""
-    values:
-      image: /assets/img/logo.png
-# facebook:
-#   app_id: 1234
-#   publisher: 1234
-#   admins: 1234
-# social:
-#   name: Ben Balter
-#   links:
-#     - https://twitter.com/BenBalter
-#     - https://www.facebook.com/ben.balter
-#     - https://www.linkedin.com/in/BenBalter
-#     - https://plus.google.com/+BenBalter
-#     - https://github.com/benbalter
-#     - https://keybase.io/benbalter
+- scope:
+    path: ''
+  values:
+    image: "/assets/img/logo.png"
 sass:
   style: compressed
   sass_dir: assets/_scss
@@ -58,4 +49,3 @@ plugins:
 - jekyll-seo-tag
 markdown: kramdown
 google_analytics: UA-90014538-4
----
