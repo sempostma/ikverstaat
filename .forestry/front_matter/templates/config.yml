@@ -170,12 +170,15 @@ fields:
   - type: boolean
     name: reddit
     label: Reddit
+    hidden: true
   - type: boolean
     name: google
     label: Google
+    hidden: true
   - type: boolean
     name: tumblr
     label: Tumblr
+    hidden: true
   - type: boolean
     name: email
     label: Email
@@ -183,6 +186,7 @@ fields:
   - type: boolean
     name: pinterest
     label: Pinterest
+    hidden: true
   - type: boolean
     name: linkedin
     label: Linkedin
@@ -190,6 +194,7 @@ fields:
   - type: boolean
     name: xing
     label: Xing
+    hidden: true
   - type: boolean
     name: whatsapp
     label: Whatsapp
@@ -197,9 +202,11 @@ fields:
   - type: boolean
     name: hackernews
     label: Hackernews
+    hidden: true
   - type: boolean
     name: vk
     label: Vk
+    hidden: true
   - type: boolean
     name: telegram
     label: Telegram
