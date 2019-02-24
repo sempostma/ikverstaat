@@ -4,12 +4,11 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: heading
-  label: Pagina's
 - type: document
   path: _data/menu.yml
   label: Menu
-  match: "**/*"
+- type: heading
+  label: Pagina's
 - type: document
   path: ervaring.md
   label: Ervaring
