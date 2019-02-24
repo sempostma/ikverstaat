@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: _data/menu.yml
-  label: Menu
+  label: Navigatie Menu
 - type: heading
   label: Pagina's
 - type: document
