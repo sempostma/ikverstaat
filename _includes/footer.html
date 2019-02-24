@@ -11,24 +11,11 @@
             <div class="col col-xs-6">
                 <div class="lead">Pagina's</div>
                 <ul>
+                {% for link in site.data.pages %}
                     <li>
-                        <a class="nav-link" href="/">Home</a>
+                        <a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
                     </li>
-                    <li>
-                        <a class="nav-link" href="/over">Over</a>
-                    </li>
-                    <li>
-                        <a class="nav-link" href="/ervaring">Ervaring</a>
-                    </li>
-                    <li>
-                        <a class="nav-link" href="/contact">Contact</a>
-                    </li>
-                    <li>
-                        <a class="nav-link" href="/privacy">Privacy</a>
-                    </li>
-                    <li>
-                        <a class="nav-link" href="/algemene-voorwaarden">Algemene voorwaarden</a>
-                    </li>
+                {% endfor %}
                 </ul>
             </div>
             <div class="col col-xs-6 footer-social">
@@ -80,7 +67,5 @@
                 <a href="/privacy">Bekijk de privacy verklaring</a>.
             </p>
         </div>
-
     </div>
-
 </div>
