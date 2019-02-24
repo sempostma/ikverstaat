@@ -4,3 +4,5 @@ pages:
 - page: over.md
 - page: ervaring.md
 - page: contact.md
+- page: privacy-policy.md
+- {}
