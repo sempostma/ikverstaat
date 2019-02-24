@@ -15,5 +15,7 @@ fields:
         type: pages
     label: pagina
     description: De pagina waar deze link naar wijst.
+  config:
+    labelField: page
 pages:
 - _data/footer.yml
