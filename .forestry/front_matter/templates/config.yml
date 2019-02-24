@@ -159,9 +159,45 @@ fields:
   label: Delen
   description: Met welke sites deze website gedeeld kan worden.
   fields:
-  - type: boolean
+- type: boolean
     name: facebook
     label: Facebook
+  - type: boolean
+    name: twitter
+    label: Twitter
+  - type: boolean
+    name: reddit
+    label: Reddit
+  - type: boolean
+    name: google
+    label: Google
+  - type: boolean
+    name: tumblr
+    label: Tumblr
+  - type: boolean
+    name: email
+    label: Email
+  - type: boolean
+    name: pinterest
+    label: Pinterest
+  - type: boolean
+    name: linkedin
+    label: Linkedin
+  - type: boolean
+    name: xing
+    label: Xing
+  - type: boolean
+    name: whatsapp
+    label: Whatsapp
+  - type: boolean
+    name: hackernews
+    label: Hackernews
+  - type: boolean
+    name: vk
+    label: Vk
+  - type: boolean
+    name: telegram
+    label: Telegram
 - name: lang
   label: Taal
   type: text
