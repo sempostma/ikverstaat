@@ -1,0 +1,154 @@
+---
+label: config
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: short_title
+  label: Short title
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: cookie_text
+  label: Cookie text
+  type: text
+  hidden: false
+  default: ''
+- name: timezone
+  label: Timezone
+  type: text
+  hidden: false
+  default: ''
+- name: blauwe_accent_kleur
+  label: Blauwe accent kleur
+  type: text
+  hidden: false
+  default: ''
+- name: groene_accent_kleur
+  label: Groene accent kleur
+  type: text
+  hidden: false
+  default: ''
+- name: gele_accent_kleur
+  label: Gele accent kleur
+  type: text
+  hidden: false
+  default: ''
+- name: rode_accent_kleur
+  label: Rode accent kleur
+  type: text
+  hidden: false
+  default: ''
+- name: footer_background
+  label: Footer background
+  type: text
+  hidden: false
+  default: ''
+- name: linkedin_username
+  label: Linkedin username
+  type: text
+  hidden: false
+  default: ''
+- name: telefoon
+  label: Telefoon
+  type: text
+  hidden: false
+  default: ''
+- name: email
+  label: Email
+  type: text
+  hidden: false
+  default: ''
+- name: share
+  label: Share
+  type: list
+  hidden: false
+  default: ''
+- name: lang
+  label: Lang
+  type: text
+  hidden: false
+  default: ''
+- name: defaults
+  label: Defaults
+  type: field_group_list
+  fields:
+  - name: scope
+    label: Scope
+    type: field_group
+    fields:
+    - name: path
+      label: Path
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: values
+    label: Values
+    type: field_group
+    fields:
+    - name: image
+      label: Image
+      type: file
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: sass
+  label: Sass
+  type: field_group
+  fields:
+  - name: style
+    label: Style
+    type: text
+    hidden: false
+    default: ''
+  - name: sass_dir
+    label: Sass dir
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: url
+  label: Url
+  type: text
+  hidden: false
+  default: ''
+- name: enforce_ssl
+  label: Enforce ssl
+  type: text
+  hidden: false
+  default: ''
+- name: plugins
+  label: Plugins
+  type: list
+  hidden: false
+  default: ''
+- name: markdown
+  label: Markdown
+  type: text
+  hidden: false
+  default: ''
+- name: google_analytics
+  label: Google analytics
+  type: text
+  hidden: false
+  default: ''
