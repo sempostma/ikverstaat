@@ -108,12 +108,12 @@ fields:
   hidden: false
   default: ''
 - name: flickr_username
-  label: Flickr username
+  label: Flickr gebruikersnaam
   type: text
   hidden: false
   default: ''
 - name: github_username
-  label: Github username
+  label: Github gebruikersnaam
   type: text
   hidden: false
   default: ''
