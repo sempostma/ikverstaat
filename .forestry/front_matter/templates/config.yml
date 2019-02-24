@@ -49,17 +49,17 @@ fields:
   default: ''
 - name: blauwe_accent_kleur
   label: Blauwe accent kleur
-  type: text
+  type: color
   hidden: false
   default: ''
 - name: groene_accent_kleur
   label: Groene accent kleur
-  type: text
+  type: color
   hidden: false
   default: ''
 - name: gele_accent_kleur
   label: Gele accent kleur
-  type: text
+  type: color
   hidden: false
   default: ''
 - name: rode_accent_kleur
@@ -69,11 +69,55 @@ fields:
   default: ''
 - name: footer_background
   label: Footer background
+  type: color
+  hidden: false
+  default: ''
+  
+  
+  
+- name: dribbble_username
+  label: Dribbble username
+  type: text
+  hidden: false
+  default: ''
+- name: facebook_username
+  label: Facebook username
+  type: text
+  hidden: false
+  default: ''
+  
+- name: flickr_username
+  label: Flickr username
+  type: text
+  hidden: false
+  default: ''
+- name: github_username
+  label: Github username
   type: text
   hidden: false
   default: ''
 - name: linkedin_username
   label: Linkedin username
+  type: text
+  hidden: false
+  default: ''
+- name: instagram_username
+  label: Instagram username
+  type: text
+  hidden: false
+  default: ''
+- name: pinterest_username
+  label: Pinterest username
+  type: text
+  hidden: false
+  default: ''
+- name: twitter_username
+  label: Twitter username
+  type: text
+  hidden: false
+  default: ''
+- name: youtube_username
+  label: Youtube username
   type: text
   hidden: false
   default: ''
@@ -91,7 +135,7 @@ fields:
   label: Share
   type: list
   hidden: false
-  default: ''
+  default: []
 - name: lang
   label: Lang
   type: text
