@@ -14,16 +14,15 @@ groene_accent_kleur: "#5eab46"
 gele_accent_kleur: "#f7a61b"
 rode_accent_kleur: "#da512c"
 footer_background: "#343a40"
-dribbble_username:
+dribbble_username: ''
 facebook_username: test
-flickr_username:
-github_username:
+flickr_username: ''
+github_username: ''
 instagram_username: test
 linkedin_username: ienze-koekkoek-9a4b0013
-pinterest_username:
+pinterest_username: ''
 twitter_username: test
-youtube_username:
-googleplus_username:
+youtube_username: ''
 telefoon: '0610596549'
 email: i.koekkoek@ikverstaat.nl
 share:
@@ -50,3 +49,4 @@ plugins:
 - jekyll-seo-tag
 markdown: kramdown
 google_analytics: UA-90014538-4
+googleplus_username: 
