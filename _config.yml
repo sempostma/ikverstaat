@@ -22,11 +22,19 @@ youtube_username:
 telefoon: 0610596549
 email: i.koekkoek@ikverstaat.nl
 share:
-- facebook
-- twitter
-- email
-- linkedin
-- whatsapp
+  facebook: true
+  twitter: true
+  reddit: false
+  google: false
+  tumblr: false
+  email: true
+  pinterest: false
+  linkedin: true
+  xing: false
+  whatsapp: true
+  hackernews: false
+  vk: false
+  telegram: false
 lang: nl
 defaults:
   - scope:
