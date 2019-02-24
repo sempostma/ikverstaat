@@ -1,46 +1,48 @@
 ---
-title: Algemene voorwaarden
+title: Algemene voorwaarden website
 permalink: "/algemene-voorwaarden"
-description: De algemene voorwaarden van ikverstaat.nl.
+description: De algemene voorwaarden van ikverstaat.nl website.
 layout: page
+image: ''
+
 ---
 # Algemene voorwaarden
 
-### 1. Terms
+### 1. Voorwaarden
 
-By accessing the website at [ikverstaat.nl](https://ikverstaat.nl), you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+Door het bezoeken van ikverstaat.nl, stemt u ermee in gebonden te zijn aan deze servicevoorwaarden, alle toepasselijke wet- en regelgeving, en gaat u ermee akkoord dat u verantwoordelijk bent voor de naleving van toepasselijke lokale wetten. Als u niet akkoord gaat met een van deze voorwaarden, is het verboden deze website te gebruiken of te bezoeken. Het materiaal op deze website is beschermd door de toepasselijke auteurs- en merkenwetgeving.
 
-### 2. Use License
+### 2. Gebruik licentie
 
-1. Permission is granted to temporarily download one copy of the materials (information or software) on ESStudio's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-   1. modify or copy the materials;
-   2. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-   3. attempt to decompile or reverse engineer any software contained on ESStudio's website;
-   4. remove any copyright or other proprietary notations from the materials; or
-   5. transfer the materials to another person or "mirror" the materials on any other server.
-2. This license shall automatically terminate if you violate any of these restrictions and may be terminated by ESStudio at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+1. Er is toestemming verleend om tijdelijk slechts één exemplaar van het materiaal (informatie of software) op de website van ESStudio te downloaden voor persoonlijk, niet-commercieel, slechts tijdelijk beeldmateriaal. Dit is het verlenen van een licentie, geen overdracht van titel, en onder deze licentie mag u niet:
+   1. wijzigen of kopiëren van de materialen;
+   2. gebruik het materiaal voor commerciële doeleinden, of voor openbare weergave (commercieel of niet-commercieel);
+   3. een poging tot decompilatie of reverse-engineering van software op de website van ESStudio;
+   4. verwijder auteursrechten of andere eigendomsvermeldingen van de materialen; of
+   5. breng het materiaal over naar een ander persoon of "spiegel" het materiaal op een andere server.
+2. Deze licentie wordt automatisch beëindigd als u een van deze beperkingen overtreedt en kan op elk gewenst moment door ESStudio worden beëindigd. Na beëindiging van uw bezichtiging van deze materialen of na beëindiging van deze licentie, moet u gedownloade materialen in uw bezit vernietigen, hetzij in elektronische of gedrukte vorm.
 
 ### 3. Disclaimer
 
-1. The materials on ESStudio's website are provided on an 'as is' basis. ESStudio makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-2. Further, ESStudio does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+1. Het materiaal op de website van ESStudio wordt geleverd op een 'as is'-basis. ESStudio geeft geen garanties, expliciet of impliciet, en wijst hierbij alle garanties af, inclusief, maar niet beperkt tot, impliciete garanties of voorwaarden van verkoopbaarheid, geschiktheid voor een bepaald doel of niet-schending van intellectuele eigendom of andere schending van rechten.
+2. Verder geeft ESStudio geen garantie of beweringen met betrekking tot de nauwkeurigheid, de waarschijnlijke resultaten of de betrouwbaarheid van het gebruik van het materiaal op haar website of anderszins met betrekking tot dergelijk materiaal of op enige sites die aan deze site zijn gekoppeld.
 
-### 4. Limitations
+### 4. Beperkingen
 
-In no event shall ESStudio or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on ESStudio's website, even if ESStudio or a ESStudio authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+ESStudio of haar leveranciers zijn in geen geval aansprakelijk voor enige schade (inclusief, maar niet beperkt tot, schade voor verlies van gegevens of winst, of als gevolg van bedrijfsonderbrekingen) die voortvloeit uit het gebruik of het onvermogen om het materiaal op de website van ESStudio te gebruiken, zelfs als ESStudio of een door ESStudio geautoriseerde vertegenwoordiger is mondeling of schriftelijk op de hoogte gesteld van de mogelijkheid van dergelijke schade. Omdat sommige rechtsgebieden geen beperkingen toestaan ​​op impliciete garanties of beperkingen van aansprakelijkheid voor gevolgschade of incidentele schade, zijn deze beperkingen mogelijk niet op u van toepassing.
 
-### 5. Accuracy of materials
+### 5. Nauwkeurigheid van materialen
 
-The materials appearing on ESStudio's website could include technical, typographical, or photographic errors. ESStudio does not warrant that any of the materials on its website are accurate, complete or current. ESStudio may make changes to the materials contained on its website at any time without notice. However ESStudio does not make any commitment to update the materials.
+De materialen op de website van ESStudio kunnen technische, typografische of fotografische fouten bevatten. ESStudio garandeert niet dat de materialen op haar website juist, volledig of actueel zijn. ESStudio kan de inhoud van haar website te allen tijde zonder kennisgeving wijzigen. ESStudio doet echter geen enkele belofte om de materialen bij te werken.
 
 ### 6. Links
 
-ESStudio has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by ESStudio of the site. Use of any such linked website is at the user's own risk.
+ESStudio heeft niet alle sites die gelinkt zijn aan haar website beoordeeld en is niet verantwoordelijk voor de inhoud van dergelijke gekoppelde sites. Het opnemen van een link betekent niet dat ESStudio de site goedkeurt. Het gebruik van dergelijke gekoppelde websites is op eigen risico van de gebruiker.
 
-### 7. Modifications
+### 7. Wijzigingen
 
-ESStudio may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+ESStudio kan deze servicevoorwaarden voor haar website te allen tijde zonder voorafgaande kennisgeving herzien. Door deze website te gebruiken, stemt u ermee in gebonden te zijn aan de dan geldende versie van deze servicevoorwaarden.
 
-### 8. Governing Law
+### 8. Toepasselijk recht
 
-These terms and conditions are governed by and construed in accordance with the laws of Netherlands and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+Deze voorwaarden en bepalingen worden beheerst door en geïnterpreteerd in overeenstemming met de Nederlandse wetgeving en u onderwerpt zich onherroepelijk aan de exclusieve jurisdictie van de rechtbanken in die staat of locatie.
