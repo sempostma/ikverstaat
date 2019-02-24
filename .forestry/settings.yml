@@ -10,7 +10,6 @@ sections:
 - type: document
   path: _data/footer.yml
   label: Footer
-  match: "**/*"
 - type: heading
   label: Pagina's
 - type: document

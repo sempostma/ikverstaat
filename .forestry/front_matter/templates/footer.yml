@@ -2,4 +2,16 @@
 label: Footer
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: field_group_list
+  name: pages
+  label: Pagina's
+  description: De links in de footer.
+  fields:
+  - type: select
+    name: page
+    config:
+      source:
+        type: pages
+    label: pagina
+    description: De pagina waar deze link naar wijst.
