@@ -12,7 +12,7 @@ fields:
   config:
     required: true
 - name: short_title
-  label: Short title
+  label: Korte titel
   type: text
   hidden: false
   default: ''
@@ -38,43 +38,60 @@ fields:
     schema:
       format: markdown
 - name: cookie_text
-  label: Cookie text
+  label: Cookie tekst
   type: text
   hidden: false
   default: ''
+  description: De tekst van de cookie vermelding
+  config:
+    required: true
 - name: timezone
   label: Timezone
   type: text
-  hidden: false
+  hidden: true
   default: ''
+  config:
+    required: true
 - name: blauwe_accent_kleur
   label: Blauwe accent kleur
   type: color
   hidden: false
   default: ''
+  config:
+    color_format: Hex
+    required: true
 - name: groene_accent_kleur
   label: Groene accent kleur
   type: color
   hidden: false
   default: ''
+  config:
+    color_format: Hex
+    required: true
 - name: gele_accent_kleur
   label: Gele accent kleur
   type: color
   hidden: false
   default: ''
+  config:
+    color_format: Hex
+    required: true
 - name: rode_accent_kleur
   label: Rode accent kleur
   type: color
   hidden: false
   default: ''
+  config:
+    color_format: Hex
+    required: true
 - name: footer_background
-  label: Footer background
+  label: Footer actergrond kleur
   type: color
   hidden: false
   default: ''
-  
-  
-  
+  config:
+    color_format: Hex
+    required: true
 - name: dribbble_username
   label: Dribbble username
   type: text
@@ -85,7 +102,6 @@ fields:
   type: text
   hidden: false
   default: ''
-  
 - name: flickr_username
   label: Flickr username
   type: text
@@ -167,7 +183,7 @@ fields:
       default: ''
     hidden: false
     default: ''
-  hidden: false
+  hidden: true
   default: ''
 - name: sass
   label: Sass
@@ -183,27 +199,27 @@ fields:
     type: text
     hidden: false
     default: ''
-  hidden: false
+  hidden: true
   default: ''
 - name: url
   label: Url
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: enforce_ssl
   label: Enforce ssl
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: plugins
   label: Plugins
   type: list
-  hidden: false
+  hidden: true
   default: ''
 - name: markdown
   label: Markdown
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: google_analytics
   label: Google analytics
