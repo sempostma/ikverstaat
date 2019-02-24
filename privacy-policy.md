@@ -3,21 +3,23 @@ title: Privacy Policy
 permalink: "/privacy"
 description: Privacy Policy page.
 layout: page
+image: ''
+
 ---
-# Privacy Policy
+# Privacybeleid
 
-Your privacy is important to us. It is ESStudio's policy to respect your privacy regarding any information we may collect from you across our website, [ikverstaat.nl](https://ikverstaat.nl), and other sites we own and operate.
+Uw privacy is belangrijk voor ons. Het is het beleid van ikverstaat.nl om uw privacy te respecteren met betrekking tot alle informatie die we van u verzamelen op onze website.
 
-We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
+We vragen alleen om persoonlijke informatie wanneer we deze echt nodig hebben om u van dienst te zijn. Wij verzamelen het op eerlijke en wettige wijze, met uw kennis en toestemming. We laten u ook weten waarom we het verzamelen en hoe het zal worden gebruikt.
 
-We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+We bewaren verzamelde informatie alleen zolang als nodig is om u de gevraagde service te verlenen. Welke gegevens we opslaan, we beschermen met commercieel aanvaardbare middelen om verlies en diefstal te voorkomen, evenals ongeoorloofde toegang, openbaarmaking, kopiëren, gebruik of wijziging.
 
-We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+We delen geen persoonlijk identificeerbare informatie openbaar of met derden, behalve wanneer dit wettelijk verplicht is.
 
-Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+Onze website kan linken naar externe sites die niet door ons worden beheerd. Houd er rekening mee dat we geen controle hebben over de inhoud en praktijken van deze sites en geen verantwoordelijkheid of aansprakelijkheid kunnen aanvaarden voor hun respectieve privacybeleid.
 
-You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+U bent vrij om ons verzoek om uw persoonlijke gegevens te weigeren, met dien verstande dat we mogelijk niet in staat zijn om u enkele van uw gewenste diensten te leveren.
 
-Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
+Uw voortgezet gebruik van onze website zal worden beschouwd als acceptatie van onze praktijken rond privacy en persoonlijke informatie. Als u vragen heeft over hoe wij omgaan met gebruikersgegevens en persoonlijke informatie, neem dan gerust contact met ons op.
 
-This policy is effective as of 22 februari 2018.
+Dit beleid is van kracht vanaf 22 februari 2018.
