@@ -154,12 +154,14 @@ fields:
   hidden: false
   default: ''
   description: Het email adres wat zichtbaar is op de website
-- name: share
+- type: field_group
+  name: share
   label: Delen
-  type: list
-  hidden: false
-  default: []
-  description: Met welke platforms je deze website kunt delen
+  description: Met welke sites deze website gedeeld kan worden.
+  fields:
+  - type: boolean
+    name: facebook
+    label: Facebook
 - name: lang
   label: Taal
   type: text
