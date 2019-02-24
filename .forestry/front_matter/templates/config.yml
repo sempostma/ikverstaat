@@ -101,47 +101,37 @@ fields:
   label: Dribbble gebruikersnaam
   type: text
   hidden: true
-  default: ''
 - name: facebook_username
   label: Facebook gebruikersnaam
   type: text
   hidden: false
-  default: ''
 - name: flickr_username
   label: Flickr gebruikersnaam
   type: text
   hidden: true
-  default: ''
 - name: github_username
   label: Github gebruikersnaam
   type: text
   hidden: true
-  default: ''
 - name: linkedin_username
   label: Linkedin gebruikersnaam
   type: text
   hidden: false
-  default: ''
 - name: instagram_username
   label: Instagram gebruikersnaam
   type: text
   hidden: false
-  default: ''
 - name: pinterest_username
   label: Pinterest gebruikersnaam
   type: text
   hidden: true
-  default: ''
 - name: twitter_username
   label: Twitter gebruikersnaam
   type: text
-  hidden: false
-  default: ''
 - name: youtube_username
   label: Youtube gebruikersnaam
   type: text
   hidden: true
-  default: ''
 - name: telefoon
   label: Telefoon
   type: text
