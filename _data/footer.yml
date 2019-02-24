@@ -1,9 +1,20 @@
 ---
 pages:
 - page: projecten.md
+  title: Home
+  url: "/"
 - page: index.md
+  title: Over
+  url: "/over"
 - page: over.md
+  title: Ervaring
+  url: "/ervaring"
 - page: ervaring.md
+  title: Contact
+  url: "/contact"
 - page: contact.md
+  title: Privacy
+  url: "/privacy"
 - page: privacy-policy.md
-- page: terms-of-service.md
+  url: "/algemene-voorwaarden"
+  title: Algemene voorwaarden
