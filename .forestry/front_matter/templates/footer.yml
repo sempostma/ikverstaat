@@ -21,6 +21,6 @@ fields:
     config:
       required: true
   config:
-    labelField: page
+    labelField: title
 pages:
 - _data/footer.yml
