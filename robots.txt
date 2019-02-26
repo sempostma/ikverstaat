@@ -4,3 +4,5 @@
 User-agent: *
 Disallow: /lighthouse-score.html
 Disallow: /lighthouse-score
+Disallow: /admin
+
