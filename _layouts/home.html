@@ -37,7 +37,7 @@ layout: default
             {% for block in page.colored_blocks %}
             <div class="block col-xs-12 col-sm-4" style="background-color: {{ block.color }}">
                 <div class="inner">
-                    <div data-aos="fade-up">
+                    <div data-aos="nojs-fade-up">
                         <img src="{{ block.icon }}" alt="Illustratie werkwijze nummer {{ forloop.index }}.">
                         <h3>
                             {{ block.title }}
@@ -57,7 +57,7 @@ layout: default
         <p>{{ page.over }}</p>
     
         <p style="padding-top: 20px; padding-bottom: 30px;">
-            <a href="/ervaring" class="btn btn-primary" data-aos="fade-left">Lees verder</a>
+            <a href="/ervaring" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
         </p>
     </section>
     <div id="home-page-carousel" class="carousel slide" data-ride="carousel">
@@ -102,7 +102,7 @@ layout: default
         <p>{{ page.ervaring }}</p>
     
         <p style="padding-top: 20px; padding-bottom: 30px;">
-            <a href="/ervaring" class="btn btn-primary" data-aos="fade-left">Lees verder</a>
+            <a href="/ervaring" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
         </p>
     </section>
     <section id="experience-images-home-section container-fluid">

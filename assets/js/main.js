@@ -1,9 +1,5 @@
-if (/comp|inter|loaded/.test(document.readyState)) {
-  handleLoaded();
-} else {
-  document.addEventListener('DOMContentLoaded', handleLoaded);
-}
-function handleLoaded() {
+
+(function() {
   "use strict"; // Start of use strict
   var sideNav = document.getElementById('sideNav');
   var diagonalMessage = document.getElementById('diagonal-message');
@@ -12,8 +8,8 @@ function handleLoaded() {
   handleScroll();
 
   function handleScroll() {
-    if (sideNav) sideNav.style.height = Math.max(50, 150 - window.scrollY) + 'px';
-    if (diagonalMessage) diagonalMessage.style.top = Math.max(50, 150 - window.scrollY) + 42 + 'px';
+    if (sideNav) sideNav.style.height = Math.max(50, 110 - window.scrollY) + 'px';
+    if (diagonalMessage) diagonalMessage.style.top = Math.max(50, 110 - window.scrollY) + 42 + 'px';
   }
 
   // var msnry = new Masonry('.grid', {
@@ -49,5 +45,13 @@ function handleLoaded() {
   document.querySelectorAll('.viewport-constant-min-height').forEach(function(element) {
     element.style.height = element.style.minHeight + 'px';
   });
+
+  document.querySelectorAll('[data-aos]').forEach(function(elem) {
+    if (elem.getAttribute('data-aos').slice(0, 4) === 'nojs') {
+      elem.setAttribute('data-aos', elem.getAttribute('data-aos').slice(5));
+    }
+  });
+
   AOS.init();
-}
+
+})();

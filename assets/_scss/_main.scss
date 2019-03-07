@@ -1,11 +1,9 @@
 .padding-top-special {
-    padding-top: calc(100vh - 775px);
-    @media screen and (min-width: 1000px) {
-        padding-top: 217px;
-    }
-    @media screen and (max-height: 800px) {
+    padding-top: calc(50vh - 310px);
+    @media screen and (max-height: 650px) {
         padding-top: 20px;
     }
+    transition: all 500ms ease;
 }
 
 .footer-social {
@@ -147,8 +145,8 @@
     .block {
         padding: 10px;
         img {
-            max-width: 50%;
-            max-height: 150px;
+            max-width: 30%;
+            max-height: 100px;
             display: block;
             margin: auto;
             transition: transform 200ms ease;
@@ -170,6 +168,9 @@
             left: 50%;
             top: 50%;
             transform: translate(-50%, -50%);
+            min-width: 50%;
+            width: 300px;
+            max-width: 90%;
         }
     }
 }
@@ -182,6 +183,7 @@
         text-transform: uppercase;
     }
     min-height: calc(100vh - 350px);
+    transition: all 500ms ease;
     background: #fff;
     background: linear-gradient(rgba(#fff, .6), rgba(#fff, .6)),
     url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg');
@@ -419,18 +421,12 @@ footer {
     padding-bottom: 100px;
 }
 
-#projecten, #experience {
-    min-height: 100vh;
-}
-
 .full-viewport-height {
     height: 100vh;
+    transition: all 500ms ease;
 }
 
 .full-viewport-min-height {
     min-height: 100vh;
-}
-
-.generic-page {
-    
+    transition: all 500ms ease;
 }
