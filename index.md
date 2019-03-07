@@ -11,9 +11,9 @@ colored_blocks:
     regelen en organiseren, creëren en structureren,  kennis en kunde beschikbaar  maken.
   icon: "/uploads/network.png"
   color: "#5eab46"
-- title: Samenwerken
-  description: 'Bijvoorbeeld: Gezamenlijk veranderingen in gang zetten die nodig zijn
-    voor een duurzame toekomst voor mens, milieu en economie.'
+- title: Ervaring
+  description: Met het werken in het maatschappelijk krachtenveld van overheden, ondernemers,
+    maatschappelijke organisaties en ‘gewone burgers’.
   icon: "/uploads/support.png"
   color: "#f7a61b"
 - title: Samen Duurzamer
