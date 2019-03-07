@@ -21,7 +21,7 @@ colored_blocks:
     milieu en economie.
   icon: "/uploads/team.png"
   color: "#3f768a"
-over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen verder
+over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ dat essentieel om samen verder
   te komen. Verstaan is voor mij het centrale woord als ik processen en projecten
   begeleid en bij  gesprekken aan de keukentafel.
 ervaring: Ik heb bijna 30 jaar ervaring in werken met bewoners en gebruikers van het
