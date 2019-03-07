@@ -21,14 +21,14 @@ colored_blocks:
     milieu en economie.
   icon: "/uploads/team.png"
   color: "#3f768a"
-over: Bring to the table win-win survival strategies to ensure proactive domination.
-  At the end of the day, going forward, a new normal that has evolved from generation
-  X is on the runway heading towards a streamlined cloud solution. User generated
-  content in real-time will have multiple touchpoints for offshoring.
-ervaring: Bring to the table win-win survival strategies to ensure proactive domination.
-  At the end of the day, going forward, a new normal that has evolved from generation
-  X is on the runway heading towards a streamlined cloud solution. User generated
-  content in real-time will have multiple touchpoints for offshoring.
+over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen verder
+  te komen. Verstaan is voor mij het centrale woord als ik processen en projecten
+  begeleid en bij  gesprekken aan de keukentafel.
+ervaring: Ik heb bijna 30 jaar ervaring in werken met bewoners en gebruikers van het
+  landelijke gebied. Die ervaring heb ik opgedaan als medewerker van een gemeente,
+  een landbouw organisatie en bij verschillende adviesbureaus. Met die ervaring weet
+  ik hoe het maatschappelijke krachtenveld er uit ziet en kan ik daar gebruik van
+  maken in mijn werk.
 slideshow:
 - title: Kopje 1
   description: Stukje tekst 1
