@@ -6,8 +6,10 @@ sub_titel: Sub titel
 description: Duurzaam perspectief voor het landelijke gebied
 image: ''
 colored_blocks:
-- title: Verstaat
-  description: Begeleiden van processen en projecten in het landelijke gebied
+- title: ienze koekkoek - Verstaat
+  description: De kunst van luisteren en begrijpen, verbinden en verbanden leggen,
+    regelen en organiseren, creëren en structureren,  kennis en kunde beschikbaar
+    te maken.
   icon: "/uploads/network.png"
   color: "#5eab46"
 - title: Samenwerken
