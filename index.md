@@ -3,7 +3,7 @@ title: ienze koekkoek - Verstaat
 permalink: "/"
 layout: home
 sub_titel: Sub titel
-description: Een korte uitleg, zichtbaar op de website en op google.
+description: Duurzaam perspectief voor het landelijke gebied
 image: ''
 colored_blocks:
 - title: ienze koekkoek - Verstaat
