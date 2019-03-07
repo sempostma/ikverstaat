@@ -6,7 +6,7 @@ sub_titel: Sub titel
 description: Duurzaam perspectief voor het landelijke gebied
 image: ''
 colored_blocks:
-- title: ienze koekkoek - Verstaat
+- title: Verstaat
   description: Begeleiden van processen en projecten in het landelijke gebied
   icon: "/uploads/network.png"
   color: "#5eab46"
