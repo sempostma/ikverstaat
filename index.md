@@ -12,8 +12,8 @@ colored_blocks:
   icon: "/uploads/network.png"
   color: "#5eab46"
 - title: Heeft ervaring
-  description: Met het werken in het maatschappelijk krachtenveld van overheden, ondernemers,
-    maatschappelijke organisaties en ‘gewone burgers’.
+  description: Met werken in het krachtenveld van overheden, ondernemers, maatschappelijke
+    organisaties en ‘gewone burgers’.
   icon: "/uploads/support.png"
   color: "#f7a61b"
 - title: En gaat voor
