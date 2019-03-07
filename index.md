@@ -6,7 +6,7 @@ sub_titel: Sub titel
 description: Een korte uitleg, zichtbaar op de website en op google.
 image: ''
 colored_blocks:
-- title: Over
+- title: ienze koekkoek - Verstaat
   description: Begeleiden van processen en projecten in het landelijke gebied
   icon: "/uploads/network.png"
   color: "#5eab46"
