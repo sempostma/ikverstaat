@@ -33,5 +33,5 @@ fields:
   label: layout
   hidden: true
 pages:
-- privacy-policy.md
 - ervaring.md
+- privacy-policy.md

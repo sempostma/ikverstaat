@@ -2,7 +2,8 @@
 title: Ervaring
 permalink: "/ervaring"
 layout: ervaring
-description: Een korte uitleg, zichtbaar op de website en op google.
+description: Ik heb ervaring in het werken voor overheden, maatschappelijke organisaties
+  en adviesbureaus. Altijd voor het landelijke gebied
 image: ''
 
 ---
