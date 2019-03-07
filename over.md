@@ -4,7 +4,7 @@ permalink: "/over"
 layout: over
 description: 'Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen
   verder te komen. Verstaan is voor mij het centrale woord als ik processen en projecten
-  begeleid in het landelijke gebied. Vandaar mijn bedrijfsnaam. '
+  begeleid en bij  gesprekken aan de keukentafel. '
 image: "/uploads/cold-december-environment-760971.jpg"
 cta: Bekijk ook mijn ervaring.
 me: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare dui in lectus
