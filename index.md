@@ -16,8 +16,9 @@ colored_blocks:
     maatschappelijke organisaties en ‘gewone burgers’.
   icon: "/uploads/support.png"
   color: "#f7a61b"
-- title: Samen Duurzamer
-  description: Stukje tekst.
+- title: En gaat voor
+  description: Veranderingen die nodig zijn voor een duurzame toekomst. Dus voor mens,
+    milieu en economie.
   icon: "/uploads/team.png"
   color: "#3f768a"
 over: Bring to the table win-win survival strategies to ensure proactive domination.
