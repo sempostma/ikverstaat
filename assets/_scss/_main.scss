@@ -7,12 +7,12 @@
 }
 
 .footer-social {
-    color: rgba(255, 255, 255, .5);
+    color: rgba(255, 255, 255, .8);
     b {
         text-transform: uppercase;
     }
     a {
-        color: rgba(255, 255, 255, .5);
+        color: rgba(255, 255, 255, .8);
         transition: color 200ms ease;
     }
     a:hover {
@@ -21,7 +21,7 @@
     .svg-icon {
         width: 22px;
         height: 22px;
-        fill: rgba(255, 255, 255, .5);
+        fill: rgba(255, 255, 255, .8);
         vertical-align: middle;
     }
     .social-media-list {
@@ -87,6 +87,7 @@
     transition: padding-top 100ms ease-out;
     box-sizing: border-box;
     font-family: sans-serif, Verdana, Geneva, Tahoma;
+    font-display: swap;
 }
 
 #noscript-modal .modal-content {
@@ -188,6 +189,18 @@
     background: linear-gradient(rgba(#fff, .6), rgba(#fff, .6)),
     url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg');
     background-size: cover;
+
+    @media screen and (max-width: 992px) {
+        & {
+            min-height: calc(100vh - 470px);
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        & {
+            min-height: calc(100vh - 390px);
+        }
+    }
 }
 
 .w-100 {
@@ -274,16 +287,16 @@ p::selection {
         left: 0;
         right: 0;
         min-height: 100px;
-        background: rgba(0, 0, 0, 0.5);
+        background: rgba(0, 0, 0, 0.8);
     }
 }
 
 footer {
     background-color: $footer_bg;
     padding-top: 50px;
-    color: rgba(255, 255, 255, .5);
+    color: rgba(255, 255, 255, .8);
     * {
-        color: rgba(255, 255, 255, .5);
+        color: rgba(255, 255, 255, .8);
     }
     ul {
         list-style: none;
@@ -291,17 +304,17 @@ footer {
         text-transform: uppercase;
     }
     a {
-        color: rgba(255, 255, 255, .5);
+        color: rgba(255, 255, 255, .8);
         text-decoration: none;
     }
     a:hover {
-        color: rgba(255, 255, 255, .7);
+        color: rgba(255, 255, 255, 1);
         text-decoration: none;
     }
     h5 {
         text-transform: uppercase;
         font-size: 1.7em;
-        color: rgba(255, 255, 255, .5);
+        color: rgba(255, 255, 255, .8);
     }
     .copyright {
         margin-top: 50px;

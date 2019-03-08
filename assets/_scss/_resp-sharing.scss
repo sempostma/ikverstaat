@@ -4,7 +4,7 @@
     right: -122px;
     background-color: $primary;
     padding-left: 30px;
-    color: #9fbbc5;
+    color: rgba(255, 255, 255, .8);
     transition: right 300ms ease;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -50,10 +50,10 @@
 
 .resp-sharing-button__link {
     display: block;
-    color: #9fbbc5;
+    color: rgba(255, 255, 255, .8);
     height: 2em;
     &:hover {
-        color: #c6d6dc;
+        color: rgba(255, 255, 255, 1);
         text-decoration: none;
     }
     span {

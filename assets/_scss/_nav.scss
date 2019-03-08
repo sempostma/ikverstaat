@@ -23,11 +23,11 @@
             padding-right: 20px;
             .nav-item {
                 .nav-link {
-                    color: #9fbbc5;
+                    color:rgba(255, 255, 255, .6);
                 }
                 .nav-link:hover,
                 .nav-link.active {
-                    color: #c6d6dc;
+                    color: rgba(255, 255, 255, 0.9);
                 }
             }
         }

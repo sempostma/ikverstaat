@@ -34,14 +34,14 @@
                 </a>
             </li>
             {% if site.twitter_username%}<li class="nav-item nav-item-icon">
-                <a class="nav-link" target="_blank" title="twitter" aria-label="twitter" href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">
+                <a class="nav-link" target="_blank" title="twitter" rel="external" aria-label="twitter" href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">
                     <div class="fa fa-twitter"></div>
                     <span class="icon-nav-label">Twitter</span>
                 </a>
             </li>
             {% endif %}
             {% if site.facebook_username%}<li class="nav-item nav-item-icon">
-                <a class="nav-link" target="_blank" title="twitter" aria-label="twitter" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
+                <a class="nav-link" target="_blank" title="twitter" rel="external" aria-label="twitter" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
                     <div class="fa fa-facebook"></div>
                     <span class="icon-nav-label">Facebook</span>
                 </a>
