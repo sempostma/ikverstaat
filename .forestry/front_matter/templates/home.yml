@@ -72,6 +72,10 @@ fields:
     description: Een klein icoontje onder de tekst
     config:
       maxSize: '10'
+- type: file
+  name: over_banner_image
+  label: De foto tussen het "over" en het "ervaring" gedeelte
+  description: Deze foto kan worden weggelaten als dat wenselijk is.
 - type: textarea
   name: over
   label: Stuke tekst voor het "Over" gedeelte.
@@ -146,9 +150,5 @@ fields:
     name: image
     label: Achtergrond foto
     description: De achtergrond foto voor dit item. Een foto van het project.
-- type: file
-  name: over_banner_image
-  label: De foto tussen het "over" en het "ervaring" gedeelte
-  description: Deze foto kan worden weggelaten als dat wenselijk is.
 pages:
 - index.md
