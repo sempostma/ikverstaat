@@ -7,20 +7,21 @@ description: Ik heb ervaring in het werken voor overheden, maatschappelijke orga
 image: ''
 
 ---
-### ienze koekkoek - Verstaat
+### Eigenaar
 
-Eigenaar van dit bedrijf.
+**ienze koekkoek - Verstaat**
 
-.
+Begeleiden van processen en projecten voor verandertrajecten in het landelijke gebied
 
-Februari 2019 - heden
+* Begeleiden stoppende en gestopte agrariërs bij zoektocht naar nieuwe functie gebouwen (VABIMPULS provincie Noord-Brabant)
+* Procesbegeleider nieuwe natuur gemeente Dronten
+* Procesbegeleider gebiedsproces De AmerkantOp in West-Brabant
 
-### Adviseur ontwikkeling landelijk gebied
+februari 2019 - heden
 
-Eelerwoude
+### Adviseur ontwikkeling landelijk gebied  
 
-| --- |
-| Begeleiden van processen en verandertrajecten in het landelijke gebied |
+**Adviesbureau Eelerwoude**
 
 Begeleiden van processen en verandertrajecten in het landelijke gebied
 
@@ -28,26 +29,23 @@ Begeleiden van processen en verandertrajecten in het landelijke gebied
 
 ### Projectleider
 
-Optifield
+**Adviesbureau Optifield**
 
 Kavelruilcoördinator vrijwillige kavelruilprojecten, project- en procesbegeleiding plattelandsontwikkelingsprojecten
-
-Voorbeelden:
 
 * kavelruilcoördinator/gebiedsmakelaar Midden-Delfland
 * Gebiedsmakelaar Binnenveld (Wageningen en Rhenen)
 * Gebiedsmakelaar Kampen, Zwolle, Zwartewaterland
 * Ontwikkeling nieuw landgoed De Hooge Bank
+* Kavelruilprojecten
 
 2007 - 2018
 
 ### Projectleider landelijk gebied
 
-BügelHajema Adviseurs
+**BügelHajema Adviseurs**
 
 Projectleider bestemmingsplannen buitengebied
-
-Voorbeelden:
 
 * Bestemmingsplannen Buitengebied Nederlek, Zaltbommel en Zeewolde
 * Regionale beleidsinvulling functieveranderingen en nevenactiviteiten Regio De Vallei
@@ -56,7 +54,7 @@ Voorbeelden:
 
 **H3 DIK  Afdelingsfunctionaris en Adviseur Gebiedsgerichte Vernieuwing**
 
-Zuidelijke Land- en Tuinbouw Organisatie (ZLTO)
+**Zuidelijke Land- en Tuinbouw Organisatie (ZLTO)**
 
 Ondersteunen van plaatselijke besturen ZLTO. Projectontwikkeling en -leiding projecten met agrarische ondernemers, gemeenten, natuurorganisaties en waterschappen.
 
@@ -66,11 +64,9 @@ Samenwerkingsverbanden (mee) opgezet: Boer-gondisch West-Brabant, Streekproducte
 
 **H3 DIK  Beleidsmedewerker Buitengebied**
 
-Gemeente Nijkerk
+**Gemeente Nijkerk**
 
 Beleidsontwikkeling op het gebied van ruimtelijke ordening landelijke gebied
-
-Voorbeelden:
 
 * Ontwikkelen natuur- en landschapsbeleid
 * Aanleg en herstel van natuur en landschapselementen
@@ -82,11 +78,9 @@ Voorbeelden:
 
 **H3 DIK Bestuurslid**
 
-Altena Nieuwe Energie
+**Altena Nieuwe Energie**
 
 Mede-initiatiefnemer en oprichter duurzame energie coöperatie
-
-_Acties_
 
 * Collectieve inkoop zonnepanelen
 * Verduurzamen eigen woningen
