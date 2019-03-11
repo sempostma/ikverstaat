@@ -49,9 +49,9 @@ slideshow:
   image: "/uploads/agriculture-country-countryside-810893.jpg"
 projecten:
 - title: Nieuwe Natuur Oostkant Dronten
-  description: 'De gemeente Dronten heeft met agrarische ondernemers een plan voor
-    nieuwe natuur gemaakt. De ondernemers hebben een intentieverklaring getekend om
-    voor de aanleg en het onderhoud te zorgen. Nu '
+  description: Procesbegeleiding om met agrarische ondernemers nieuwe natuur in Dronten
+    te realiseren. Dit is een uitvloeisel van het programma Nieuwe Natuur van de provincie
+    Flevoland.
   image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
 - title: Project 2
   description: Stukje tekst.
