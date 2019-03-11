@@ -4,7 +4,7 @@ permalink: "/"
 layout: home
 sub_titel: Subtitel
 description: " Duurzaam perspectief voor het landelijke gebied"
-image: "/uploads/agriculture-animal-close-up-1007809.jpg"
+image: "/uploads/agriculture-barn-clouds-462136.jpg"
 colored_blocks:
 - title: ienze koekkoek - Verstaat
   description: De kunst van luisteren en begrijpen, verbinden en verbanden leggen,
