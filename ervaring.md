@@ -80,8 +80,16 @@ Voorbeelden:
 
 1990 - 2000
 
-H3 DIK Bestuurslid
+**H3 DIK Bestuurslid**
 
 Altena Nieuwe Energie
 
 Mede-initiatiefnemer en oprichter duurzame energie coöperatie
+
+_Acties_
+
+* Collectieve inkoop zonnepanelen
+* Verduurzamen eigen woningen
+* Postcoderoosprojecten
+* SDE+ projecten
+* Windenergieproject
