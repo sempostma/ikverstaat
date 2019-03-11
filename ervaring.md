@@ -19,7 +19,7 @@ Begeleiden van processen en projecten voor verandertrajecten in het landelijke g
 
 februari 2019 - heden
 
-### Adviseur ontwikkeling landelijk gebied  
+### Adviseur ontwikkeling landelijk gebied
 
 **Adviesbureau Eelerwoude**
 
@@ -57,7 +57,7 @@ Projectleider bestemmingsplannen buitengebied
 
 2005 - 2007
 
-**H3 DIK  Afdelingsfunctionaris en Adviseur Gebiedsgerichte Vernieuwing**
+### Afdelingsfunctionaris en Adviseur Gebiedsgerichte Vernieuwing
 
 **Zuidelijke Land- en Tuinbouw Organisatie (ZLTO)**
 
@@ -67,7 +67,7 @@ Samenwerkingsverbanden (mee) opgezet: Boer-gondisch West-Brabant, Streekproducte
 
 2000 - 2005
 
-**H3 DIK  Beleidsmedewerker Buitengebied**
+### Beleidsmedewerker Buitengebied
 
 **Gemeente Nijkerk**
 
@@ -81,7 +81,7 @@ Beleidsontwikkeling op het gebied van ruimtelijke ordening landelijke gebied
 
 1990 - 2000
 
-**H3 DIK Bestuurslid**
+### Bestuurslid
 
 **Altena Nieuwe Energie**
 
