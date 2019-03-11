@@ -25,6 +25,11 @@ februari 2019 - heden
 
 Begeleiden van processen en verandertrajecten in het landelijke gebied
 
+* Haalbaarheidsonderzoeken fietspaden Soest
+* Projectontwikkeling zonnepark Universiteit Utrecht
+* Projectbegeleiding ruimtelijke planvorming zonneparken
+* Ruimtelijke onderbouwingen
+
 2018 - februari 2019
 
 ### Projectleider
