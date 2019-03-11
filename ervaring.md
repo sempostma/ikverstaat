@@ -13,28 +13,57 @@ Eigenaar van dit bedrijf.
 
 .
 
-March 2013 - Present
+Februari 2019 - heden
 
-### Web Developer
+### Adviseur ontwikkeling landelijk gebied
 
-Intelitec Solutions
+Eelerwoude
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+| --- |
+| Begeleiden van processen en verandertrajecten in het landelijke gebied |
 
-December 2011 - March 2013
+Begeleiden van processen en verandertrajecten in het landelijke gebied
 
-### Junior Web Designer
+2018 - februari 2019
 
-Shout! Media Productions
+### Projectleider
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+Optifield
 
-July 2010 - December 2011
+Kavelruilcoördinator vrijwillige kavelruilprojecten, project- en procesbegeleiding plattelandsontwikkelingsprojecten
 
-### Web Design Intern
+Voorbeelden: 
 
-Shout! Media Productions
+* kavelruilcoördinator/gebiedsmakelaar Midden-Delfland
+* Gebiedsmakelaar Binnenveld (Wageningen en Rhenen)
+* Gebiedsmakelaar Kampen, Zwolle, Zwartewaterland
+* Ontwikkeling nieuw landgoed De Hooge Bank
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+2007 - 2018
 
-September 2008 - June 2010
+### Projectleider landelijk gebied
+
+BügelHajema Adviseurs
+
+Projectleider bestemmingsplannen buitengebied
+
+Voorbeelden:
+
+* Bestemmingsplannen Buitengebied Nederlek, Zaltbommel en Zeewolde
+* Regionale beleidsinvulling functieveranderingen en nevenactiviteiten Regio De Vallei
+
+2005 - 2007
+
+**H3 DIK  Afdelingsfunctionaris en Adviseur Gebiedsgerichte Vernieuwing**
+
+Zuidelijke Land- en Tuinbouw Organisatie (ZLTO)
+
+Ondersteunen van plaatselijke besturen ZLTO. Projectontwikkeling en -leiding projecten met agrarische ondernemers, gemeenten, natuurorganisaties en waterschappen.
+
+Samenwerkingsverbanden (mee) opgezet: Boer-gondisch West-Brabant, Streekproducten Brabantse Wal Asperges, Verenigingen van glastuinders in Zevenbergen en Etten-Leur, agrarische natuurverenigingen (ANV Drimmelen & Moerdijk, ANV Slagenland, ANV Baarle-Nassau e.o.).
+
+2000 - 2005
+
+H3 DIK  Beleidsmedewerker Buitengebied
+
+Gemeente Nijkerk
