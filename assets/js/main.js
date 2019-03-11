@@ -1,5 +1,5 @@
 
-(function() {
+(function () {
   "use strict"; // Start of use strict
   var sideNav = document.getElementById('sideNav');
   var diagonalMessage = document.getElementById('diagonal-message');
@@ -23,7 +23,7 @@
     cookieDisclaimer.classList.add('is-active');
   }
 
-  cookieDisclaimer.querySelector('button').addEventListener('click', function() {
+  cookieDisclaimer.querySelector('button').addEventListener('click', function () {
     localStorage.setItem('cookieDisclaimer', true);
     cookieDisclaimer.classList.remove('is-active');
   });
@@ -39,19 +39,60 @@
   // } else {
   //   console.log('Service workers are not supported.');
   // }
-  document.querySelectorAll('.viewport-constant-height').forEach(function(element) {
+  document.querySelectorAll('.viewport-constant-height').forEach(function (element) {
     element.style.height = element.style.height + 'px';
   });
-  document.querySelectorAll('.viewport-constant-min-height').forEach(function(element) {
+  document.querySelectorAll('.viewport-constant-min-height').forEach(function (element) {
     element.style.height = element.style.minHeight + 'px';
   });
 
-  document.querySelectorAll('[data-aos]').forEach(function(elem) {
+  document.querySelectorAll('[data-aos]').forEach(function (elem) {
     if (elem.getAttribute('data-aos').slice(0, 4) === 'nojs') {
       elem.setAttribute('data-aos', elem.getAttribute('data-aos').slice(5));
     }
   });
 
-  AOS.init();
+  var experienceFigCaptions = document.querySelectorAll('.experience-image-block figcaption');
 
+  if (experienceFigCaptions.length > 0) {
+    callAndUpdateAfterResize(function () {
+      if (window.innerWidth <= 768) {
+        experienceFigCaptions.forEach(function (figcaption) {
+          figcaption.style.height = null;
+        });
+      } else {
+        var maxHeight = 0;
+        experienceFigCaptions.forEach(function (figcaption) {
+          figcaption.style.height = null;
+          maxHeight = Math.max(figcaption.offsetHeight, maxHeight);
+        });
+        experienceFigCaptions.forEach(function (figcaption) {
+          figcaption.style.height = maxHeight + 'px';
+        });
+      }
+    });
+  }
+
+  function callAndUpdateAfterResize(func) {
+    window.addEventListener('resize', debounce(func, 250));
+    window.addEventListener('orientationchange', func);
+    func();
+  }
+
+  function debounce(func, wait, immediate) {
+    var timeout;
+    return function () {
+      var context = this, args = arguments;
+      var later = function () {
+        timeout = null;
+        if (!immediate) func.apply(context, args);
+      };
+      var callNow = immediate && !timeout;
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+      if (callNow) func.apply(context, args);
+    };
+  };
+
+  AOS.init();
 })();

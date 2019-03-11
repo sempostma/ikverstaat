@@ -286,8 +286,9 @@ p::selection {
         bottom: 0;
         left: 0;
         right: 0;
-        min-height: 100px;
         background: rgba(0, 0, 0, 0.8);
+        display: block;
+        min-height: 100px;
     }
 }
 

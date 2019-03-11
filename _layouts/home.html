@@ -7,15 +7,13 @@ layout: default
             <h1 class="mb-0">Ienze Koekkoek
                 <span class="text-primary">Verstaat</span>
             </h1>
-            <div class="subheading mb-5">{{ page.sub_titel }}
+            <div class="subheading mb-5">{{ page.description }}
             </div>
-            <p class="lead mb-5">{{ page.description }}</p>
             {% comment %}
             <div class="social-icons">
                 {% include social.html %}
             </div>
-            {% endcomment %}
-            <!-- <div class="tel">
+            <div class="tel">
                 <a title="Bellen" href="tel:{{ site.telefoon }}">
                     <div class="fa fa-phone"></div>
                     <b>Bellen</b>
@@ -26,7 +24,8 @@ layout: default
                     <div class="fa fa-envelope"></div>
                     <b>Mailen</b>
                 </a>
-            </div> -->
+            </div>
+            {% endcomment %}
         </div>
     </section>
     <div id="diagonal-message">
@@ -60,6 +59,7 @@ layout: default
             <a href="/ervaring" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
         </p>
     </section>
+    {% comment %}
     <div id="home-page-carousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -96,6 +96,10 @@ layout: default
             <span class="sr-only">Next</span>
         </a>
     </div>
+    {% endcomment %}
+    {% if page.over_banner_image and page.over_banner_image != "" %}
+    <img style="width: 100%;" src="{{  page.over_banner_image }}" alt="Over sectie banner afbeelding">
+    {% endif %}
     <section class="container-fluid text-center" id="experience-home-section">
         <h2>Ervaring</h2>
     
