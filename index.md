@@ -49,7 +49,7 @@ slideshow:
   image: "/uploads/agriculture-country-countryside-810893.jpg"
 projecten:
 - title: Nieuwe Natuur Oostkant Dronten
-  description: Procesbegeleiding om met agrarische ondernemers nieuwe natuur in Dronten
+  description: Ik begeleid het proces om met de agrarische ondernemers de nieuwe natuur
     te realiseren. Dit is een uitvloeisel van het programma Nieuwe Natuur van de provincie
     Flevoland.
   image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
