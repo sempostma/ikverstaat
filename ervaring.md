@@ -9,7 +9,7 @@ image: ''
 ---
 ### ienze koekkoek - Verstaat
 
-Eigenaar van dit bedrijf. 
+Eigenaar van dit bedrijf.
 
 .
 
@@ -32,7 +32,7 @@ Optifield
 
 Kavelruilcoördinator vrijwillige kavelruilprojecten, project- en procesbegeleiding plattelandsontwikkelingsprojecten
 
-Voorbeelden: 
+Voorbeelden:
 
 * kavelruilcoördinator/gebiedsmakelaar Midden-Delfland
 * Gebiedsmakelaar Binnenveld (Wageningen en Rhenen)
@@ -64,6 +64,24 @@ Samenwerkingsverbanden (mee) opgezet: Boer-gondisch West-Brabant, Streekproducte
 
 2000 - 2005
 
-H3 DIK  Beleidsmedewerker Buitengebied
+**H3 DIK  Beleidsmedewerker Buitengebied**
 
 Gemeente Nijkerk
+
+Beleidsontwikkeling op het gebied van ruimtelijke ordening landelijke gebied
+
+Voorbeelden:
+
+* Ontwikkelen natuur- en landschapsbeleid
+* Aanleg en herstel van natuur en landschapselementen
+* Projectleider herziening bestemmingsplan Buitengebied
+* ROM-project Gelderse Vallei (voorloper van Reconstructie)
+* Herinrichting Nijkerk-Putten (landinrichtingsproject
+
+1990 - 2000
+
+H3 DIK Bestuurslid
+
+Altena Nieuwe Energie
+
+Mede-initiatiefnemer en oprichter duurzame energie coöperatie
