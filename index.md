@@ -19,8 +19,7 @@ colored_blocks:
   icon: "/uploads/support.png"
   color: "#f7a61b"
 - title: Waar streef ik naar
-  description: Samenwerking. Verbeteringen voor mens, milieu én economie. Antwoorden
-    heb ik niet in mijn achterzak, maar zoek ik met de mensen waarmee ik samenwerk.
+  description: Samenwerking. Verbeteringen voor mens, milieu én economie.
   icon: "/uploads/team.png"
   color: "#3f768a"
 over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ dat essentieel om samen verder
