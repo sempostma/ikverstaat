@@ -22,4 +22,4 @@ U bent vrij om ons verzoek om uw persoonlijke gegevens te weigeren, met dien ver
 
 Uw voortgezet gebruik van onze website zal worden beschouwd als acceptatie van onze praktijken rond privacy en persoonlijke informatie. Als u vragen heeft over hoe wij omgaan met gebruikersgegevens en persoonlijke informatie, neem dan gerust contact met ons op.
 
-Dit beleid is van kracht vanaf 22 februari 2018.
+Dit beleid is van kracht vanaf 22 februari 2019.
