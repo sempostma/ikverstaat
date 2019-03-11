@@ -92,3 +92,5 @@ Mede-initiatiefnemer en oprichter duurzame energie coöperatie
 * Postcoderoosprojecten
 * SDE+ projecten
 * Windenergieproject
+
+2012 - 2019
