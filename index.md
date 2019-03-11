@@ -12,10 +12,10 @@ colored_blocks:
   icon: "/uploads/network.png"
   color: "#5eab46"
 - title: Wat doe ik
-  description: Proces- en projectbegeleiding bij collectieve en individuele verandertrajecten
-    in het landelijke gebied. Bijvoorbeeld op het gebied van biodiversiteit, kringlooplandbouw,
-    klimaatadaptatie, bodemdaling, stad-plattelandrelaties en nieuwe functie voor
-    boerenerven.
+  description: "Proces- en projectbegeleiding bij collectieve en individuele verandertrajecten
+    in het landelijke gebied. Bijvoorbeeld op het gebied van biodiversiteit, \nnieuwe
+    natuur, kringlooplandbouw, klimaatadaptatie, bodemdaling, stad-plattelandrelaties
+    en nieuwe functie voor boerenerven."
   icon: "/uploads/support.png"
   color: "#f7a61b"
 - title: En gaat voor
