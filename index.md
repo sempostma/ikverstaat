@@ -2,9 +2,9 @@
 title: ienze koekkoek - Verstaat
 permalink: "/"
 layout: home
-sub_titel: Sub titel
-description: Duurzaam perspectief voor het landelijke gebied
-image: ''
+sub_titel: Subtitel
+description: " Duurzaam perspectief voor het landelijke gebied"
+image: "/uploads/agriculture-animal-close-up-1007809.jpg"
 colored_blocks:
 - title: ienze koekkoek - Verstaat
   description: De kunst van luisteren en begrijpen, verbinden en verbanden leggen,
@@ -63,5 +63,6 @@ projecten:
     een nieuwe functie voor hun agrarische erf (in het kader van VABIMPULS, provincie
     Noord-Brabant)
   image: "/uploads/agriculture-barn-clouds-462136.jpg"
+over_banner_image: ''
 
 ---
