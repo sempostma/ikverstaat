@@ -48,8 +48,10 @@ slideshow:
   description: Stukje tekst 5
   image: "/uploads/agriculture-country-countryside-810893.jpg"
 projecten:
-- title: Project 1
-  description: Stukje tekst.
+- title: Nieuwe Natuur Oostkant Dronten
+  description: 'De gemeente Dronten heeft met agrarische ondernemers een plan voor
+    nieuwe natuur gemaakt. De ondernemers hebben een intentieverklaring getekend om
+    voor de aanleg en het onderhoud te zorgen. Nu '
   image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
 - title: Project 2
   description: Stukje tekst.
