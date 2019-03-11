@@ -58,8 +58,10 @@ projecten:
     in gang te zetten in West-Brabant om landbouw, natuur, recreatie en consumenten
     meer met elkaar te integreren en samenwerken. Ik ben één van de procesbegeleiders.
   image: "/uploads/agriculture-animal-close-up-1007809.jpg"
-- title: Project 3
-  description: Stukje tekst.
+- title: Nieuwe functies voor boerenerven
+  description: Als deskundige begeleid ik gestopte agrariërs in hun zoektocht naar
+    een nieuwe functie voor hun agrarische erf (in het kader van VABIMPULS, provincie
+    Noord-Brabant)
   image: "/uploads/agriculture-barn-clouds-462136.jpg"
 
 ---
