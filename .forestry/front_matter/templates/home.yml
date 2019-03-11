@@ -120,6 +120,7 @@ fields:
     hidden: false
     config:
       maxSize: '50'
+  hidden: true
 - type: field_group_list
   label: De 3 projecten op de homepagina
   name: projecten
