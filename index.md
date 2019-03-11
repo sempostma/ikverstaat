@@ -53,8 +53,10 @@ projecten:
     te realiseren. Dit is een uitvloeisel van het programma Nieuwe Natuur van de provincie
     Flevoland.
   image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
-- title: Project 2
-  description: Stukje tekst.
+- title: Stichting De AmerkantOp
+  description: Agrarische ondernemers hebben het initiatief opgepakt om een gebiedsproces
+    in gang te zetten in West-Brabant om landbouw, natuur, recreatie en consumenten
+    meer met elkaar te integreren en samenwerken. Ik ben één van de procesbegeleiders.
   image: "/uploads/agriculture-animal-close-up-1007809.jpg"
 - title: Project 3
   description: Stukje tekst.
