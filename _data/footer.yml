@@ -18,5 +18,5 @@ pages:
   title: Privacy
   url: "/privacy"
 - page: privacy-policy.md
-  url: "/algemene-voorwaarden-website"
-  title: Algemene voorwaarden website
+  url: "/algemene-voorwaarden"
+  title: Algemene voorwaarden
