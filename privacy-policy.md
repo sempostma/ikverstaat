@@ -22,4 +22,8 @@ U bent vrij om ons verzoek om uw persoonlijke gegevens te weigeren, met dien ver
 
 Uw voortgezet gebruik van onze website zal worden beschouwd als acceptatie van onze praktijken rond privacy en persoonlijke informatie. Als u vragen heeft over hoe wij omgaan met gebruikersgegevens en persoonlijke informatie, neem dan gerust contact met ons op.
 
+## Cookies
+
+Op deze website worden alleen analytics cookies gebruikt. Deze website maakt gebruik van Google Analytics. Dit programma biedt belangrijke statistieken over het aantal bezoekers, de bezochte pagina's, de verkeersbronnen en andere essentiële informatie waarmee we deze website voor gebruikers continu kunnen verbeteren. Deze statistieken zijn anoniem en kunnen niet worden herleid worden tot een specifieke persoon of gebruiker. Er wordt geen gebruik gemaakt van "behavioural targeting" waarmee u speciale inhoud te zien krijgt op basis van uw klikgedrag; je surfgedrag blijft volledig anoniem. Gegevens van contactformulieren worden nooit verwerkt of opgeslagen in Analytics.
+
 Dit beleid is van kracht vanaf 22 februari 2019.
