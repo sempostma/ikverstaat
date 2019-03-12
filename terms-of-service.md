@@ -1,7 +1,7 @@
 ---
-title: Algemene voorwaarden website
-permalink: "/algemene-voorwaarden-website"
-description: De algemene voorwaarden van ikverstaat.nl website.
+title: Algemene voorwaarden
+permalink: "/algemene-voorwaarden"
+description: De algemene voorwaarden.
 layout: page
 image: ''
 
