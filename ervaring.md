@@ -16,6 +16,7 @@ Begeleiden van processen en projecten voor verandertrajecten in het landelijke g
 * Begeleiden stoppende en gestopte agrariërs bij zoektocht naar nieuwe functie gebouwen (VABIMPULS provincie Noord-Brabant)
 * Procesbegeleider nieuwe natuur gemeente Dronten
 * Procesbegeleider gebiedsproces De AmerkantOp in West-Brabant
+* Projectleider POP3 project 'Natuurinclusieve landbouw met burgerparticipatie'
 
 februari 2019 - heden
 
