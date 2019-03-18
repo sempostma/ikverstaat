@@ -2,9 +2,9 @@
 title: Over
 permalink: "/over"
 layout: over
-description: 'Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen
-  verder te komen. Verstaan is voor mij het centrale woord als ik processen en projecten
-  begeleid en bij  gesprekken aan de keukentafel. '
+description: 'Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’, dat essentieel is
+  om samen verder te komen. ''Verstaan'' is voor mij het centrale woord als ik processen
+  en projecten begeleid en bij  gesprekken aan de keukentafel. '
 image: "/uploads/cold-december-environment-760971.jpg"
 cta: Bekijk ook mijn ervaring.
 me: |-
