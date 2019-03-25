@@ -3,7 +3,7 @@ title: Ervaring
 permalink: "/ervaring"
 layout: ervaring
 description: Ik heb ervaring in het werken voor overheden, maatschappelijke organisaties
-  en adviesbureaus. Altijd voor het landelijke gebied
+  en adviesbureaus. Altijd voor het landelijke gebied.
 image: ''
 
 ---
