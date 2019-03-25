@@ -8,11 +8,15 @@ image: ''
 ---
 ### Nieuwe Natuur Oostkant Dronten
 
-De provincie Flevoland heeft in 2013 het Programma Nieuwe Natuur opgezet. Overheden en  (agrarische) ondernemers werden uitgedaagd om op een ondernemende manier nieuwe natuur te realiseren. De gemeente Dronten heeft hierop 'ingetekend'. Met een aantal agrarische ondernemers is een plan gemaakt om 60 ha nieuwe natuur te ontwikkelen en deels open te stellen voor recreanten.
+![](/uploads/Logo gemeente Dronten.JPG)
 
-Als proces- en projectbegeleider begeleid ik in opdracht van de gemeente de realisatie van deze nieuwe natuur. Er wordt een uitvoeringsovereenkomst tussen  ondernemers en gemeente ontworpen en getekend. Daarna komt de verder detaillering van de plannen aan de orde, het gesprek met de omgeving en de bestemmingsplanprocedure. Als dat is afgerond kan de uitvoering ter hand worden genomen en het beheer gestart.
+De provincie Flevoland heeft in 2013 het Programma Nieuwe Natuur opgezet. Overheden en  (agrarische) ondernemers werden uitgedaagd om op een ondernemende manier nieuwe natuur te realiseren. De gemeente Dronten heeft hierop 'ingetekend'. Met een aantal agrarische ondernemers en Staatsbosbeheer is een plan gemaakt om 69 ha nieuwe natuur te ontwikkelen en deels open te stellen voor recreanten.
+
+Als proces- en projectbegeleider begeleid ik in opdracht van de gemeente de realisatie van deze nieuwe natuur. Er wordt een uitvoeringsovereenkomst tussen ondernemers en gemeente ontworpen en getekend. Daarna komt de verder detaillering van de plannen aan de orde, het gesprek met de omgeving en de bestemmingsplanprocedure. Als dat is afgerond kan de uitvoering ter hand worden genomen en het beheer gestart.
 
 ### De AmerkantOp
+
+#  ![](/uploads/logo AmerkantOp.jpg)
 
 Medio 2018 hebben enkele agrarische en andere ondernemers het initiatief opgepakt om een gebiedsproces op te starten in West-Brabant; globaal het gebied tussen Geertruidenberg en Moerdijk (de Amerstreek).
 
@@ -24,7 +28,7 @@ In de eerste plaats willen we met de bewoners en de gebruikers van het gebied ee
 
 ### Nieuwe functies voor agrarische erven
 
-In het landelijke gebied zijn veel gestopte agrarische bedrijven. Veel agrarische ondernemers overwegen om te stoppen. De provincie Noord-Brabant stelt vouchers beschikbaar aan deze ondernemers om met deskundigen en specialisten te zoeken naar  alternatieve functies van het agrarische erf en de gebouwen en connectie met de omgeving.
+In het landelijke gebied zijn veel gestopte agrarische bedrijven. Veel agrarische ondernemers overwegen om te stoppen. De provincie Noord-Brabant stelt met VABIMPULS vouchers beschikbaar aan deze ondernemers om met deskundigen en specialisten te zoeken naar  alternatieve functies voor erf en de gebouwen en een connectie met de omgeving.
 
 Als deskundige begeleid ik diverse ondernemers in hun zoektocht naar een nieuwe invulling voor het erf.
 
