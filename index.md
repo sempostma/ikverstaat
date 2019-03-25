@@ -26,11 +26,10 @@ colored_blocks:
 over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen verder
   te komen. Verstaan is voor mij het centrale woord als ik processen en projecten
   begeleid en bij gesprekken aan de keuken- of vergadertafel.
-ervaring: Ik heb bijna 30 jaar ervaring in werken met bewoners en gebruikers van het
-  landelijke gebied. Die ervaring heb ik opgedaan als medewerker van een gemeente,
-  een landbouw organisatie en bij verschillende adviesbureaus. Met die ervaring weet
-  ik hoe het maatschappelijke krachtenveld er uit ziet en kan ik daar gebruik van
-  maken in mijn werk.
+ervaring: 'Ik werk bijna 30 jaar met bewoners en gebruikers van het landelijke gebied:
+  als beleidsmedewerker van een gemeente en als projectleider bij een  landbouworganisatie
+  en verschillende adviesbureaus. Met die ervaring weet ik hoe het maatschappelijke
+  krachtenveld er uit ziet en kan ik daar gebruik van maken in mijn werk.'
 slideshow:
 - title: Kopje 1
   description: Stukje tekst 1
