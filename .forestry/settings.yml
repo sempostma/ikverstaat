@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Nieuws
-  create: documents
-  match: "**/*"
-  templates:
-  - pagina
 - type: document
   path: _config.yml
   label: Website Instellingen
@@ -33,9 +27,12 @@ sections:
 - type: document
   path: projecten.md
   label: Projecten
-- type: document
-  path: contact.md
-  label: Contact
+- type: jekyll-pages
+  label: Nieuws
+  create: documents
+  match: "**/*"
+  templates:
+  - pagina
 - type: document
   path: index.md
   label: Home

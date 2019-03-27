@@ -152,3 +152,4 @@ fields:
     description: De achtergrond foto voor dit item. Een foto van het project.
 pages:
 - index.md
+- index.md
