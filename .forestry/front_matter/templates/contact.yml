@@ -32,5 +32,3 @@ fields:
   name: layout
   label: layout
   hidden: true
-pages:
-- contact.md
