@@ -30,7 +30,6 @@ sections:
 - type: jekyll-pages
   label: Nieuws
   create: documents
-  match: "**/*"
   templates:
   - pagina
 - type: document
