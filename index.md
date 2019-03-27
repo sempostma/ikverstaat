@@ -8,7 +8,8 @@ image: ''
 colored_blocks:
 - title: ienze koekkoek - Verstaat
   description: De kunst van luisteren en begrijpen, verbinden en verbanden leggen,
-    regelen en organiseren, creëren en structureren,  kennis en kunde beschikbaar  maken.
+    regelen en organiseren, creëren en structureren,  kennis en kunde beschikbaar
+    maken.
   icon: "/uploads/network.png"
   color: "#5eab46"
 - title: Wat doe ik
