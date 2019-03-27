@@ -32,7 +32,15 @@ share:
 - linkedin
 - whatsapp
 lang: nl
+collections:
+  posts:
+    output: true
 defaults:
+- scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
 - scope:
     path: ''
   values:
