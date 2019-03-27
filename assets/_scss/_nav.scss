@@ -22,6 +22,7 @@
         .navbar-nav {
             padding-right: 20px;
             .nav-item {
+                word-break: break-all;
                 .nav-link {
                     color:rgba(255, 255, 255, .6);
                 }
@@ -126,6 +127,7 @@
                 }
                 .nav-item-icon {
                     .icon-nav-label {
+                        position: absolute;
                         display: none;
                     }
                     .nav-link {
@@ -139,14 +141,43 @@
                         }
                     }
                 }
-                .nav-item-icon:hover {
+                .nav-item-icon.fake-link:hover {
                     background-color: transparent;
                     .nav-link .fa {
                         background-color: #86a9b5;
                     }
+                    .icon-nav-label {
+                        display: block;
+                        background-color: #86a9b5;
+                        white-space: nowrap;
+                        vertical-align: middle;
+                        word-break: normal;
+                        right: 0px;
+                        top: 0;
+                        height: 100%;
+                        padding: 0 100px;
+                        animation: openNavLink 200ms ease;
+                        transform-origin: right center;
+                    }
+                    .icon-nav-label::before {
+                        content: "";
+                        display: inline-block;
+                        width: 1px;
+                        height: 100%;
+                        vertical-align: middle;
+                    }
                 }
             }
         }
+    }
+}
+
+@keyframes openNavLink {
+    from {
+        transform: scaleX(0);
+    }
+    to {
+        transform: scaleX(1);
     }
 }
 
@@ -155,16 +186,24 @@
         transition: none;
         padding-top: 0;
         height: auto !important;
-        span.icon-nav-label {
-            display: none;
-        }
-        li.nav-item.nav-item-icon {
-            display: inline-block;
-        }
+        // span.icon-nav-label {
+        //     display: none;
+        // }
+        // li.nav-item.nav-item-icon {
+        //     display: inline-block;
+        // }
         .navbar-collapse .navbar-nav {
             text-align: center;
+            padding-right: 0;
+        }
+        .divider {
+            border-top: 0.5px solid #e7e7e7;
         }
     }
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 400px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {

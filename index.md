@@ -11,18 +11,18 @@ colored_blocks:
     regelen en organiseren, creëren en structureren,  kennis en kunde beschikbaar
     maken.
   icon: "/uploads/network.png"
-  color: "#5eab46"
+  color: "#017bb2"
 - title: Wat doe ik
   description: 'Proces- en projectbegeleiding in het landelijke gebied.  Geen pasklare
     antwoorden, maar samen de weg zoeken naar een optimaal resultaat. '
   icon: "/uploads/support.png"
-  color: "#f7a61b"
+  color: "#009b57"
 - title: Werkvelden
   description: Biodiversiteit, nieuwe natuur, kringlooplandbouw, klimaatadaptatie,
     bodemdaling, stad-plattelandrelaties, duurzame energie, landbouw en nieuwe functie
     voor boerenerven.
   icon: "/uploads/team.png"
-  color: "#3f768a"
+  color: "#00675c"
 over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen verder
   te komen. Verstaan is voor mij het centrale woord als ik processen en projecten
   begeleid en bij gesprekken aan de keuken- of vergadertafel.

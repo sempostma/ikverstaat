@@ -6,7 +6,10 @@ layout: default
         style="background-image: url('/assets/img/generic-images/cold-december-environment-760971.jpg')">
         <figcaption class="container-fluid">
             <div class="container padding-top-special">
-                <h1 class="color-white page-title">{{ page.title }}</h1>
+                <h1 class="color-white page-title">
+                    {{ page.title }}
+                    <img src="/assets/img/ikverstaat512.png" height="180" alt="Logo">
+                </h1>
                 <p class="color-white lead">{{ page.description }}</p>
                 <div style="margin-top: 60px"></div>
                 <a href="/ervaring" data-aos="nojs-fade-left" class="btn btn-white">Bekijk ook mijn ervaring.</a>
@@ -52,6 +55,9 @@ layout: default
             {% endcomment %}
         </div>
     </section>
+    {% assign check = content | strip_newlines %}
+    {% if check != '' and check %}
+    <div style="padding-top: 50px"></div>
     <section class="container" id="over">
         <div class="col-xs-12">
             <p>
@@ -60,4 +66,5 @@ layout: default
         </div>
     </section>
     <div style="padding-top: 50px"></div>
+    {% endif %}
 </main>

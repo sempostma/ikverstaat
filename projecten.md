@@ -16,7 +16,7 @@ Als proces- en projectbegeleider begeleid ik in opdracht van de gemeente de real
 
 ### De AmerkantOp
 
-#  ![](/uploads/logo AmerkantOp.jpg)
+![](/uploads/logo AmerkantOp.jpg)
 
 Medio 2018 hebben enkele agrarische en andere ondernemers het initiatief opgepakt om een gebiedsproces op te starten in West-Brabant; globaal het gebied tussen Geertruidenberg en Moerdijk (de Amerstreek).
 

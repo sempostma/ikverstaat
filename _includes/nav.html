@@ -1,4 +1,4 @@
-<nav id="sideNav" class="padding-top-special navbar navbar-default bg-primary navbar-fixed-top">
+<nav id="sideNav" class="padding-top-special navbar navbar-default bg-secondary navbar-fixed-top">
     
     <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
@@ -10,27 +10,28 @@
         </button>
         <a class="navbar-brand" href="/">
             <img class="hidden-xs img-profile img-circle" src="/assets/img/profile.jpg" alt="Een grote profiel foto">
-            <img class="hidden-lg hidden-md hidden-sm img-profile" src="/assets/img/logo-sm-white.png" alt="Een kleine profiel foto">
+            <img class="hidden-lg hidden-md hidden-sm img-profile" src="/assets/img/white-text.png" alt="Een kleine profiel foto">
         </a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
             {% for item in site.data.menu %}
-            <li class="nav-item">
+            <li class="nav-item page-nav-item">
                 <a class="nav-link{% if page.permalink == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
             </li>  
             {% endfor %}
+            <li role="separator" class="divider"></li>
             <li class="divider" role="presentation"></li>
-            <li class="nav-item nav-item-icon">
-                <a class="nav-link" title="Bellen" href="tel:{{ site.telefoon }}">
+            <li class="nav-item nav-item-icon fake-link">
+                <a class="nav-link" title="Bellen">
                     <div class="fa fa-phone"></div>
-                    <span class="icon-nav-label">Bellen</span>
+                    <span class="icon-nav-label">{{ site.telefoon }}</span>
                 </a>
             </li>
-            <li class="nav-item nav-item-icon">
-                <a class="nav-link" title="Mailen" href="mailto:{{ site.email }}">
+            <li class="nav-item nav-item-icon fake-link">
+                <a class="nav-link" title="Mailen">
                     <div class="fa fa-envelope"></div>
-                    <span class="icon-nav-label">Mailen</span>
+                    <span class="icon-nav-label">{{ site.email }}</span>
                 </a>
             </li>
             {% if site.twitter_username%}<li class="nav-item nav-item-icon">

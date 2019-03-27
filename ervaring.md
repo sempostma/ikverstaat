@@ -22,7 +22,7 @@ februari 2019 - heden
 
 ### Adviseur ontwikkeling landelijk gebied
 
-**Adviesbureau Eelerwoude ![](/uploads/logo Eelerwoude-logo-2018.png)**
+![](/uploads/logo Eelerwoude-logo-2018.png)**Adviesbureau Eelerwoude**
 
 Begeleiden van processen en verandertrajecten in het landelijke gebied
 
@@ -35,9 +35,7 @@ Begeleiden van processen en verandertrajecten in het landelijke gebied
 
 ### Projectleider
 
-**Adviesbureau Optifield**
-
-![](/uploads/logo cropped optifield-new.png)
+![](/uploads/logo cropped optifield-new.png)**Adviesbureau Optifield**
 
 Kavelruilcoördinator vrijwillige kavelruilprojecten, project- en procesbegeleiding plattelandsontwikkelingsprojecten
 
@@ -51,9 +49,7 @@ Kavelruilcoördinator vrijwillige kavelruilprojecten, project- en procesbegeleid
 
 ### Projectleider landelijk gebied
 
-**BügelHajema Adviseurs**
-
-![](/uploads/logo BugelHajema.png)
+![](/uploads/logo BugelHajema.png)**BügelHajema Adviseurs**
 
 Projectleider bestemmingsplannen buitengebied
 
@@ -64,9 +60,7 @@ Projectleider bestemmingsplannen buitengebied
 
 ### Afdelingsfunctionaris en Adviseur Gebiedsgerichte Vernieuwing
 
-**Zuidelijke Land- en Tuinbouw Organisatie (ZLTO)**
-
-![](/uploads/zlto-logo.jpg)
+![](/uploads/zlto-logo.jpg)**Zuidelijke Land- en Tuinbouw Organisatie (ZLTO)**
 
 Ondersteunen van plaatselijke besturen ZLTO. Projectontwikkeling en -leiding projecten met agrarische ondernemers, gemeenten, natuurorganisaties en waterschappen.
 
@@ -76,9 +70,7 @@ Samenwerkingsverbanden (mee) opgezet: Boer-gondisch West-Brabant, Streekproducte
 
 ### Beleidsmedewerker Buitengebied
 
-**Gemeente Nijkerk**
-
-![](/uploads/logo gemeente Nijkerk.png)
+![](/uploads/logo gemeente Nijkerk.png)**Gemeente Nijkerk**
 
 Beleidsontwikkeling op het gebied van ruimtelijke ordening landelijke gebied
 
@@ -90,9 +82,9 @@ Beleidsontwikkeling op het gebied van ruimtelijke ordening landelijke gebied
 
 1990 - 2000
 
-### Bestuurslid ![](/uploads/Logo Altena Nieuwe Energie.png)
+### Bestuurslid 
 
-**Altena Nieuwe Energie**
+![](/uploads/Logo Altena Nieuwe Energie.png)**Altena Nieuwe Energie**
 
 Mede-initiatiefnemer en oprichter duurzame energie coöperatie
 

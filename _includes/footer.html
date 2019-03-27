@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row footer-header">
             <div class="col-xs-12">
-                <img class="img-responsive" style="margin: auto" width="200" src="/assets/img/logo-sm-white.png"
+                <img class="img-responsive" style="margin: auto" width="200" src="/assets/img/ikverstaat512x512.png"
                     alt="Klein logo">
                 <hr>
             </div>
@@ -23,12 +23,12 @@
                 <p>
                     <b>Bellen</b>
                     <br>
-                    <a title="Bellen" href="tel:{{ site.telefoon }}">{{ site.telefoon }}</a>
+                    <a title="Bellen" data-href="tel:{{ site.telefoon }}">{{ site.telefoon }}</a>
                 </p>
                 <p>
                     <b>Email</b>
                     <br>
-                    <a title="Mailen" href="mailto:{{ site.email }}">{{ site.email }}</a>
+                    <a title="Mailen" data-href="mailto:{{ site.email }}">{{ site.email }}</a>
                 </p>
 
                 {% include social.html %}
