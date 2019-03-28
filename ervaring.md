@@ -22,7 +22,7 @@ februari 2019 - heden
 
 ### Adviseur ontwikkeling landelijk gebied
 
-![](/uploads/logo Eelerwoude-logo-2018.png)**Adviesbureau Eelerwoude**
+![](/uploads/logo Eelerwoude-logo-2018.png)
 
 Begeleiden van processen en verandertrajecten in het landelijke gebied
 
@@ -35,7 +35,7 @@ Begeleiden van processen en verandertrajecten in het landelijke gebied
 
 ### Projectleider
 
-![](/uploads/logo cropped optifield-new.png)**Adviesbureau Optifield**
+![](/uploads/logo cropped optifield-new.png)
 
 Kavelruilcoördinator vrijwillige kavelruilprojecten, project- en procesbegeleiding plattelandsontwikkelingsprojecten
 
@@ -49,7 +49,7 @@ Kavelruilcoördinator vrijwillige kavelruilprojecten, project- en procesbegeleid
 
 ### Projectleider landelijk gebied
 
-![](/uploads/logo BugelHajema.png)**BügelHajema Adviseurs**
+![](/uploads/logo BugelHajema.png)
 
 Projectleider bestemmingsplannen buitengebied
 
@@ -60,7 +60,9 @@ Projectleider bestemmingsplannen buitengebied
 
 ### Afdelingsfunctionaris en Adviseur Gebiedsgerichte Vernieuwing
 
-![](/uploads/zlto-logo.jpg)**Zuidelijke Land- en Tuinbouw Organisatie (ZLTO)**
+![](/uploads/zlto-logo.jpg)
+
+**Organisatie (ZLTO)**
 
 Ondersteunen van plaatselijke besturen ZLTO. Projectontwikkeling en -leiding projecten met agrarische ondernemers, gemeenten, natuurorganisaties en waterschappen.
 
@@ -70,7 +72,7 @@ Samenwerkingsverbanden (mee) opgezet: Boer-gondisch West-Brabant, Streekproducte
 
 ### Beleidsmedewerker Buitengebied
 
-![](/uploads/logo gemeente Nijkerk.png)**Gemeente Nijkerk**
+![](/uploads/logo gemeente Nijkerk.png)
 
 Beleidsontwikkeling op het gebied van ruimtelijke ordening landelijke gebied
 
@@ -82,7 +84,7 @@ Beleidsontwikkeling op het gebied van ruimtelijke ordening landelijke gebied
 
 1990 - 2000
 
-### Bestuurslid 
+### Bestuurslid
 
 ![](/uploads/Logo Altena Nieuwe Energie.png)**Altena Nieuwe Energie**
 
