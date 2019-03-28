@@ -1,5 +1,5 @@
 ---
-title: Over <logo>
+title: Over
 permalink: "/over"
 layout: over
 description: 'Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’, dat essentieel is

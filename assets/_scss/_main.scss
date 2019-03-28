@@ -309,6 +309,9 @@ h1 {
         vertical-align: bottom;
         margin-right: 9px;
     }
+    h3 {
+        margin-top: 60px;
+    }
 }
 
 .btn {
@@ -510,6 +513,7 @@ footer {
 
 .over-top-content {
     background: $secondary;
+    background-color: #009b57;
     padding: 50px 0;
     min-height: 425px;
 }
