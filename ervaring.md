@@ -62,8 +62,6 @@ Projectleider bestemmingsplannen buitengebied
 
 ![](/uploads/zlto-logo.jpg)
 
-**Organisatie (ZLTO)**
-
 Ondersteunen van plaatselijke besturen ZLTO. Projectontwikkeling en -leiding projecten met agrarische ondernemers, gemeenten, natuurorganisaties en waterschappen.
 
 Samenwerkingsverbanden (mee) opgezet: Boer-gondisch West-Brabant, Streekproducten Brabantse Wal Asperges, Verenigingen van glastuinders in Zevenbergen en Etten-Leur, agrarische natuurverenigingen (ANV Drimmelen & Moerdijk, ANV Slagenland, ANV Baarle-Nassau e.o.).
