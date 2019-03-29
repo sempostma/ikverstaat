@@ -84,7 +84,7 @@ Beleidsontwikkeling op het gebied van ruimtelijke ordening landelijke gebied
 
 ### Bestuurslid
 
-![](/uploads/Logo Altena Nieuwe Energie.png)**Altena Nieuwe Energie**
+![](/uploads/Logo Altena Nieuwe Energie.png)
 
 Mede-initiatiefnemer en oprichter duurzame energie coöperatie
 
