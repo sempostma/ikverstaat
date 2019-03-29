@@ -9,7 +9,7 @@ image: ''
 ---
 ### Eigenaar
 
-**ienze koekkoek - Verstaat**
+![](/uploads/IK-Verstaat_Logo_RGB-01.jpg)
 
 Begeleiden van processen en projecten voor verandertrajecten in het landelijke gebied
 

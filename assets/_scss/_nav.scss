@@ -62,6 +62,9 @@
                 border: 0.5rem solid fade-out($white, 0.8);
             }
         }
+        .fa-phone, .fa-envelope {
+            display: none;
+        }
         .navbar-collapse {
             width: 100%;
             .navbar-nav {
