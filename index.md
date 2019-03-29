@@ -7,10 +7,9 @@ description: " Duurzaam perspectief voor het landelijke gebied"
 image: ''
 colored_blocks:
 - title: ienze koekkoek - Verstaat
-  description: Verstaan is essentieel om te begrijpen. Vandaar mijn bedrijfsnaam.
-    Mensen en situaties breng ik in een proces bij elkaar om veranderingen tot stand
-    te brengen, oplossingen te verzinnen, plannen te maken en uit te voeren. Ik ben
-    tevreden als ik mezelf overbodig maak.
+  description: 'Verstaan is essentieel om te begrijpen. Ik breng mensen en situaties
+    bij elkaar om samen veranderingen tot stand te brengen, oplossingen te verzinnen,
+    plannen te maken en uit te voeren. '
   icon: "/uploads/network.png"
   color: "#017bb2"
 - title: Wat doe ik
