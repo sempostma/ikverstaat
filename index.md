@@ -62,6 +62,6 @@ projecten:
     een nieuwe functie voor hun agrarische erf (in het kader van VABIMPULS, provincie
     Noord-Brabant)
   image: "/uploads/agriculture-barn-clouds-462136.jpg"
-over_banner_image: "/uploads/IMG_1613.JPG"
+over_banner_image: "/uploads/IMG_1652.JPG"
 
 ---
