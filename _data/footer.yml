@@ -17,6 +17,3 @@ pages:
 - page: contact.md
   title: Privacy
   url: "/privacy"
-- page: privacy-policy.md
-  url: "/algemene-voorwaarden"
-  title: Algemene voorwaarden
