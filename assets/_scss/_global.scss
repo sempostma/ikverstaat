@@ -42,6 +42,16 @@ h6 {
 h1 {
     font-size: 6rem;
     line-height: 5.5rem;
+
+    @media screen and (max-width: 530px) {
+        font-size: 4rem;
+        line-height: 3.5rem;
+    }
+
+    @media screen and (max-width: 370px) {
+        font-size: 3rem;
+        line-height: 2.5rem;
+    }
 }
 
 h2 {

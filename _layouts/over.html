@@ -4,55 +4,55 @@ layout: default
 <header>
     <figure class="over-header-image" class="relative"
         style="background-image: url('/assets/img/generic-images/cold-december-environment-760971.jpg')">
-        <figcaption class="container-fluid">
-            <div class="container padding-top-special">
-                <h1 class="color-white page-title" style="margin-top: 0">
-                    {{ page.title }}
-                    <img src="/assets/img/ikverstaat512.png" height="180" alt="Logo">
-                </h1>
-                <p class="color-white lead">{{ page.description }}</p>
-                <div style="margin-top: 60px"></div>
-                <a href="/ervaring" data-aos="nojs-fade-left" class="btn btn-white">Bekijk ook mijn ervaring.</a>
-            </div>
+        <figcaption class="padding-top-special container">
+            <h1 class="color-white page-title" style="margin-top: 0">
+                {{ page.title }}
+                <img src="/assets/img/ikverstaat512.png" height="180" alt="Logo">
+            </h1>
+            <p class="color-white lead">{{ page.description }}</p>
+            <div style="margin-top: 60px"></div>
+            <a href="/ervaring" data-aos="nojs-fade-left" class="btn btn-white">Bekijk ook mijn ervaring.</a>
         </figcaption>
     </figure>
 </header>
 <main>
     <section class="container-fluid over-top-content">
         <div class="container relative">
-            <div class="col-xs-12 col-sm-6 color-white">
-                <div class="over-text-center-vertical-align"></div>
-                <p class="over-text">
-                    {{ page.me }}
-                </p>
-            </div>
-            {% comment %}
-            <div class="col-xs-12 col-sm-6">
-                <div class="panel panel-default over-panel" data-aos="nojs-flip-down">
-                    <!-- Default panel contents -->
-                    <div class="panel-heading">
-                        <img src="/assets/img/profile.jpg" alt="Foto die bij de beschrijving hoort."
-                            class="img-responsive">
-                        Wat meer over mij...
-                    </div>
-                    <!-- Table -->
-                    <table class="table" role="presentation">
-                        <tr>
-                            <td>Naam</td>
-                            <td>Ienze Koekkoek</td>
-                        </tr>
-                        <tr>
-                            <td>Vorig</td>
-                            <td>...</td>
-                        </tr>
-                        <tr>
-                            <td>Opleiding</td>
-                            <td>...</td>
-                        </tr>
-                    </table>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 color-white">
+                    <div class="over-text-center-vertical-align"></div>
+                    <p class="over-text">
+                        {{ page.me }}
+                    </p>
                 </div>
+                {% comment %}
+                <div class="col-xs-12 col-sm-6">
+                    <div class="panel panel-default over-panel" data-aos="nojs-flip-down">
+                        <!-- Default panel contents -->
+                        <div class="panel-heading">
+                            <img src="/assets/img/profile.jpg" alt="Foto die bij de beschrijving hoort."
+                                class="img-responsive">
+                            Wat meer over mij...
+                        </div>
+                        <!-- Table -->
+                        <table class="table" role="presentation">
+                            <tr>
+                                <td>Naam</td>
+                                <td>Ienze Koekkoek</td>
+                            </tr>
+                            <tr>
+                                <td>Vorig</td>
+                                <td>...</td>
+                            </tr>
+                            <tr>
+                                <td>Opleiding</td>
+                                <td>...</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                {% endcomment %}
             </div>
-            {% endcomment %}
         </div>
     </section>
     {% assign check = content | strip_newlines %}
