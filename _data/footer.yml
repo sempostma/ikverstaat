@@ -11,9 +11,9 @@ pages:
   url: "/ervaring"
 - title: Projecten
   url: "/projecten"
-- page: ervaring.md
-  title: Contact
-  url: "/contact"
+# - page: ervaring.md
+#   title: Contact
+#   url: "/contact"
 - page: contact.md
   title: Privacy
   url: "/privacy"
