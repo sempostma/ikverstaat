@@ -30,9 +30,11 @@ layout: default
         </div>
         {% endcomment %}
     </section>
+    {% comment %}
     <div id="diagonal-message" class="bg-primary">
         <a href="/contact">Stel een vraag</a>
     </div>
+    {% endcomment %}
     <section class="blocks container-fluid" id="blocks">
         <div class="row">
             {% for block in page.colored_blocks %}
@@ -58,7 +60,7 @@ layout: default
         <p>{{ page.over }}</p>
 
         <div style="padding-top: 20px; padding-bottom: 10px;">
-            <a href="/ervaring" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
+            <a href="/over" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
             <img class="waaier" src="/uploads/waaier_cropped.png" alt="Waaier">
         </div>
 
