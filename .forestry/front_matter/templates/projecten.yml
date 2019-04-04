@@ -16,14 +16,6 @@ fields:
     mensen links posten naar de website.
   config:
     required: true
-- type: file
-  name: image
-  label: Afbeelding
-  description: Optioneel. Soms zet google deze foto naast jouw website bij de zoekresultaten.
-    Een icon van deze foto kun je ook zien als je een link naar deze pagina op whatsapp
-    plaatst bijvoorbeeld.
-  config:
-    maxSize: '10'
 - type: text
   name: permalink
   label: permalink

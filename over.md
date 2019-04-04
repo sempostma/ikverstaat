@@ -5,7 +5,6 @@ layout: over
 description: 'Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’, dat essentieel is
   om samen verder te komen. ''Verstaan'' is voor mij het centrale woord als ik processen
   en projecten begeleid en bij  gesprekken aan de keukentafel. '
-image: "/uploads/cold-december-environment-760971.jpg"
 background_image: "/uploads/IMG_1641.JPG"
 over_logo: "/uploads/logo_with_shadow.png"
 cta: Bekijk ook mijn ervaring.

@@ -3,8 +3,6 @@ title: Privacyverklaring
 permalink: "/privacy"
 description: Privacyverklaring pagina.
 layout: page
-image: ''
-
 ---
 # Privacyverklaring
 

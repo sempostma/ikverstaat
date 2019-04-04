@@ -17,14 +17,6 @@ fields:
   config:
     required: true
 - type: file
-  name: image
-  label: Afbeelding
-  description: Optioneel. Soms zet google deze foto naast jouw website bij de zoekresultaten.
-    Een icon van deze foto kun je ook zien als je een link naar deze pagina op whatsapp
-    plaatst bijvoorbeeld.
-  config:
-    maxSize: '10'
-- type: file
   name: banner_image
   label: Banner Afbeelding
   description: Deze foto staat achter het IK Verstaat logo, helemaal bovenaan in de website.

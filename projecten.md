@@ -3,8 +3,6 @@ title: Projecten
 permalink: "/projecten"
 layout: projecten
 description: Een korte uitleg, zichtbaar op de website en op google.
-image: ''
-
 ---
 ### Nieuwe Natuur Oostkant Dronten
 

@@ -5,25 +5,24 @@
   <meta http-equiv="Content-Security-Policy" content="worker-src 'self' http: https: ;">
   <meta name="keywords" content="ikverstaat, landbouw, duurzaam, samenwerken, verstaan, Altena">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="{{ site.blauwe_accent_kleur }}">
+  <meta name="theme-color" content="{{ site.groene_accent_kleur }}">
 
   <title>{{ page.title }}</title>
   {% seo title=false %}
 
-  <meta property="og:type" content="website" /> 
+  <meta property="og:type" content="WebSite" /> 
 
   <meta itemprop="name" content="{{ page.title }}"/>
   <meta itemprop="description" content="{{ page.description | default: site.description }}"/>
-  <meta itemprop="image" content="{{ page.image }}"/>
+  <meta itemprop="image" content="{{ page.image | absolute_url }}"/>
 
-  <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="{{ page.title }}"/>
   <meta name="twitter:description" content="{{ page.description | default: site.description }}"/>
-  <meta name="twitter:image:src" content="{{ page.image | default: site.image }}"/>
+  <meta name="twitter:image" content="{{ page.image | default: site.image | absolute_url }}"/>
 
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="{{ site.blauwe_accent_kleur }}">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="{{ site.groene_accent_kleur }}">
   <meta name="msapplication-config" content="/browserconfig.xml" />
-  <meta name="msapplication-TileColor" content="{{ site.blauwe_accent_kleur }}">
+  <meta name="msapplication-TileColor" content="{{ site.groene_accent_kleur }}">
   <meta name="msapplication-TileImage" content="/assets/img/meta-icons/ms-icon-144x144.png">
   
   <link rel="image_src" href="{{ page.image | default: site.image | absolute_url }}" />
@@ -53,37 +52,31 @@
   <link rel="mask-icon" href="/assets/img/meta-icons/safari-pinned-tab.svg" color="{{ site.blauwe_accent_kleur }}">
   <link rel="shortcut icon" href="/assets/img/meta-icons/favicon.ico">
 
-  
   <link rel="manifest" href="/manifest.json">
 
   <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
   <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
   <link rel="dns-prefetch" href="https://cdn.polyfill.io" />
   
-  <!-- <link rel="preload" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" as="style"> -->
-  <!-- <link rel="preload" href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" as="style"> -->
-  
   <link rel="preload" href="/assets/vendor/bootstrap/css/bootstrap.min.css" as="style">
   <link rel="preload" href="/assets/vendor/fontawesome/css/font-awesome.min.css" as="style">
   <link rel="preload" href="/assets/css/style.css" as="style">
   <link rel="preload" href="/assets/vendor/aos/aos.css" as="style">
   
-  <!-- <link rel="preload" crossorigin="anonymous" href="https://fonts.gstatic.com/s/muli/v12/7Au_p_0qiz-adZXgOCX2zw.woff2" as="font"> -->
-  <!-- <link rel="preload" crossorigin="anonymous" href="https://fonts.gstatic.com/s/sairaextracondensed/v4/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrU23h2wph.woff2" as="font"> -->
+  <link rel="preload" crossorigin="anonymous" href="https://fonts.gstatic.com/s/firasans/v9/va9E4kDNxMZdWfMOD5Vvl4jL.woff2" as="font">
 
   <link rel="preload" href="https://cdn.polyfill.io/v2/polyfill.min.js" as="script">
   <link rel="preload" href="/assets/vendor/bootstrap-native.min.js" as="script">
   <link rel="preload" href="/assets/vendor/aos/aos.js" as="script">
   <link rel="preload" href="/assets/js/main.js" as="script">
 
-  <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400" rel="stylesheet">
   <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="/assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="/assets/css/style.css" rel="stylesheet">
   <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
 
   <link rel="prefetch" href="/">
-  <link rel="prefetch" href="/contact">
   <link rel="prefetch" href="/ervaring">
   <link rel="prefetch" href="/over">
 
