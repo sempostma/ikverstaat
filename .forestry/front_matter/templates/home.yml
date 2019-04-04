@@ -19,7 +19,8 @@ fields:
 - type: file
   name: banner_image
   label: Banner Afbeelding
-  description: Deze foto staat achter het IK Verstaat logo, helemaal bovenaan in de website.
+  description: Deze foto staat achter het IK Verstaat logo, helemaal bovenaan in de
+    website.
   config:
     maxSize: '10'
 - type: file
