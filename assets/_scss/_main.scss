@@ -224,18 +224,26 @@ h1 {
         text-transform: uppercase;
     }
 
-    min-height: 200px;
-    margin: 40px 0;
-    height: calc(100vh - 450px);
-    max-height: 300px;
+
+    margin: 0;
     transition: all 500ms ease;
-    // background: #fff;
-    // background: linear-gradient(rgba(#fff, .6), rgba(#fff, .6)),
-    // url('/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg');
-    background-image: url('/assets/img/ikverstaat1400.jpg');
+    background: #fff;
+    background: linear-gradient(rgba(#fff, .6), rgba(#fff, .6)),
+    $home_image_banner;
+    background-size: cover;
+    background-position: center center;
+}
+
+#intro-logo {
+    background-image: $home_image_logo;
     background-size: contain;
     background-repeat: no-repeat;
+    width: 100%;
     background-position: center center;
+    height: 200px;
+    height: calc(100vh - 450px);
+    min-height: 200px;
+    max-height: 400px;
 
     @media screen and (max-width: 992px) {
         & {
@@ -246,18 +254,6 @@ h1 {
     @media screen and (max-width: 768px) {
         & {
             height: calc(100vh - 390px);
-        }
-    }
-
-    @media screen and (min-width: 1400px) {
-        & {
-            background-image: url('/assets/img/ikverstaat2000.jpg');
-        }
-    }
-
-    @media screen and (min-width: 2000px) {
-        & {
-            background-image: url('/assets/img/ikverstaat.jpg');
         }
     }
 }
@@ -273,6 +269,7 @@ h1 {
     padding: 0 100px;
     z-index: 2;
     top: 192px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
 
     a {
         color: #fff;
@@ -306,13 +303,15 @@ h1 {
     }
 }
 
-#experience, #projecten {
+#experience,
+#projecten {
     img {
         display: inline-block;
         max-height: 60px;
         vertical-align: bottom;
         margin-right: 9px;
     }
+
     h3 {
         margin-top: 60px;
         font-size: 1.5rem;
@@ -373,14 +372,47 @@ p::selection {
     }
 }
 
+.waaier {
+    width: 300px;
+    max-width: 70%;
+    display: block;
+    margin: 0 auto;
+}
+
+#over-home-section .waaier,
+#experience-home-section .waaier {
+    margin-top: -27px;
+    position: relative;
+    z-index: -1;
+}
+
+.over-header-image {
+    img {
+        // logo
+        @media screen and (max-width: 992px) {
+            height: 100px;
+        }
+    }
+}
+
+.waaier-aligned {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
+    width: 50%;
+    transition: all 200ms ease;
+}
+
 footer {
     background-color: $footer_bg;
+    background-color: #334046;
     color: rgba(255, 255, 255, .8);
 
     img {
-        padding: 20px;
-        border-radius: 50%;
-        background: #fff;
+        // padding: 20px;
+        // border-radius: 50%;
+        // background: #fff;
         margin: 30px auto;
     }
 

@@ -5,6 +5,8 @@ layout: home
 sub_titel: Subtitel
 description: " Duurzaam perspectief voor het landelijke gebied"
 image: ''
+banner_image: "/uploads/IMG_1618.JPG"
+banner_logo: "/uploads/logo_with_shadow.png"
 colored_blocks:
 - title: ienze koekkoek - Verstaat
   description: 'Verstaan is essentieel om te begrijpen. Ik breng mensen en situaties

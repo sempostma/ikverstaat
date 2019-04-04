@@ -3,6 +3,7 @@ layout: default
 ---
 <main>
     <section class="container-fluid" id="intro">
+        <div id="intro-logo"></div>
         {% comment %}
         <div class="container padding-top-special"> -->
             <h1 class="mb-0">
@@ -26,8 +27,8 @@ layout: default
                     <b>Mailen</b>
                 </a>
             </div>
-            {% endcomment %}
         </div>
+        {% endcomment %}
     </section>
     <div id="diagonal-message" class="bg-primary">
         <a href="/contact">Stel een vraag</a>
@@ -56,9 +57,11 @@ layout: default
 
         <p>{{ page.over }}</p>
 
-        <p style="padding-top: 20px; padding-bottom: 30px;">
+        <div style="padding-top: 20px; padding-bottom: 10px;">
             <a href="/ervaring" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
-        </p>
+            <img class="waaier" src="/uploads/waaier_cropped.png" alt="Waaier">
+        </div>
+
     </section>
     {% comment %}
     <div id="home-page-carousel" class="carousel slide" data-ride="carousel">
@@ -105,9 +108,10 @@ layout: default
 
         <p>{{ page.ervaring }}</p>
 
-        <p style="padding-top: 20px; padding-bottom: 30px;">
+        <div style="padding-top: 20px; padding-bottom: 10px;">
             <a href="/ervaring" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
-        </p>
+            <img class="waaier" src="/uploads/waaier_cropped.png" alt="Waaier">
+        </div>
     </section>
     <section id="experience-images-home-section container-fluid">
         <div class="row nopadding nomargin">

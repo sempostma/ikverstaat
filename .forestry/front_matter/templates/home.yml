@@ -24,6 +24,18 @@ fields:
     plaatst bijvoorbeeld.
   config:
     maxSize: '10'
+- type: file
+  name: banner_image
+  label: Banner Afbeelding
+  description: Deze foto staat achter het IK Verstaat logo, helemaal bovenaan in de website.
+  config:
+    maxSize: '10'
+- type: file
+  name: banner_logo
+  label: Banner Logo
+  description: Dit is het logo, helemaal bovenaan in de website.
+  config:
+    maxSize: '10'
 - type: text
   name: sub_titel
   label: Subtitel

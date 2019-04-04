@@ -37,7 +37,11 @@ $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
 
+{% assign homepage = site.pages | where: "name", "index.md" | first %}
+
 $footer_bg:     {{site.footer_background}} !default;
+$home_image_banner: url({{homepage.banner_image}});
+$home_image_logo: url({{homepage.banner_logo}});
 
 // Page Variables
 
