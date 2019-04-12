@@ -8,9 +8,9 @@ banner_image: "/uploads/IMG_1618.JPG"
 banner_logo: "/uploads/logo_with_shadow.png"
 colored_blocks:
 - title: ienze koekkoek - Verstaat
-  description: 'Verstaan is essentieel om te begrijpen. Ik breng mensen en situaties
-    bij elkaar om samen veranderingen tot stand te brengen, oplossingen te verzinnen,
-    plannen te maken en uit te voeren. '
+  description: 'Verstaan is horen wat de ander zegt en tegelijkertijd begrijpen wat
+    diegene daarmee bedoelt. Ik breng mensen en situaties bij elkaar om samen veranderingen
+    tot stand te brengen, oplossingen te verzinnen, plannen te maken en uit te voeren. '
   icon: "/uploads/network.png"
   color: "#017bb2"
 - title: Wat doe ik
