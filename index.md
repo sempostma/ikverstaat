@@ -8,10 +8,9 @@ banner_image: "/uploads/IMG_1618.JPG"
 banner_logo: "/uploads/logo_with_shadow.png"
 colored_blocks:
 - title: ienze koekkoek - Verstaat
-  description: Verstaan is horen wat de ander zegt en tegelijkertijd begrijpen wat
-    diegene daarmee bedoelt. Ik breng mensen en situaties bij elkaar om samen veranderingen
-    tot stand te brengen, oplossingen te verzinnen, plannen te maken en uit te voeren.
-    Het is mijn uitdaging en opdracht om gedurende die processen ervoor te zorgen
+  description: Verstaan is horen wat de ander zegt en begrijpen wat  daarmee wordt
+    bedoeld. Ik breng mensen en situaties bij elkaar om samen veranderingen tot stand
+    te brengen, oplossingen te verzinnen, plannen te maken en uit te voeren. Ik zorg  ervoor
     dat betrokken partijen elkaar (gaan) verstaan en dat ik mezelf overbodig maak.
   icon: "/uploads/network.png"
   color: "#017bb2"
