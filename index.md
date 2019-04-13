@@ -21,8 +21,8 @@ colored_blocks:
   color: "#009b57"
 - title: Werkvelden
   description: Biodiversiteit, nieuwe natuur, kringlooplandbouw, klimaatadaptatie,
-    bodemdaling, stad-plattelandrelaties, duurzame energie, landbouw en nieuwe functies
-    voor boerenerven.
+    bodemdaling, stad-plattelandrelaties, burgerparticipatie, duurzame energie, landbouw
+    en nieuwe functies voor boerenerven.
   icon: "/uploads/team.png"
   color: "#00675c"
 over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen verder
