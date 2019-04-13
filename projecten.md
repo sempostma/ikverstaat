@@ -3,6 +3,7 @@ title: Projecten
 permalink: "/projecten"
 layout: projecten
 description: Een korte uitleg, zichtbaar op de website en op google.
+
 ---
 ### Nieuwe Natuur Oostkant Dronten
 
@@ -40,3 +41,9 @@ Als deskundige begeleid ik diverse ondernemers in hun zoektocht naar een nieuwe 
 ### Natuurinclusieve landbouw met burgerparticipatie (POP3-project)
 
 Agrarische ondernemers willen over het algemeen meer doen met natuurinclusieve landbouw, maar de hoge grondprijzen en kleine marges maken dat erg moeilijk. Met dit project gaan we op zoek naar mogelijkheden om burgers en bedrijven samen te laten werken met agrarische ondernemers om die omslag naar natuurinclusieve landbouw te kunnen maken. Bijvoorbeeld door betaling voor een bepaald beheer of een gedeeld eigendom van grond waardoor er geld vrijkomt voor de boer. Enkele modellen modellen worden juridisch, financieel, fiscaal en organisatorisch worden uitgewerkt. Minimaal één model krijgt een  toets in de praktijk met een stevig communicatietraject om investeerders te werven.
+
+### Warme sanering varkenshouderij
+
+![](/uploads/logo_barneveld.png)
+
+Eind augustus 2019 opent de landelijk stimuleringsregeling 'warme sanering varkenshouderij'.  Varkenshouders die veel hinder veroorzaken of om een andere reden geen ontwikkelingsmogelijkheden meer  zien of hebben kunnen zich opgeven om met financiële steun te stoppen. Voor de gemeente Barneveld ben ik de contactpersoon voor de agrarische ondernemers en andere partijen  die hiermee te maken krijgen. Tevens coördineer ik dat de gemeentelijke organisatie klaar is om allerlei vragen die op de gemeente af gaan komen te beantwoorden en procedures in gang te zetten.
