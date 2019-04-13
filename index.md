@@ -25,9 +25,10 @@ colored_blocks:
     en nieuwe functies voor boerenerven.
   icon: "/uploads/team.png"
   color: "#00675c"
-over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen verder
-  te komen. Verstaan is voor mij het centrale woord als ik processen en projecten
-  begeleid en bij gesprekken aan de keuken- of vergadertafel.
+over: Proces- en projectbegeleiding in het landelijke gebied om met streekhouders
+  veranderingen tot stand te brengen.  Die verandering moeten houdbaar zijn. Dus gebaseerd
+  om een gezond financieel rendement, sociaal aantrekkelijk en bijdragen aan een gezond
+  milieu.
 ervaring: 'Ik werk al bijna 30 jaar samen met bewoners en gebruikers van het landelijke
   gebied: als beleidsmedewerker van een gemeente en als projectleider bij een  landbouworganisatie
   en verschillende adviesbureaus. Met die ervaring weet ik hoe het maatschappelijke
