@@ -4,6 +4,7 @@ permalink: "/ervaring"
 layout: ervaring
 description: Ik heb ervaring in het werken voor overheden, maatschappelijke organisaties
   en adviesbureaus. Altijd voor het landelijke gebied.
+
 ---
 ### Eigenaar
 
@@ -13,6 +14,7 @@ Begeleiden van processen en projecten voor verandertrajecten in het landelijke g
 
 * Begeleiden stoppende en gestopte agrariërs bij zoektocht naar nieuwe functie gebouwen (VABIMPULS provincie Noord-Brabant)
 * Procesbegeleider nieuwe natuur gemeente Dronten
+* Contactpersoon en procesbegeleider 'Warme sanering varkenshouderij Barneveld'
 * Procesbegeleider gebiedsproces De AmerkantOp in West-Brabant
 * Projectleider POP3 project 'Natuurinclusieve landbouw met burgerparticipatie'
 

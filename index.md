@@ -8,9 +8,10 @@ banner_image: "/uploads/IMG_1618.JPG"
 banner_logo: "/uploads/logo_with_shadow.png"
 colored_blocks:
 - title: ienze koekkoek - Verstaat
-  description: 'Verstaan is essentieel om te begrijpen. Ik breng mensen en situaties
-    bij elkaar om samen veranderingen tot stand te brengen, oplossingen te verzinnen,
-    plannen te maken en uit te voeren. '
+  description: Verstaan is horen wat de ander zegt en begrijpen wat daarmee wordt
+    bedoeld. Ik zorg  ervoor dat betrokken partijen elkaar (gaan) verstaan. Ik breng
+    mensen en situaties bij elkaar om samen veranderingen tot stand te brengen, oplossingen
+    te verzinnen, plannen te maken en uit te voeren.
   icon: "/uploads/network.png"
   color: "#017bb2"
 - title: Wat doe ik
@@ -20,13 +21,14 @@ colored_blocks:
   color: "#009b57"
 - title: Werkvelden
   description: Biodiversiteit, nieuwe natuur, kringlooplandbouw, klimaatadaptatie,
-    bodemdaling, stad-plattelandrelaties, duurzame energie, landbouw en nieuwe functie
-    voor boerenerven.
+    bodemdaling, stad-plattelandrelaties, burgerparticipatie, duurzame energie, landbouw
+    en nieuwe functies voor boerenerven.
   icon: "/uploads/team.png"
   color: "#00675c"
-over: Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’ en essentieel om samen verder
-  te komen. Verstaan is voor mij het centrale woord als ik processen en projecten
-  begeleid en bij gesprekken aan de keuken- of vergadertafel.
+over: Proces- en projectbegeleiding in het landelijke gebied om met streekhouders
+  veranderingen tot stand te brengen.  Die verandering moeten houdbaar zijn. Dus gebaseerd
+  om een gezond financieel rendement, sociaal aantrekkelijk en bijdragen aan een gezond
+  milieu.
 ervaring: 'Ik werk al bijna 30 jaar samen met bewoners en gebruikers van het landelijke
   gebied: als beleidsmedewerker van een gemeente en als projectleider bij een  landbouworganisatie
   en verschillende adviesbureaus. Met die ervaring weet ik hoe het maatschappelijke
