@@ -1,6 +1,6 @@
 #sharing-sidetip {
     position: fixed;
-    top: 200px;
+    bottom: 20px;
     right: -122px;
     background-color: $primary;
     padding-left: 30px;
@@ -19,7 +19,7 @@
     }
     .sharing-sidetip-title {
         position: absolute;
-        left: -11px;
+        left: -9px;
         transform: rotate(90deg);
         top: 47px;
         font-size: 16px;

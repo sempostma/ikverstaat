@@ -10,7 +10,7 @@ Uw privacy is belangrijk voor ons. Het is het beleid van ikverstaat.nl om uw pri
 
 We vragen alleen om persoonlijke informatie wanneer we deze echt nodig hebben om u van dienst te zijn. Wij verzamelen het op eerlijke en wettige wijze, met uw kennis en toestemming. We laten u ook weten waarom we het verzamelen en hoe het zal worden gebruikt.
 
-We bewaren verzamelde informatie alleen zolang als nodig is om u de gevraagde service te verlenen. Welke gegevens we opslaan, we beschermen met commercieel aanvaardbare middelen om verlies en diefstal te voorkomen, evenals ongeoorloofde toegang, openbaarmaking, kopiëren, gebruik of wijziging.
+We bewaren verzamelde informatie alleen zolang als nodig is om u de gevraagde service te verlenen. De opgeslagen gegevens beschermen we met commercieel aanvaardbare middelen om verlies en diefstal te voorkomen, evenals ongeoorloofde toegang, openbaarmaking, kopiëren, gebruik of wijziging.
 
 We delen geen persoonlijk identificeerbare informatie openbaar of met derden, behalve wanneer dit wettelijk verplicht is.
 

@@ -8,7 +8,7 @@ description: Ik heb ervaring in het werken voor overheden, maatschappelijke orga
 ---
 ### Eigenaar
 
-![](/uploads/IK-Verstaat_Logo_RGB-01.jpg)
+![](/uploads/ikverstaat-cropped.png)
 
 Begeleiden van processen en projecten voor verandertrajecten in het landelijke gebied
 

@@ -39,20 +39,20 @@
   // } else {
   //   console.log('Service workers are not supported.');
   // }
-  [].slice(document.querySelectorAll('.viewport-constant-height')).forEach(function (element) {
+  [].slice.call(document.querySelectorAll('.viewport-constant-height')).forEach(function (element) {
     element.style.height = element.style.height + 'px';
   });
-  [].slice(document.querySelectorAll('.viewport-constant-min-height')).forEach(function (element) {
+  [].slice.call(document.querySelectorAll('.viewport-constant-min-height')).forEach(function (element) {
     element.style.height = element.style.minHeight + 'px';
   });
 
-  [].slice(document.querySelectorAll('[data-aos]')).forEach(function (elem) {
+  [].slice.call(document.querySelectorAll('[data-aos]')).forEach(function (elem) {
     if (elem.getAttribute('data-aos').slice(0, 4) === 'nojs') {
       elem.setAttribute('data-aos', elem.getAttribute('data-aos').slice(5));
     }
   });
 
-  var experienceFigCaptions = [].slice(document.querySelectorAll('.experience-image-block figcaption'));
+  var experienceFigCaptions = [].slice.call(document.querySelectorAll('.experience-image-block figcaption'));
 
   if (experienceFigCaptions.length > 0) {
     callAndUpdateAfterResize(function () {

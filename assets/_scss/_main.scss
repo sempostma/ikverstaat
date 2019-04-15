@@ -184,7 +184,6 @@ h1 {
             max-height: 100px;
             display: block;
             margin: auto;
-            transition: transform 200ms ease;
             padding: 10px;
         }
 
@@ -197,12 +196,6 @@ h1 {
             color: #fff;
         }
 
-        &:hover {
-            img {
-                transform: scale(1.1);
-            }
-        }
-
         .inner {
             position: absolute;
             left: 50%;
@@ -211,6 +204,10 @@ h1 {
             min-width: 50%;
             width: 300px;
             max-width: 90%;
+
+            p {
+                text-align: justify;
+            }
         }
     }
 }
@@ -291,6 +288,7 @@ h1 {
     p {
         max-width: 600px;
         margin: auto;
+        text-align: justify;
     }
 }
 
@@ -300,6 +298,7 @@ h1 {
     p {
         max-width: 600px;
         margin: auto;
+        text-align: justify;
     }
 }
 
@@ -373,7 +372,7 @@ p::selection {
 }
 
 .waaier {
-    width: 300px;
+    width: 200px;
     max-width: 70%;
     display: block;
     margin: 0 auto;
@@ -381,13 +380,14 @@ p::selection {
 
 #over-home-section .waaier,
 #experience-home-section .waaier {
-    margin-top: -27px;
+    margin-top: -16px;
     position: relative;
     z-index: -1;
 }
 
 .over-header-image {
     img {
+
         // logo
         @media screen and (max-width: 992px) {
             height: 100px;
@@ -581,4 +581,37 @@ footer {
 .full-viewport-min-height {
     min-height: 100vh;
     transition: all 500ms ease;
+}
+
+.text-justify {
+    text-align: justify;
+    text-justify: distribute-all-lines;
+}
+
+.text-shadow {
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.7);
+}
+
+.generic-page {
+    p {
+        text-align: justify;
+        text-justify: distribute-all-lines;
+    }
+}
+
+.privacyverklaring-generic-page {
+    h1 {
+        @media screen and (max-width: 1187px) {
+            font-size: 4.7rem;
+        }
+        @media screen and (max-width: 736px) {
+            font-size: 4rem;
+        }
+        @media screen and (max-width: 630px) {
+            font-size: 3rem;
+        }
+        @media screen and (max-width: 480px) {
+            font-size: 2rem;
+        }
+    }
 }
