@@ -59,7 +59,7 @@ projecten:
   description: Agrarische ondernemers hebben het initiatief opgepakt om een gebiedsproces
     in gang te zetten in West-Brabant om landbouw, natuur, recreatie en consumenten
     meer met elkaar te integreren en samenwerken. Ik ben één van de procesbegeleiders.
-  image: "/uploads/agriculture-animal-close-up-1007809.jpg"
+  image: "/uploads/Biesbosch_Drone-0331.jpg"
 - title: Nieuwe functies voor boerenerven
   description: Als deskundige begeleid ik gestopte agrariërs in hun zoektocht naar
     een nieuwe functie voor hun agrarische erf (in het kader van VABIMPULS, provincie
