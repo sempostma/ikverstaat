@@ -8,10 +8,8 @@ banner_image: "/uploads/IMG_1618.JPG"
 banner_logo: "/uploads/logo_with_shadow.png"
 colored_blocks:
 - title: iK Verstaat
-  description: Verstaan is horen wat de ander zegt en begrijpen wat daarmee wordt
-    bedoeld. Ik zorg  ervoor dat betrokken partijen elkaar (gaan) verstaan. Ik breng
-    mensen en situaties bij elkaar om samen veranderingen tot stand te brengen, oplossingen
-    te verzinnen, plannen te maken en uit te voeren.
+  description: 'Verstaan is horen wat de ander zegt en begrijpen wat daarmee wordt
+    bedoeld. '
   icon: "/uploads/network.png"
   color: "#017bb2"
 - title: Wat doe ik
@@ -19,16 +17,16 @@ colored_blocks:
     antwoorden, maar samen de weg zoeken naar een optimaal resultaat. '
   icon: "/uploads/support.png"
   color: "#009b57"
-- title: Werkvelden
+- title: Waarvoor
   description: Biodiversiteit, nieuwe natuur, kringlooplandbouw, klimaatadaptatie,
     bodemdaling, stad-plattelandrelaties, burgerparticipatie, duurzame energie, landbouw
     en nieuwe functies voor boerenerven.
   icon: "/uploads/team.png"
   color: "#00675c"
-over: Proces- en projectbegeleiding in het landelijke gebied om met streekhouders
-  veranderingen tot stand te brengen.  Die verandering moeten houdbaar zijn. Dus gebaseerd
-  om een gezond financieel rendement, sociaal aantrekkelijk en bijdragen aan een gezond
-  milieu.
+over: |-
+  Proces- en projectbegeleiding in het landelijke gebied om met streekhouders veranderingen tot stand te brengen.  Die verandering moeten houdbaar zijn. Dus gebaseerd om een gezond financieel rendement, sociaal aantrekkelijk en bijdragen aan een gezond milieu.
+
+  Ik zorg  ervoor dat betrokken partijen elkaar (gaan) verstaan. Ik breng mensen en situaties bij elkaar om samen veranderingen tot stand te brengen, oplossingen te verzinnen, plannen te maken en uit te voeren.
 ervaring: 'Ik werk al bijna 30 jaar samen met bewoners en gebruikers van het landelijke
   gebied: als beleidsmedewerker van een gemeente en als projectleider bij een  landbouworganisatie
   en verschillende adviesbureaus. Met die ervaring weet ik hoe het maatschappelijke
