@@ -18,8 +18,8 @@ colored_blocks:
   icon: "/uploads/support.png"
   color: "#009b57"
 - title: iK Verstaat zet zich in
-  description: 'Van vage tot concrete  projecten. Van groepsprocessen tot individuele
-    keukentafelgesprekken. '
+  description: 'Voor projectontwikkeling van vage ideeën tot concrete  projecten.
+    Van groepsprocessen tot individuele keukentafelgesprekken. '
   icon: "/uploads/team.png"
   color: "#00675c"
 over: |-
