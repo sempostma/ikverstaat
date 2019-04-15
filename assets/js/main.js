@@ -52,25 +52,33 @@
     }
   });
 
-  var experienceFigCaptions = [].slice.call(document.querySelectorAll('.experience-image-block figcaption'));
+  var experienceFigCaptions = document.querySelectorAll('.experience-image-block figcaption');
 
-  if (experienceFigCaptions.length > 0) {
-    callAndUpdateAfterResize(function () {
-      if (window.innerWidth <= 768) {
-        experienceFigCaptions.forEach(function (figcaption) {
-          figcaption.style.height = null;
-        });
-      } else {
-        var maxHeight = 0;
-        experienceFigCaptions.forEach(function (figcaption) {
-          figcaption.style.height = null;
-          maxHeight = Math.max(figcaption.offsetHeight, maxHeight);
-        });
-        experienceFigCaptions.forEach(function (figcaption) {
-          figcaption.style.height = maxHeight + 'px';
-        });
-      }
-    });
+  var blockTitles = document.querySelectorAll('#blocks .block h3');
+
+  equalHeightAbove768(experienceFigCaptions);
+  equalHeightAbove768(blockTitles);
+
+  function equalHeightAbove768(nodeList) {
+    nodeList = [].slice.call(nodeList);
+    if (nodeList.length > 0) {
+      callAndUpdateAfterResize(function () {
+        if (window.innerWidth <= 768) {
+          nodeList.forEach(function (item) {
+            item.style.height = null;
+          });
+        } else {
+          var maxHeight = 0;
+          nodeList.forEach(function (item) {
+            item.style.height = null;
+            maxHeight = Math.max(item.offsetHeight, maxHeight);
+          });
+          nodeList.forEach(function (item) {
+            item.style.height = maxHeight + 'px';
+          });
+        }
+      });
+    }
   }
 
   function callAndUpdateAfterResize(func) {
