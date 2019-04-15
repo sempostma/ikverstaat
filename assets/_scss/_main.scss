@@ -380,10 +380,10 @@ p::selection {
 
 .over-header-image {
     img {
-
+        vertical-align: top;
         // logo
         @media screen and (max-width: 992px) {
-            height: 100px;
+            height: 800px;
         }
     }
 }
