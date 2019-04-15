@@ -4,7 +4,7 @@ permalink: "/"
 layout: home
 sub_titel: Subtitel
 description: " Duurzaam perspectief voor het landelijke gebied"
-banner_image: "/uploads/IMG_1618.JPG"
+banner_image: "/uploads/agriculture-bridge-clouds-1368231.jpg"
 banner_logo: "/uploads/logo_with_shadow.png"
 colored_blocks:
 - title: ienze koekkoek - Verstaat
