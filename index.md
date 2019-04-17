@@ -23,7 +23,7 @@ colored_blocks:
   icon: "/uploads/team.png"
   color: "#00675c"
 over: |-
-  Proces- en projectbegeleiding in het landelijke gebied om met streekhouders veranderingen tot stand te brengen.  Die verandering moeten houdbaar zijn. Dus gebaseerd om een gezond financieel rendement, sociaal aantrekkelijk en bijdragen aan een gezond milieu.
+  Proces- en projectbegeleiding in het landelijke gebied om met streekhouders veranderingen tot stand te brengen.  Die verandering moeten houdbaar zijn. Dus gebaseerd op een gezond financieel rendement, sociaal aantrekkelijk en bijdragen aan een gezond milieu.
 
   Ik zorg  ervoor dat betrokken partijen elkaar (gaan) verstaan. Ik breng mensen en situaties bij elkaar om samen veranderingen tot stand te brengen, oplossingen te verzinnen, plannen te maken en uit te voeren.
 
