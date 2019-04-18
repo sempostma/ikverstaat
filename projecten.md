@@ -3,7 +3,7 @@ title: Projecten
 permalink: "/projecten"
 layout: projecten
 description: Projecten van ikverstaat. 
-banner: /uploads/L1000152.JPG
+banner: "/uploads/L1000152.JPG"
 ---
 ### Nieuwe Natuur Oostkant Dronten
 
