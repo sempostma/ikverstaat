@@ -2,8 +2,9 @@
 title: Projecten
 permalink: "/projecten"
 layout: projecten
-description: Projecten van ikverstaat. 
+description: Een korte uitleg, zichtbaar op de website en op google.
 banner: "/uploads/L1000152.JPG"
+
 ---
 ### Nieuwe Natuur Oostkant Dronten
 
