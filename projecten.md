@@ -28,6 +28,8 @@ In de eerste plaats willen we met de bewoners en de gebruikers van het gebied ee
 
 ### Nieuwe functies voor agrarische erven
 
+![](/uploads/Logo Brabant.png)
+
 In het landelijke gebied zijn veel gestopte agrarische bedrijven. Veel agrarische ondernemers overwegen om te stoppen. De provincie Noord-Brabant stelt met VABIMPULS vouchers beschikbaar aan deze ondernemers om met deskundigen en specialisten te zoeken naar  alternatieve functies voor erf en de gebouwen en een connectie met de omgeving.
 
 Als deskundige begeleid ik diverse ondernemers in hun zoektocht naar een nieuwe invulling voor het erf.
