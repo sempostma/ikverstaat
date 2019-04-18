@@ -16,10 +16,6 @@ fields:
     mensen links posten naar de website.
   config:
     required: true
-- type: file
-  name: banner
-  label: Banner Afbeelding
-  description: Deze foto staat acter de titel en de beschrijving helemaal bovenaan de pagina.
 - type: text
   name: permalink
   label: permalink
@@ -28,6 +24,13 @@ fields:
   name: layout
   label: layout
   hidden: true
+- name: banner
+  type: file
+  config:
+    maxSize: 250
+  label: Banner Afbeelding
+  description: Deze foto staat acter de titel en de beschrijving helemaal bovenaan
+    de pagina.
 pages:
 - privacy-policy.md
 - ervaring.md

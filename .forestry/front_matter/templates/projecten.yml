@@ -20,10 +20,6 @@ fields:
   name: permalink
   label: permalink
   hidden: true
-- type: file
-  name: banner
-  label: Banner Afbeelding
-  description: Deze foto staat acter de titel en de beschrijving helemaal bovenaan de pagina.
 - type: text
   name: layout
   label: layout
