@@ -16,6 +16,10 @@ fields:
     mensen links posten naar de website.
   config:
     required: true
+- type: file
+  name: banner
+  label: Banner Afbeelding
+  description: Deze foto staat acter de titel en de beschrijving helemaal bovenaan de pagina.
 - type: text
   name: permalink
   label: permalink

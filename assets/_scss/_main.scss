@@ -198,6 +198,7 @@ h1 {
 
         .inner {
             margin-top: 30px;
+
             p {
                 text-align: justify;
             }
@@ -310,6 +311,27 @@ h1 {
     }
 }
 
+.experience-banner,
+.projecten-banner {
+    min-height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #fff;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.9);
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        color: inherit;
+        text-shadow: inherit;
+    }
+}
+
 .btn {
     border: none; // border-radius: 0;
 }
@@ -378,14 +400,9 @@ p::selection {
     z-index: -1;
 }
 
-.over-header-image {
-    img {
-        vertical-align: top;
-        // logo
-        @media screen and (max-width: 992px) {
-            height: 800px;
-        }
-    }
+.over-logo {
+    max-width: 300px;
+    margin: auto;
 }
 
 .waaier-aligned {
@@ -542,7 +559,7 @@ footer {
 
 .over-top-content {
     background: $secondary;
-    background-color: #009b57;
+    background-color: #5fa632;
     padding: 50px 0;
     min-height: 425px;
 }
@@ -597,14 +614,24 @@ footer {
         @media screen and (max-width: 1187px) {
             font-size: 4.7rem;
         }
+
         @media screen and (max-width: 736px) {
             font-size: 4rem;
         }
+
         @media screen and (max-width: 630px) {
             font-size: 3rem;
         }
+
         @media screen and (max-width: 480px) {
             font-size: 2rem;
         }
     }
+}
+
+.bg-contain {
+    // background: linear-gradient(rgba(#fff, .6), rgba(#fff, .6));
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
 }

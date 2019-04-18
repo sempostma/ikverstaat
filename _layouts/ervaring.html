@@ -2,11 +2,15 @@
 layout: default
 ---
 <main>
-    <section class="container text-justify" id="experience">
-        <h1 class="padding-top-special">{{ page.title }}</h1>
+    <section id="experience">
+        <div class="experience-banner container" style="background-image: url('{{ page.banner }}')">
+            <h1 class="padding-top-special">{{ page.title }}</h1>
+            <p class="description">{{ page.description }}</p>
+        </div>
 
-        {{ content }}
-
+        <div class="content container text-justify">
+            {{ content }}
+        </div>
         <div style="padding-top: 50px"></div>
     </section>
 </main>

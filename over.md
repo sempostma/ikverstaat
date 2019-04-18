@@ -6,7 +6,7 @@ description: 'Elkaar ‘verstaan’ is voorwaarde  voor ‘begrijpen’, dat ess
   om samen verder te komen. ''Verstaan'' is voor mij het centrale woord als ik processen
   en projecten begeleid en bij  gesprekken aan de keukentafel. '
 background_image: "/uploads/Biesbosch-9670.jpg"
-over_logo: "/uploads/logo_with_shadow_cropped.png"
+over_logo: "/uploads/logo_shadow_extreme.png"
 cta: Bekijk ook mijn ervaring.
 me: |-
   Je kunt mij opdracht geven om in het landelijk gebied  bewoners, ondernemers (zoals agrariërs), maatschappelijke organisaties en overheden te organiseren om gezamenlijk veranderingen in gang te zetten die nodig zijn voor een duurzame toekomst. Dus voor mens, milieu en economie.

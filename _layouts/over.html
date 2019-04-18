@@ -7,8 +7,8 @@ layout: default
         <figcaption class="container">
             <h1 class="color-white page-title padding-top-special">
                 {{ page.title }}
-                {% if page.over_logo and page.over_logo != '' %}
-                <img src="{{ page.over_logo }}" height="150" alt="Logo">{% endif %}
+                <!-- {% if page.over_logo and page.over_logo != '' %}
+                <img src="{{ page.over_logo }}" height="150" alt="Logo">{% endif %} -->
             </h1>
             <p class="color-white lead text-justify text-shadow">{{ page.description }}</p>
             <div style="margin-top: 60px"></div>
@@ -20,18 +20,18 @@ layout: default
     <section class="container-fluid over-top-content">
         <div class="container relative">
             <div class="row">
-                <div class="col-xs-12 col-sm-6 color-white">
+                <div class="col-xs-12 col-sm-6 color-white"> 
                     <div class="over-text-center-vertical-align"></div>
                     <p class="over-text text-justify">
                         {{ page.me }}
                     </p>
                 </div>
-                <div class="waaier-aligned hidden-xs">
-                    <img class="waaier" src="/uploads/waaier_cropped_shadow.png" alt="Waaier">
+                <div class="waaier-aligned hidden-xs col-xs-6">
+                    <img class="over-logo img-responsive" src="/uploads/logo_with_shadow.png" alt="Waaier">
                 </div>
                 <div class="visible-xs col-xs-12">
-                        <img class="waaier" src="/uploads/waaier_cropped_shadow.png" alt="Waaier">
-                    </div>
+                    <img class="waaier" src="/uploads/waaier_cropped_shadow.png" alt="Waaier">
+                </div>
                 {% comment %}
                 <div class="col-xs-12 col-sm-6">
                     <div class="panel panel-default over-panel" data-aos="nojs-flip-down">

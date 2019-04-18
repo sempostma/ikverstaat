@@ -2,9 +2,15 @@
 layout: default
 ---
 <main>
-    <section class="container full-viewport-min-height text-justify" id="projecten">
-        <h1 class="padding-top-special">{{ page.title }}</h1>
-        {{ content }}
+    <section id="projecten">
+        <div class="projecten-banner container" style="background-image: url('{{ page.banner }}')">
+            <h1 class="padding-top-special">{{ page.title }}</h1>
+            <p class="description lead">{{ page.description }}</p>
+        </div>
+
+        <div class="content container text-justify">
+            {{ content }}
+        </div>
         <div style="padding-top: 50px"></div>
     </section>
 </main>
