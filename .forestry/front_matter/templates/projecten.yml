@@ -24,5 +24,12 @@ fields:
   name: layout
   label: layout
   hidden: true
+- name: banner
+  type: file
+  config:
+    maxSize: 250
+  label: Banner Afbeelding
+  description: Deze foto staat acter de titel en de beschrijving helemaal bovenaan
+    de pagina.
 pages:
 - projecten.md
