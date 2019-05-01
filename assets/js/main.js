@@ -52,6 +52,17 @@
     }
   });
 
+  [].slice.call(document.querySelectorAll('.experience-btn, .project-btn')).forEach(function(elem) {
+    elem.addEventListener('click', function(e) {
+      var target = document.getElementById(elem.getAttribute('aria-controls'));
+      target.style.display = 'block';
+      target.setAttribute('aria-hidden', false);
+      elem.setAttribute('aria-expanded', true);
+      elem.style.display = 'none';
+    });
+  });
+
+
   var experienceFigCaptions = document.querySelectorAll('.experience-image-block figcaption');
 
   var blockTitles = document.querySelectorAll('#blocks .block h3');

@@ -31,5 +31,48 @@ fields:
   label: Banner Afbeelding
   description: Deze foto staat acter de titel en de beschrijving helemaal bovenaan
     de pagina.
+- name: projects_list
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titel
+    description: De titel van het project
+  - name: short_description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Korte omschrijving
+  - name: long_description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Lange omschrijving
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Afbeelding
+  - name: timespan
+    type: text
+    config:
+      required: false
+    label: Termijn
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Projecten lijst
+  description: Lijst met projecten
 pages:
 - projecten.md

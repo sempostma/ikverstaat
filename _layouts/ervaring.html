@@ -12,11 +12,43 @@ layout: default
 
         <div class="content container text-justify">
             <div class="row">
+                {% for topic in page.experience_list %}
+                <div class="experience-list">
+                    <div class="col-xs-12">
+                        <h3 class="experience-title">{{ topic.title }}
+                            {% if topic.image and topic.image != '' %}
+                            <img class="experience-image" title="{{ topic.title }}" src="{{ topic.image }}"
+                                alt="Ervaring icoontje">
+                            {% endif %}
+                        </h3>
+                    </div>
+                    <div class="col-xs-12 col-md-8">
+
+                        <div class="experience-short-description">{{ topic.short_description | markdownify }}</div>
+                        {% if topic.long_description and topic.long_description != "" %}
+                        <div class="experience-long-description" aria-hidden="true" style="display: none;"
+                            id="experience-hook-{{ forloop.index }}">{{ topic.long_description | markdownify }}</div>
+                        <button type="button" aria-expanded="false" class="btn btn-primary experience-btn"
+                            aria-controls="experience-hook-{{ forloop.index }}">Lees meer</button>
+                        {% endif %}
+                        <p class="experience-timespan">{{ topic.timespan }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <hr role="separator">
+        </hr>
+
+        <div class="content container text-justify">
+            <div class="row">
                 <div class="col-xs-12 col-md-8">
                     {{ content }}
                 </div>
             </div>
         </div>
+        <div style="padding-top: 50px"></div>
         <div style="padding-top: 50px"></div>
     </section>
 </main>

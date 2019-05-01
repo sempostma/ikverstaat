@@ -313,6 +313,19 @@ h1 {
         margin-top: 60px;
         font-size: 1.5rem;
     }
+
+    .experience-image, .project-image {
+        vertical-align: middle;
+        margin-left: 10px;
+    }
+
+    .project-title {
+        min-height: 50px;
+    }
+
+    .experience-title {
+        min-height: 50px;
+    }
 }
 
 .experience-banner,
