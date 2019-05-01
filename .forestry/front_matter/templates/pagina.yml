@@ -25,4 +25,5 @@ fields:
   label: layout
   hidden: true
 pages:
+- privacy-policy.md
 - terms-of-service.md

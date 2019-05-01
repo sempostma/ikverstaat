@@ -73,7 +73,6 @@ fields:
     max: 
     labelField: 
   label: Ervaringen lijst
-  description:
+  description: 
 pages:
 - ervaring.md
-- privacy-policy.md
