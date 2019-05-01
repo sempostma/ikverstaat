@@ -5,7 +5,13 @@ layout: ervaring
 description: Ik heb ervaring in het werken voor overheden, maatschappelijke organisaties
   en adviesbureaus. Altijd voor het landelijke gebied.
 banner: "/uploads/Uitwijkse_Erick (3).JPG"
-
+experience_list:
+  - title: Eigenaar
+    short_description: Begeleiden van processen en projecten voor verandertrajecten in het landelijke gebied
+    long_description: Lange omschrijving
+    image: /uploads/ikverstaat-cropped.png
+    timespan: februari 2019 - heden
+  
 ---
 ### Eigenaar
 
