@@ -31,7 +31,7 @@ fields:
   label: Banner Afbeelding
   description: Deze foto staat acter de titel en de beschrijving helemaal bovenaan
     de pagina.
-- name: project_list
+- name: experience_list
   type: field_group_list
   fields:
   - name: title
@@ -63,11 +63,16 @@ fields:
     config:
       maxSize: 250
     label: Afbeelding
+  - name: timespan
+    type: text
+    config:
+      required: false
+    label: Termijn
   config:
     min: 
     max: 
     labelField: 
-  label: Projecten lijst
+  label: Ervaringen lijst
   description: Lijst met projecten
 pages:
 - ervaring.md
