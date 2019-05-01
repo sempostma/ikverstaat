@@ -63,6 +63,11 @@ fields:
     config:
       maxSize: 250
     label: Afbeelding
+  - name: timespan
+    type: text
+    config:
+      required: false
+    label: Termijn
   config:
     min: 
     max: 
