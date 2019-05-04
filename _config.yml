@@ -65,8 +65,8 @@ defaults:
 sass:
   style: compressed
   sass_dir: assets/_scss
-url: https://ikverstaat.esstudio.site
-enforce_ssl: ikverstaat.esstudio.site
+url: https://ikverstaat.nl
+enforce_ssl: ikverstaat.nl
 plugins:
 - jekyll-feed
 - jekyll-gist
