@@ -16,7 +16,7 @@ experience_list:
       * Procesbegeleider gebiedsproces De AmerkantOp in West-Brabant
       * Projectleider POP3 project 'Natuurinclusieve landbouw met burgerparticipatie'
     long_description: 
-    image: /uploads/ikverstaat-cropped.png
+    image: /uploads/ikverstaat-cropped-sm.png
     timespan: februari 2019 - heden
 
   - title: Adviseur ontwikkeling landelijk gebied
