@@ -14,13 +14,13 @@ layout: default
             <div class="row">
                 {% for topic in page.experience_list %}
                 <div class="experience-list">
-                    <div class="col-xs-12">
+                    <div class="col-xs-12 experience-header">
                         <h3 class="experience-title">{{ topic.title }}
-                            {% if topic.image and topic.image != '' %}
-                            <img class="experience-image" title="{{ topic.title }}" src="{{ topic.image }}"
-                                alt="Ervaring icoontje">
-                            {% endif %}
                         </h3>
+                        {% if topic.image and topic.image != '' %}
+                        <img loading="lazy" class="experience-image" title="{{ topic.title }}" src="{{ topic.image }}"
+                            alt="Ervaring icoontje">
+                        {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-8">
 

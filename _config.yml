@@ -2,7 +2,7 @@
 title: ienze koekkoek - Verstaat
 short_title: ikverstaat
 lang: nl
-image: "/assets/img/ikverstaat.png"
+image: "/uploads/ikverstaat-cropped.png"
 description: Opdrachtgevers vragen mij om in een landelijk gebied  bewoners, ondernemers
   (zoals agrariërs), organisaties en overheden te organiseren om gezamenlijk veranderingen
   in gang te zetten die nodig zijn voor een duurzame toekomst voor mens, milieu en
@@ -16,7 +16,7 @@ gele_accent_kleur: "#fdee00"
 rode_accent_kleur: "#da512c"
 footer_background: "#343a40"
 dribbble_username: ''
-facebook_username: ienze.koekkoek.1
+facebook_username: IK-Verstaat-675013529610491
 flickr_username: ''
 github_username: ''
 instagram_username: ''
@@ -26,9 +26,13 @@ twitter_username: ikverstaat
 youtube_username: ''
 telefoon: "+31 6 10596549"
 email: i.koekkoek@ikverstaat.nl
-logo: "/assets/img/ikverstaat.png"
+logo: "/uploads/ikverstaat-cropped.png"
 author:
   twitter: ikverstaat
+facebook:
+  app_id: 2397867613578443
+  publisher: 100035254476963
+  admins: 100035254476963
 twitter:
   username: ikverstaat
   card: summary
@@ -37,6 +41,7 @@ social:
   links:
   - https://twitter.com/ikverstaat
   - https://www.linkedin.com/in/ienze-koekkoek-9a4b0013
+  - https://www.facebook.com/IK-Verstaat-675013529610491
 share:
 - facebook
 - twitter
@@ -55,7 +60,7 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/assets/img/logo.png"
+    image: "/uploads/ikverstaat-cropped.png"
     lang: nl
 sass:
   style: compressed

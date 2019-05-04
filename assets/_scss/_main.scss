@@ -302,13 +302,6 @@ h1 {
 
 #experience,
 #projecten {
-    img {
-        display: inline-block;
-        max-height: 60px;
-        vertical-align: bottom;
-        margin-right: 9px;
-    }
-
     h3 {
         margin-top: 60px;
         font-size: 1.5rem;
@@ -316,15 +309,18 @@ h1 {
 
     .experience-image, .project-image {
         vertical-align: middle;
-        margin-left: 10px;
+        max-height: 60px;
+        max-width: 100%;
     }
 
-    .project-title {
+    .project-header, .experience-header {
         min-height: 50px;
+        margin-bottom: 10px;
     }
 
-    .experience-title {
-        min-height: 50px;
+    .project-title, .experience-title {
+        display: inline-block;
+        margin-right: 10px;
     }
 }
 
@@ -478,59 +474,59 @@ footer {
     }
 }
 
-#contact {
-    min-height: 100vh;
-    text-align: center;
+// #contact {
+//     min-height: 100vh;
+//     text-align: center;
 
-    .row {
-        background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-xxl.jpg');
-        padding-top: 15px;
-        padding-bottom: 15px;
+//     .row {
+//         background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-xxl.jpg');
+//         padding-top: 15px;
+//         padding-bottom: 15px;
 
-        @media screen and (max-width: 3000px) {
-            background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-xl.jpg');
-        }
+//         @media screen and (max-width: 3000px) {
+//             background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-xl.jpg');
+//         }
 
-        @media screen and (max-width: 2000px) {
-            background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-lg.jpg');
-        }
+//         @media screen and (max-width: 2000px) {
+//             background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-lg.jpg');
+//         }
 
-        @media screen and (max-width: 1300px) {
-            background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-md.jpg');
-        }
+//         @media screen and (max-width: 1300px) {
+//             background-image: linear-gradient(rgba($primary, 0.6), rgba($primary, 0.6)), url('/assets/img/map-md.jpg');
+//         }
 
-        background-attachment: fixed;
-        background-position: center center;
-    }
+//         background-attachment: fixed;
+//         background-position: center center;
+//     }
 
-    .col {
-        padding: 50px;
+//     .col {
+//         padding: 50px;
 
-        .contact-block {
-            padding: 200px 0;
-            border: 1px solid #fff;
-            color: #fff;
-            transition: transform 200ms ease;
+//         .contact-block {
+//             padding: 200px 0;
+//             border: 1px solid #fff;
+//             color: #fff;
+//             transition: transform 200ms ease;
 
-            .fa {
-                font-size: 7em;
-                display: block;
-            }
+//             .fa {
+//                 font-size: 7em;
+//                 display: block;
+//             }
 
-            &:hover {
-                transform: scale(1.1);
-            }
+//             &:hover {
+//                 transform: scale(1.1);
+//             }
 
-            @media screen and (max-width: 768px) {
-                padding: 100px 0;
-            }
-        }
-    }
+//             @media screen and (max-width: 768px) {
+//                 padding: 100px 0;
+//             }
+//         }
+//     }
 
-    a.col {
-        text-decoration: none;
-    }
-}
+//     a.col {
+//         text-decoration: none;
+//     }
+// }
 
 .nopadding {
     padding: 0;

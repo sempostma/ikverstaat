@@ -55,47 +55,55 @@ self.addEventListener('install', function (event) {
         caches.open(STATIC_CACHE).then(function (cache) {
             return cache.addAll(
                 [
-                    {% for page in site.pages %}
-                    "{{ page.url }}",{% endfor %}
-                    "/assets/img/generic-icons/network.png",
-                    "/assets/img/generic-icons/support.png",
-                    "/assets/img/generic-icons/team.png",
-                    // "/assets/img/generic-images/agriculture-animal-black-and-white-cows-325257.jpg",
-                    // "/assets/img/generic-images/agriculture-animal-close-up-1007809.jpg",
-                    // "/assets/img/generic-images/agriculture-barn-clouds-462136.jpg",
-                    // "/assets/img/generic-images/agriculture-bridge-clouds-1368231.jpg",
-                    // "/assets/img/generic-images/agriculture-country-countryside-810893.jpg",
-                    // "/assets/img/generic-images/architecture-backyard-boating-534171.jpg",
-                    // "/assets/img/generic-images/bridge-cold-daytime-1559117.jpg",
-                    // "/assets/img/generic-images/cold-december-environment-760971.jpg",
-                    // "/assets/img/generic-images/dutch-farmland-green-141978.jpg",
-                    "/assets/img/logo-sm-black.jpg",
-                    "/assets/img/logo-sm-black.png",
-                    "/assets/img/logo-sm-white.jpg",
-                    "/assets/img/logo-sm-white.png",
-                    "/assets/img/logo.png",
-                    "/assets/img/profile.jpg",
-                    "/assets/js/main.js",
-                    "/assets/minima-social-icons.svg",
-                    "/assets/vendor/aos/aos.css",
-                    "/assets/vendor/aos/aos.js",
-                    "/assets/vendor/bootstrap-native.min.js",
-                    "/assets/vendor/bootstrap/css/bootstrap-theme.min.css",
-                    "/assets/vendor/bootstrap/css/bootstrap.min.css",
-                    "/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2",
-                    "/assets/vendor/bootstrap/js/bootstrap.min.js",
-                    "/assets/vendor/fontawesome/css/font-awesome.min.css",
-                    "/assets/vendor/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
-                    "/assets/vendor/masonry.pkgd.min.js",
-                    "/favicon.ico",
-
-                    // external
-                    "https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700",
-                    "https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i",
-                    "https://fonts.gstatic.com/s/sairaextracondensed/v4/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrU23h2wph.woff2",
-                    "https://fonts.gstatic.com/s/muli/v12/7Auwp_0qiz-afTLGLQ.woff2",
-                    "https://cdn.polyfill.io/v2/polyfill.min.js"
-
+                    '/ervaring',
+                    '/assets/vendor/bootstrap/css/bootstrap.min.css',
+                    '/assets/vendor/fontawesome/css/font-awesome.min.css',
+                    '/assets/css/style.css',
+                    'https://fonts.gstatic.com/s/firasans/v9/va9E4kDNxMZdWfMOD5Vvl4jL.woff2',
+                    '/assets/vendor/aos/aos.css',
+                    'https://cdn.polyfill.io/v2/polyfill.min.js',
+                    '/assets/vendor/bootstrap-native.min.js',
+                    '/assets/vendor/aos/aos.js',
+                    '/assets/js/main.js',
+                    'https://fonts.googleapis.com/css?family=Fira+Sans:400',
+                    '/uploads/Uitwijkse_Erick%20(3).JPG',
+                    '/uploads/profile.jpg',
+                    '/assets/img/white-text.png',
+                    '/uploads/ikverstaat-cropped.png',
+                    '/uploads/logo%20Eelerwoude-logo-2018.png',
+                    '/uploads/logo%20cropped%20optifield-new.png',
+                    '/uploads/logo%20BugelHajema.png',
+                    '/uploads/zlto-logo.jpg',
+                    '/uploads/logo%20gemeente%20Nijkerk.png',
+                    '/uploads/Logo%20Altena%20Nieuwe%20Energie.png',
+                    '/uploads/logo_with_shadow.png',
+                    '/',
+                    '/over',
+                    '/projecten',
+                    '/assets/minima-social-icons.svg',
+                    '/assets/vendor/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0',
+                    '/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2',
+                    '/sw.js',
+                    '/manifest.json',
+                    '/assets/img/meta-icons/android-chrome-144x144.png',
+                    '/uploads/agriculture-animal-black-and-white-cows-325257.jpg',
+                    '/uploads/agriculture-animal-close-up-1007809.jpg',
+                    '/uploads/agriculture-barn-clouds-462136.jpg',
+                    '/uploads/agriculture-bridge-clouds-1368231.jpg',
+                    '/uploads/agriculture-country-countryside-810893.jpg',
+                    '/uploads/listen.png',
+                    '/uploads/strategy.png',
+                    '/uploads/team.png',
+                    '/uploads/waaier_cropped.png',
+                    '/uploads/IMG_1652.JPG',
+                    '/uploads/Biesbosch_Drone-0331.jpg',
+                    '/uploads/Biesbosch-9670.jpg',
+                    '/uploads/waaier_cropped_shadow.png',
+                    '/uploads/L1000152.JPG',
+                    '/uploads/logo%20AmerkantOp.jpg',
+                    '/uploads/Logo%20Brabant.png',
+                    '/uploads/logo_barneveld.png',
+                    '/privacy'
                 ]
             );
         })
@@ -105,8 +113,8 @@ self.addEventListener('install', function (event) {
 self.addEventListener('push', ev => {
     const data = ev.data.json();
     console.log('Got push', data);
-    data.badge = 'https://esstudio.site/assets/img/meta-icons/mstile-144x144.png';
-    data.icon = 'https://esstudio.site/assets/img/meta-icons/apple-touch-icon-180x180.png';
+    data.badge = 'https://ikverstaat.nl/assets/img/meta-icons/mstile-144x144.png';
+    data.icon = 'https://ikverstaat.nl/assets/img/meta-icons/apple-touch-icon-180x180.png';
     ev.waitUntil(
         self.registration.showNotification(data.title, data)
     );

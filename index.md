@@ -10,12 +10,12 @@ colored_blocks:
 - title: iK Verstaat
   description: 'Verstaan is horen wat de ander zegt en begrijpen wat daarmee wordt
     bedoeld. '
-  icon: "/uploads/network.png"
+  icon: "/uploads/listen.png"
   color: "#017bb2"
 - title: iK Verstaat doet
   description: 'Proces- en projectbegeleiding in het landelijke gebied.  Geen pasklare
     antwoorden, maar samen de weg zoeken naar een optimaal resultaat. '
-  icon: "/uploads/support.png"
+  icon: "/uploads/strategy.png"
   color: "#009b57"
 - title: iK Verstaat is inzetbaar
   description: 'Voor begeleiding van groepsprocessen en het voeren van individuele

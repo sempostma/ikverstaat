@@ -14,20 +14,19 @@ layout: default
             <div class="row">
                 {% for project in page.projects_list %}
                 <div class="projects-list">
-                    <div class="col-xs-12">
-                        <h3 class="project-title">{{ project.title }}
-                            {% if project.image and project.image != '' %}
-                            <img class="project-image" title="{{ project.title }}" src="{{ project.image }}"
-                                alt="Ervaring icoontje">
-                            {% endif %}
-                        </h3>
+                    <div class="col-xs-12 project-header">
+                        <h3 class="project-title">{{ project.title }}</h3>
+                        {% if project.image and project.image != '' %}
+                        <img class="project-image" title="{{ project.title }}" src="{{ project.image }}"
+                            alt="Ervaring icoontje">
+                        {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-8">
                         <div class="project-short-description">{{ project.short_description | markdownify }}</div>
                         {% if project.long_description and project.long_description != "" %}
                         <div class="project-long-description" aria-hidden="true" style="display: none;"
                             id="project-hook-{{ forloop.index }}">
-                            
+
                             {{ project.long_description | markdownify }}
                         </div>
                         <button type="button" aria-expanded="false" class="btn btn-primary project-btn"

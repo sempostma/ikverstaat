@@ -81,9 +81,19 @@
   <link href="/assets/css/style.css" rel="stylesheet">
   <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
 
-  <link rel="prefetch" href="/">
-  <link rel="prefetch" href="/ervaring">
-  <link rel="prefetch" href="/over">
+  <link rel="prefetch" href="/" />
+  <link rel="prefetch" href="/over" />
+  <link rel="prefetch" href="/ervaring" />
+  <link rel="prefetch" href="/projecten" />
+
+  {% if page.background_image and page.background_image != '' %}
+  <link rel="preload" href="{{ page.background_image }}" as="image">{% endif %}
+  {% if page.banner and page.banner != '' %}
+  <link rel="preload" href="{{ page.banner }}" as="image">{% endif %}
+  {% if page.banner_logo and page.banner_logo != '' %}
+  <link rel="preload" href="{{ page.banner_logo }}" as="image">{% endif %}
+  {% for slide in page.slideshow %}
+  <link rel="preload" href="{{ slide.image }}" as="image">{% endfor %}
 
   <meta name="google-site-verification" content="gNO7MfBm_hHSBtsWoo2T0KJ8HQKQ_PmTbHkNHGGnYdI" />
 
