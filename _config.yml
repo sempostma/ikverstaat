@@ -73,5 +73,5 @@ plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
 markdown: kramdown
-google_analytics: UA-90014538-4
+google_analytics: UA-90014538-26
 googleplus_username: 
