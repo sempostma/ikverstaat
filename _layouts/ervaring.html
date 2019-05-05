@@ -2,36 +2,41 @@
 layout: default
 ---
 <main>
-    <section id="experience">
+    <section id="experience" itemscope itemtype="http://schema.org/ItemList">
+        <span class="hidden" itemprop="numberOfItems">{{ page.experience_list | size }}</span>
         <div class="experience-banner" style="background-image: url('{{ page.banner }}')">
             <div class="container">
-                <h1 class="padding-top-special">{{ page.title }}</h1>
-                <p class="description lead">{{ page.description }}</p>
+                <h1 itemprop="name" class="padding-top-special">{{ page.title }}</h1>
+                <p itemprop="description" class="description lead">{{ page.description }}</p>
             </div>
         </div>
 
         <div class="content container text-justify">
             <div class="row">
                 {% for topic in page.experience_list %}
-                <div class="experience-list">
-                    <div class="col-xs-12 experience-header">
-                        <h3 class="experience-title">{{ topic.title }}
-                        </h3>
-                        {% if topic.image and topic.image != '' %}
-                        <img loading="lazy" class="experience-image" title="{{ topic.title }}" src="{{ topic.image }}"
-                            alt="Ervaring icoontje">
-                        {% endif %}
-                    </div>
-                    <div class="col-xs-12 col-md-8">
-
-                        <div class="experience-short-description">{{ topic.short_description | markdownify }}</div>
-                        {% if topic.long_description and topic.long_description != "" %}
-                        <div class="experience-long-description" aria-hidden="true" style="display: none;"
-                            id="experience-hook-{{ forloop.index }}">{{ topic.long_description | markdownify }}</div>
-                        <button type="button" aria-expanded="false" class="btn btn-primary experience-btn"
-                            aria-controls="experience-hook-{{ forloop.index }}">Lees meer</button>
-                        {% endif %}
-                        <p class="experience-timespan">{{ topic.timespan }}</p>
+                <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"
+                    class="experience-list-item">
+                    <span class="hidden" itemprop="position">{{ forloop.index }}</span>
+                    <div itemprop="item" itemscope itemtype="http://schema.org/Role">
+                        <div class="col-xs-12 experience-header" >
+                            <h3 class="experience-title" itemprop="roleName">{{ topic.title }}
+                            </h3>
+                            {% if topic.image and topic.image != '' %}
+                            <img itemprop="image" loading="lazy" class="experience-image" title="{{ topic.title }}"
+                                src="{{ topic.image }}" alt="Ervaring icoontje">
+                            {% endif %}
+                        </div>
+                        <div class="col-xs-12 col-md-8">
+                            <div class="experience-short-description" itemprop="description">{{ topic.short_description | markdownify }}</div>
+                            {% if topic.long_description and topic.long_description != "" %}
+                            <div class="experience-long-description" aria-hidden="true" style="display: none;"
+                                id="experience-hook-{{ forloop.index }}">{{ topic.long_description | markdownify }}
+                            </div>
+                            <button type="button" aria-expanded="false" class="btn btn-primary experience-btn"
+                                aria-controls="experience-hook-{{ forloop.index }}">Lees meer</button>
+                            {% endif %}
+                            <p class="experience-timespan">{{ topic.timespan }}</p>
+                        </div>
                     </div>
                 </div>
                 {% endfor %}
