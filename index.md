@@ -3,24 +3,24 @@ title: ienze koekkoek - Verstaat
 permalink: "/"
 layout: home
 sub_titel: Subtitel
-description: " Duurzaam perspectief voor het landelijke gebied"
+description: Duurzaam perspectief voor het landelijke gebied.
 banner_image: "/uploads/agriculture-bridge-clouds-1368231.jpg"
 banner_logo: "/uploads/logo_with_shadow.png"
 colored_blocks:
 - title: iK Verstaat
   description: 'Verstaan is horen wat de ander zegt en begrijpen wat daarmee wordt
     bedoeld. '
-  icon: "/uploads/listen.png"
+  icon: "/uploads/network.png"
   color: "#017bb2"
 - title: iK Verstaat doet
   description: 'Proces- en projectbegeleiding in het landelijke gebied.  Geen pasklare
     antwoorden, maar samen de weg zoeken naar een optimaal resultaat. '
-  icon: "/uploads/strategy.png"
+  icon: "/uploads/support.png"
   color: "#009b57"
 - title: iK Verstaat is inzetbaar
   description: 'Voor begeleiding van groepsprocessen en het voeren van individuele
     keukentafelgesprekken. Projectontwikkeling: van vage ideeën tot concrete  uitvoeringsplannen.
-    Projectbegeleiding om het gewenste resultaat te bereiken '
+    Projectbegeleiding om het gewenste resultaat te bereiken. '
   icon: "/uploads/team.png"
   color: "#00675c"
 over: |-
