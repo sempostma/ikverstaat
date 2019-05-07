@@ -3,7 +3,7 @@ layout: default
 ---
 <main>
     <section class="container-fluid" id="intro">
-        <div id="intro-logo"></div>
+        <div role="img" aria-label="Logo van ienze koekkoek - Verstaat" id="intro-logo"></div>
         {% comment %}
         <div class="container padding-top-special"> -->
             <h1 class="mb-0">
@@ -16,13 +16,13 @@ layout: default
                 {% include social.html %}
             </div>
             <div class="tel">
-                <a title="Bellen" href="tel:{{ site.telefoon }}">
+                <a title="Bellen naar ienze koekkoek - Verstaat" href="tel:{{ site.telefoon }}">
                     <div class="fa fa-phone"></div>
                     <b>Bellen</b>
                 </a>
             </div>
             <div class="email">
-                <a title="Mailen" href="mailto:{{ site.email }}">
+                <a title="Mailen naar ienze koekkoek - Verstaat" href="mailto:{{ site.email }}">
                     <div class="fa fa-envelope"></div>
                     <b>Mailen</b>
                 </a>
@@ -41,7 +41,7 @@ layout: default
             <div class="block col-xs-12 col-sm-4" style="background-color: {{ block.color }}">
                 <div class="inner">
                     <div data-aos="nojs-fade-up">
-                        <img src="{{ block.icon }}" alt="Illustratie werkwijze nummer {{ forloop.index }}.">
+                        <img src="{{ block.icon }}" alt="Illustratie van de werkwijze van ienze koekkoek - Verstaat, nummer {{ forloop.index }}.">
                         <h3>
                             {{ block.title }}
                         </h3>
@@ -60,8 +60,8 @@ layout: default
         <p class="pre-wrap">{{ page.over }}</p>
 
         <div style="padding-top: 20px; padding-bottom: 10px;">
-            <a href="/over" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
-            <img class="waaier" src="/uploads/waaier_cropped.png" alt="Waaier">
+            <a title="Lees meer over Ienze Koekkoek" href="/over" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
+            <img class="waaier" src="/uploads/waaier_cropped.png" alt="IK-Verstaat waaier">
         </div>
 
     </section>
@@ -111,8 +111,8 @@ layout: default
         <p class="pre-wrap">{{ page.ervaring }}</p>
 
         <div style="padding-top: 20px; padding-bottom: 10px;">
-            <a href="/ervaring" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
-            <img class="waaier" src="/uploads/waaier_cropped.png" alt="Waaier">
+            <a title="Lees meer over de ervaring van Ienze Koekkoek" href="/ervaring" class="btn btn-primary" data-aos="nojs-fade-left">Lees verder</a>
+            <img class="waaier" src="/uploads/waaier_cropped.png" alt="IK-Verstaat waaier">
         </div>
     </section>
     <section id="experience-images-home-section container-fluid">
@@ -120,7 +120,7 @@ layout: default
             {% for item in page.projecten %}
             <div class="col col-xs-12 col-sm-4 nopadding">
                 <figure class="experience-image-block">
-                    <div style="background-image: url('{{ item.image }}')" class="bg-image fit-abs"></div>
+                    <div role="img" aria-label="Afbeelding van een het project: {{ item.title }}" style="background-image: url('{{ item.image }}')" class="bg-image fit-abs"></div>
                     <figcaption class="container">
                         <h3>{{ item.title }}</h3>
                         <p class="text-justify">{{ item.description }}</p>
