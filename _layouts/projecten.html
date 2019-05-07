@@ -12,9 +12,9 @@ layout: default
         </div>
 
         <div class="content container text-justify">
-            <div class="row">
+            <div class="row" role="list">
                 {% for project in page.projects_list %}
-                <div class="projects-list-item" itemprop="itemListElement" itemscope
+                <div role="listitem" class="projects-list-item" itemprop="itemListElement" itemscope
                     itemtype="http://schema.org/ListItem">
                     <span class="hidden" itemprop="position">{{ forloop.index }}</span>
                     <div itemprop="item" itemscope itemtype="http://schema.org/Thing">
@@ -22,7 +22,7 @@ layout: default
                             <h3 itemprop="name" class="project-title">{{ project.title }}</h3>
                             {% if project.image and project.image != '' %}
                             <img itemprop="image" class="project-image" title="{{ project.title }}" src="{{ project.image }}"
-                                alt="Ervaring icoontje">
+                                alt="{{ project.title } ervaring icoontje">
                             {% endif %}
                         </div>
                         <div class="col-xs-12 col-md-8">
@@ -53,6 +53,6 @@ layout: default
                 </div>
             </div>
         </div>
-        <div style="padding-top: 50px"></div>
+        <div role="seperator" style="padding-top: 50px"></div>
     </section>
 </main>
