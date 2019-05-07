@@ -3,7 +3,7 @@
         <div class="row footer-header">
             <div class="col-xs-12">
                 <img class="img-responsive" width="180" src="/uploads/logo_with_shadow.png"
-                    alt="Klein logo">
+                    alt="ienze koekkoek verstaat logo klein">
                 <hr>
             </div>
         </div>
@@ -13,7 +13,7 @@
                 <ul>
                 {% for link in site.data.footer.pages %}
                     <li>
-                        <a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
+                        <a class="nav-link" title="Linkje naar de pagina: &quot;{{ link.title }}&quot;" href="{{ link.url }}">{{ link.title }}</a>
                     </li>
                 {% endfor %}
                 </ul>
@@ -23,12 +23,12 @@
                 <p>
                     <b>Bellen</b>
                     <br>
-                    <a title="Bellen" data-href="tel:{{ site.telefoon }}">{{ site.telefoon }}</a>
+                    <a title="Bellen naar ienze koekkoek - Verstaat" data-href="tel:{{ site.telefoon }}">{{ site.telefoon }}</a>
                 </p>
                 <p>
                     <b>Email</b>
                     <br>
-                    <a title="Mailen" data-href="mailto:{{ site.email }}">{{ site.email }}</a>
+                    <a title="Mailen naar ienze koekkoek - Verstaat" data-href="mailto:{{ site.email }}">{{ site.email }}</a>
                 </p>
 
                 {% include social.html %}
