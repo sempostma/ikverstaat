@@ -12,9 +12,9 @@ layout: default
         </div>
 
         <div class="content container text-justify">
-            <div class="row">
+            <div class="row" role="list">
                 {% for topic in page.experience_list %}
-                <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"
+                <div role="listitem" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"
                     class="experience-list-item">
                     <span class="hidden" itemprop="position">{{ forloop.index }}</span>
                     <div itemprop="item" itemscope itemtype="http://schema.org/Role">
