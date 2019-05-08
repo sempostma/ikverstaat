@@ -15,8 +15,8 @@
 /* SITE */
     Last update: 2018/02
     Language: Dutch/English
-    Standards: HTML5, CSS3, ES6
-    Software: Jekyll, Github Pages, Ruby, Sass
+    Standards: HTML5, CSS3, ES5
+    Software: Jekyll, Github Pages, Ruby, Sass, Bootstrap
     Doctype: HTML
     IDE: VSCode, Git-Bash, Git, Gimp, Photoshop
     
