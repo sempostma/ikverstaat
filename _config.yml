@@ -27,6 +27,16 @@ youtube_username: ''
 telefoon: "+31 6 10596549"
 email: i.koekkoek@ikverstaat.nl
 logo: "/uploads/ikverstaat-cropped.png"
+humanstxt_author:
+  role: Developer
+  name: Sem Postma
+  from: Oosterhout NB, The Netherlands
+  email: sem.postma@gmail.com
+humanstxt_designer:
+  role: Designer
+  name: Sem Postma
+  from: Oosterhout NB, The Netherlands
+  email: sem.postma@gmail.com
 author:
   twitter: ikverstaat
 facebook:
