@@ -5,10 +5,15 @@ layout: projecten
 description: Projecten van Ienze Koekkoek - verstaat.
 banner: "/uploads/L1000152.JPG"
 projects_list:
-- title: ''
-  short_description: ''
-  long_description: ''
-  image: ''
+- title: Planontwikkeling VAB-loket en voucherregeling O-gen
+  short_description: Betrokken bij het ontwikkelen van een businessplan voor ondersteuning
+    van eigenaren van vrijkomende agrarische bedrijfsgebouwen voor het vinden van
+    nieuwe functies voor de panden.
+  long_description: 'Gemeenten in de Gelderse Vallei en Utrecht-Oost willen willen
+    ondersteuning geven aan eigenaren van vrijkomende agrarische agrarische gebouwen
+    om nieuwe functies te vinden voor hun opstallen. Gebiedscoöperatie O-gen ontwikkelt
+    een businessplan voor een adviesloket, een voucherregeling en coaching. '
+  image: "/uploads/O-gen_logo340.png"
   timespan: ''
 - title: Nieuwe Natuur Oostkant Dronten
   short_description: 'Proces- en projectbegeleiding voor de ontwikkeling van nieuwe
