@@ -5,6 +5,11 @@ layout: projecten
 description: Projecten van Ienze Koekkoek - verstaat.
 banner: "/uploads/L1000152.JPG"
 projects_list:
+- title: ''
+  short_description: ''
+  long_description: ''
+  image: ''
+  timespan: ''
 - title: Nieuwe Natuur Oostkant Dronten
   short_description: 'Proces- en projectbegeleiding voor de ontwikkeling van nieuwe
     natuur Oostkant Dronten. Het project is een samenwerking tussen de gemeente en
