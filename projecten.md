@@ -31,7 +31,7 @@ projects_list:
     In de eerste plaats willen we met de bewoners en de gebruikers van het gebied een visie formuleren voor de toekomst, waarbij we de agrarische sector in het middelpunt plaatsen.  Op die manier willen we handreikingen maken voor een vernieuwd agrarische ondernemerschap, nieuwe samenwerkingen en businessmodellen en interactie met streekhouders in het gebied.
   image: "/uploads/logo AmerkantOp.jpg"
   timespan: ''
-- title: Nieuwe functies voor agrarische erven
+- title: 'Nieuwe functies voor agrarische erven '
   short_description: |
     In het landelijke gebied zijn veel gestopte agrarische bedrijven. Veel agrarische ondernemers overwegen om te stoppen. De provincie Noord-Brabant stelt met VABIMPULS vouchers beschikbaar aan deze ondernemers om met deskundigen en specialisten te zoeken naar  alternatieve functies voor erf en de gebouwen en een connectie met de omgeving.
 
