@@ -90,18 +90,13 @@ projects_list:
   image: ''
   timespan: ''
 - title: Warme sanering varkenshouderij
-  short_description: 'Eind augustus 2019 opent de landelijk stimuleringsregeling ''warme
-    sanering varkenshouderij''.  Varkenshouders die veel hinder veroorzaken of om
-    een andere reden geen ontwikkelingsmogelijkheden meer  zien of hebben kunnen zich
-    opgeven om met financiële steun te stoppen. Voor de gemeente Barneveld ben ik
-    de contactpersoon voor de agrarische ondernemers en andere partijen  die hiermee
-    te maken krijgen. Tevens coördineer ik dat de gemeentelijke organisatie klaar
-    is om allerlei vragen die op de gemeente af gaan komen te beantwoorden en procedures
-    in gang te zetten.
-
-'
+  short_description: Coördinator en contactpersoon voor de 'warme sanering varkenshouderij'
+    in Barneveld.
   image: "/uploads/logo_barneveld.png"
-  long_description: ''
+  long_description: |-
+    Eind augustus 2019 opent de landelijk stimuleringsregeling 'warme sanering varkenshouderij'.  Varkenshouders die veel hinder veroorzaken of om een andere reden geen ontwikkelingsmogelijkheden meer  zien of hebben kunnen zich opgeven om met financiële steun te stoppen. Voor de gemeente Barneveld ben ik de contactpersoon voor de agrarische ondernemers en andere partijen  die hiermee te maken krijgen. Tevens coördineer ik dat de gemeentelijke organisatie klaar is om allerlei vragen die op de gemeente af gaan komen te beantwoorden en procedures in gang te zetten.
+
+    Lopend project
   timespan: ''
 
 ---
