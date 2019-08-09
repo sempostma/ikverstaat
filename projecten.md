@@ -19,10 +19,10 @@ projects_list:
   short_description: Betrokken bij het ontwikkelen van een businessplan voor ondersteuning
     van eigenaren van vrijkomende agrarische bedrijfsgebouwen voor het vinden van
     nieuwe functies voor de panden.
-  long_description: 'Gemeenten in de Gelderse Vallei en Utrecht-Oost willen willen
-    ondersteuning geven aan eigenaren van vrijkomende agrarische agrarische gebouwen
-    om nieuwe functies te vinden voor hun opstallen. Gebiedscoöperatie O-gen ontwikkelt
-    een businessplan voor een adviesloket, een voucherregeling en coaching. '
+  long_description: |-
+    Gemeenten in de Gelderse Vallei en Utrecht-Oost willen willen ondersteuning geven aan eigenaren van vrijkomende agrarische agrarische gebouwen om nieuwe functies te vinden voor hun opstallen. Gebiedscoöperatie O-gen ontwikkelt een businessplan voor een adviesloket, een voucherregeling en coaching.
+
+    Lopend Project
   image: "/uploads/O-gen_logo340.png"
   timespan: ''
 - title: Nieuwe Natuur Oostkant Dronten
