@@ -51,6 +51,8 @@ projects_list:
     We streven ernaar om landbouw, natuur, landschap, recreatie, toerisme, regionaal voedsel, duurzame energie en educatie meer met elkaar te integreren en samen te laten werken. Het doel is om een breder waardemodel en om waardeketens te creëren voor het gebied, de bewoners en de ondernemers: hogere inkomsten op een bredere basis voor de agrariërs, beter voor bodem en biodiversiteit, meer beleving voor bewoners en toeristen en inspelend op vraagstukken rondom klimaatverandering.
 
     In de eerste plaats willen we met de bewoners en de gebruikers van het gebied een visie formuleren voor de toekomst, waarbij we de agrarische sector in het middelpunt plaatsen.  Op die manier willen we handreikingen maken voor een vernieuwd agrarische ondernemerschap, nieuwe samenwerkingen en businessmodellen en interactie met streekhouders in het gebied.
+
+    Project in ontwikkeling
   image: "/uploads/logo AmerkantOp.jpg"
   timespan: ''
 - title: 'Nieuwe functies voor agrarische erven '
