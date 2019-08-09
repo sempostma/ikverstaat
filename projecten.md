@@ -67,6 +67,8 @@ projects_list:
     * Een varkensbedrijf staat deels leeg omdat het verouderd is. De vraag komt op wat er mogelijk is op deze locatie als het gehele varkensbedrijf stopt. Er zijn diverse ideeën, waaronder een ambitieus plan om oude tijden te laten herleven met de herbouw van een archeologische monument (een burcht) voor wonen, extensief wonen eromheen, nieuwe natuur en extensieve recreatie.
     * Een van de stallen van een varkensbedrijf moet binnen enkele jaren gerenoveerd worden. De ondernemers lopen tegen de 60; investeren is niet meer rendabel te maken. Wat dan? Dat onderzoeken we nu.
     * Een melkveebedrijf ligt in de omgeving van een monumentaal gebouw voor opslag, waarvoor een herbestemming is beoogd met woningen. Echter, de geurcirkel van het melkveebedrijf verhindert deze mogelijkheid. Onderzocht wordt of er voor het melkveebedrijf ook een andere, rendabele, functie gevonden kan worden, zodat het de ontwikkeling bij de buren doorgang kan vinden.
+
+    Lopend project
   image: "/uploads/Logo VABImpuls.jpg"
   timespan: ''
 - title: Natuurinclusieve landbouw met burgerparticipatie (POP3-project)
