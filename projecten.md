@@ -78,15 +78,10 @@ projects_list:
     een agrarisch bedrijf.
 
 '
-  long_description: Agrarische ondernemers willen over het algemeen meer doen met
-    natuurinclusieve landbouw, maar de hoge grondprijzen en kleine marges maken dat
-    erg moeilijk. Met dit project gaan we op zoek naar mogelijkheden om burgers en
-    bedrijven samen te laten werken met agrarische ondernemers om die omslag naar
-    natuurinclusieve landbouw te kunnen maken. Bijvoorbeeld door betaling voor een
-    bepaald beheer of een gedeeld eigendom van grond waardoor er geld vrijkomt voor
-    de boer. Enkele modellen modellen worden juridisch, financieel, fiscaal en organisatorisch
-    worden uitgewerkt. Minimaal één model krijgt een  toets in de praktijk met een
-    stevig communicatietraject om investeerders te werven.
+  long_description: |-
+    Agrarische ondernemers willen over het algemeen meer doen met natuurinclusieve landbouw, maar de hoge grondprijzen en kleine marges maken dat erg moeilijk. Met dit project gaan we op zoek naar mogelijkheden om burgers en bedrijven samen te laten werken met agrarische ondernemers om die omslag naar natuurinclusieve landbouw te kunnen maken. Bijvoorbeeld door betaling voor een bepaald beheer of een gedeeld eigendom van grond waardoor er geld vrijkomt voor de boer. Enkele modellen modellen worden juridisch, financieel, fiscaal en organisatorisch worden uitgewerkt. Minimaal één model krijgt een  toets in de praktijk met een stevig communicatietraject om investeerders te werven.
+
+    Project in ontwikkeling
   image: ''
   timespan: ''
 - title: Warme sanering varkenshouderij
