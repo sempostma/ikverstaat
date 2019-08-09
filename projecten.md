@@ -5,6 +5,16 @@ layout: projecten
 description: Projecten van Ienze Koekkoek - verstaat.
 banner: "/uploads/L1000152.JPG"
 projects_list:
+- title: Kreken Kweken
+  short_description: Projectleiding in opdracht van de gemeente Hellevoetsluis voor
+    het Project Kreken Kweken op Voorne-Putten. Doel is om ecologische oevers langs
+    kreken en andere watergang te realiseren.
+  long_description: De gemeenten op Voorne-Putten en het waterschap Hollandse Delta
+    zijn al enige jaren bezig om grond langs watergangen te verwerven om ecologische
+    oevers aan te leggen. Vanwege het vertrek van de projectleider, neem ik die taak
+    over. Op dit moment wordt er grond verworven en worden er ecologische oevers ingericht.
+  image: "/uploads/logo Hellevoetsluis.gif"
+  timespan: Lopend project
 - title: Planontwikkeling VAB-loket en voucherregeling O-gen
   short_description: Betrokken bij het ontwikkelen van een businessplan voor ondersteuning
     van eigenaren van vrijkomende agrarische bedrijfsgebouwen voor het vinden van
