@@ -1,5 +1,5 @@
 ---
-title: Projecten
+title: Projecten en opdrachten
 permalink: "/projecten"
 layout: projecten
 description: Projecten van Ienze Koekkoek - verstaat.
