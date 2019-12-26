@@ -26,7 +26,7 @@ projects_list:
 
     Lopend project
   image: "/uploads/logo Hellevoetsluis.gif"
-  timespan: Lopend project
+  timespan: 'September tot en met december 2019 '
 - title: Planontwikkeling VAB-loket en voucherregeling O-gen
   short_description: Betrokken bij het ontwikkelen van een businessplan voor ondersteuning
     van eigenaren van vrijkomende agrarische bedrijfsgebouwen voor het vinden van
