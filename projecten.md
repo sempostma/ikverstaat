@@ -18,9 +18,8 @@ projects_list:
   image: "/uploads/logo Utrecht-west def.png"
   timespan: september 2019 tot heden
 - title: Kreken Kweken
-  short_description: Projectleiding in opdracht van de gemeente Hellevoetsluis voor
-    het project Kreken Kweken op Voorne-Putten. Doel is om ecologische oevers langs
-    kreken en andere watergang te realiseren.
+  short_description: 'Tijdelijk projectleiding in opdracht van de gemeente Hellevoetsluis
+    voor het project Kreken Kweken op Voorne-Putten. '
   long_description: |-
     De gemeenten op Voorne-Putten en het waterschap Hollandse Delta zijn al enige jaren bezig om grond langs watergangen te verwerven om ecologische oevers aan te leggen. Vanwege het vertrek van de projectleider, neem ik die taak over. Op dit moment wordt er grond verworven en worden er ecologische oevers ingericht.
 
