@@ -6,8 +6,8 @@ description: Projecten van Ienze Koekkoek - verstaat.
 banner: "/uploads/L1000152.JPG"
 projects_list:
 - title: Programmabureau Utrecht-West
-  short_description: Begeleiden van gebiedsprocessen in het veenweidegebied van de
-    provincie Utrecht
+  short_description: "![](/uploads/logo Utrecht-west def.png)Begeleiden van gebiedsprocessen
+    in het veenweidegebied van de provincie Utrecht"
   long_description: 'Het westelijke deel van de provincie Utrecht, het veenweidegebied,
     staan veranderingen voor de deur om bodemdaling en de uitstoot van CO2 uit het
     veenpakket tegen te gaan. De boeren in deze streek, overheden en natuurorganisaties
