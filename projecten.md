@@ -95,14 +95,18 @@ projects_list:
     Project in ontwikkeling
   image: ''
   timespan: ''
-- title: Warme sanering varkenshouderij
-  short_description: Coördinator en contactpersoon voor de 'warme sanering varkenshouderij'
-    in Barneveld.
+- title: Proces- en projectbegeleiding landelijk gebied
+  short_description: Diverse werkzaamheden voor het landelijke gebied van de gemeente
+    Barneveld en de Regio Foodvalley
   image: "/uploads/logo_barneveld.png"
   long_description: |-
-    Eind augustus 2019 opent de landelijk stimuleringsregeling 'warme sanering varkenshouderij'.  Varkenshouders die veel hinder veroorzaken of om een andere reden geen ontwikkelingsmogelijkheden meer  zien of hebben kunnen zich opgeven om met financiële steun te stoppen. Voor de gemeente Barneveld ben ik de contactpersoon voor de agrarische ondernemers en andere partijen  die hiermee te maken krijgen. Tevens coördineer ik dat de gemeentelijke organisatie klaar is om allerlei vragen die op de gemeente af gaan komen te beantwoorden en procedures in gang te zetten.
+    Allerlei werkzaamheden ten aanzien van het landelijk gebied zoals:
+    - Contactpersoon voor de Saneringsregeling varkenshouderij ('Warme sanering varkenshouderij');
+    - Schrijven van beleidsstukken voor functieverandering in het landelijke gebied;
+    - Ontwikkelen van een project voor keukentafelgesprekken met agrarische ondernemers en hun gezinnen voor de Regio Foodvalley;
+    - Deelnemen aan projectontwikkeling voor een grondfonds in de regio Foodvalley.
 
-    Lopend project
+    Lopende opdracht
   timespan: ''
 
 ---
