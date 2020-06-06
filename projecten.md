@@ -33,7 +33,7 @@ projects_list:
   long_description: |-
     Gemeenten in de Gelderse Vallei en Utrecht-Oost willen willen ondersteuning geven aan eigenaren van vrijkomende agrarische agrarische gebouwen om nieuwe functies te vinden voor hun opstallen. Gebiedscoöperatie O-gen ontwikkelt een businessplan voor een adviesloket, een voucherregeling en coaching.
 
-    Lopend Project
+    Afgerond Project
   image: "/uploads/O-gen_logo340.png"
   timespan: ''
 - title: Nieuwe Natuur Oostkant Dronten
@@ -81,19 +81,6 @@ projects_list:
 
     Lopend project
   image: "/uploads/Logo VABImpuls.jpg"
-  timespan: ''
-- title: Natuurinclusieve landbouw met burgerparticipatie (POP3-project)
-  short_description: 'Proces- en projectbegeleiding van een POP3-project om te komen
-    tot financiële modellen om burgers en niet-agrarische bedrijven te betrekken bij
-    natuurinclusieve landbouw. Eén of enkele modellen worden concreet toegepast op
-    een agrarisch bedrijf.
-
-'
-  long_description: |-
-    Agrarische ondernemers willen over het algemeen meer doen met natuurinclusieve landbouw, maar de hoge grondprijzen en kleine marges maken dat erg moeilijk. Met dit project gaan we op zoek naar mogelijkheden om burgers en bedrijven samen te laten werken met agrarische ondernemers om die omslag naar natuurinclusieve landbouw te kunnen maken. Bijvoorbeeld door betaling voor een bepaald beheer of een gedeeld eigendom van grond waardoor er geld vrijkomt voor de boer. Enkele modellen modellen worden juridisch, financieel, fiscaal en organisatorisch worden uitgewerkt. Minimaal één model krijgt een  toets in de praktijk met een stevig communicatietraject om investeerders te werven.
-
-    Project in ontwikkeling
-  image: ''
   timespan: ''
 - title: Proces- en projectbegeleiding landelijk gebied
   short_description: Diverse werkzaamheden voor het landelijke gebied van de gemeente
