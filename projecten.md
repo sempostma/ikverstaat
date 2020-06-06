@@ -23,7 +23,7 @@ projects_list:
   long_description: |-
     De gemeenten op Voorne-Putten en het waterschap Hollandse Delta zijn al enige jaren bezig om grond langs watergangen te verwerven om ecologische oevers aan te leggen. Vanwege het vertrek van de projectleider, neem ik die taak over. Op dit moment wordt er grond verworven en worden er ecologische oevers ingericht.
 
-    Lopend project
+    Afgerond project
   image: "/uploads/logo Hellevoetsluis.gif"
   timespan: 'September tot en met december 2019 '
 - title: Planontwikkeling VAB-loket en voucherregeling O-gen
