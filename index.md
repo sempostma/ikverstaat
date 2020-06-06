@@ -18,9 +18,10 @@ colored_blocks:
   icon: "/uploads/support.png"
   color: "#009b57"
 - title: iK Verstaat is inzetbaar
-  description: 'Voor begeleiding van groepsprocessen en het voeren van individuele
-    keukentafelgesprekken. Projectontwikkeling: van vage ideeën tot concrete  uitvoeringsplannen.
-    Projectbegeleiding om het gewenste resultaat te bereiken. '
+  description: 'Voor begeleiding van gebiedsprocessen, groepsprocessen en het voeren
+    van individuele keukentafelgesprekken. Projectontwikkeling: van vage ideeën tot
+    concrete  uitvoeringsplannen. Projectbegeleiding om het gewenste resultaat te
+    bereiken. '
   icon: "/uploads/team.png"
   color: "#00675c"
 over: |-
