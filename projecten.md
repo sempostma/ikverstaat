@@ -16,8 +16,7 @@ projects_list:
     in verschillende polders, waaronder de Waardassackerpolder en Botshol bij Abcoude.
     Verder onderzoek ik met streekhouders de mogelijkheden voor kansrijk gebiedsprocessen
     in de polders bij Zegveld en de omgeving van Ruigeweide bij Oudewater.\nDaarnaast
-    ben ik secretaris van de Adviesgroep Landbouw Utrecht-West. Deze werkzaamheden
-    doe ik in opdracht van het Programmabureau Utrecht-West. "
+    ben ik secretaris van de Adviesgroep Landbouw Utrecht-West. "
   image: "/uploads/logo Utrecht-west def.png"
   timespan: september 2019 tot heden
 - title: Proces- en projectbegeleiding landelijk gebied
