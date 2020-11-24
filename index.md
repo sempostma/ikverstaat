@@ -18,16 +18,16 @@ colored_blocks:
   icon: "/uploads/support.png"
   color: "#009b57"
 - title: iK Verstaat is inzetbaar
-  description: 'Voor begeleiding van gebiedsprocessen, groepsprocessen en het voeren
+  description: "Voor begeleiding van gebiedsprocessen, groepsprocessen en het voeren
     van individuele keukentafelgesprekken. Projectontwikkeling: van vage ideeën tot
-    concrete  uitvoeringsplannen. Projectbegeleiding om het gewenste resultaat te
-    bereiken. '
+    concrete  uitvoeringsplannen.\nSchrijven van teksten en verwerken van data in
+    een Geografisch Informatie Systeem (GIS "
   icon: "/uploads/team.png"
   color: "#00675c"
 over: |-
-  Proces- en projectbegeleiding in het landelijke gebied om met streekhouders veranderingen tot stand te brengen.  Die verandering moeten houdbaar zijn. Dus gebaseerd op een gezond financieel rendement, sociaal aantrekkelijk en bijdragen aan een gezond milieu.
+  Proces- en projectbegeleiding in het landelijke gebied om met streekhouders gevolg tot stand te brengen. Die verandering moeten houdbaar zijn. Dus gebaseerd op een gezond financieel rendement, sociaal aantrekkelijk en bijdragen aan een gezond milieu.
 
-  Ik zorg  ervoor dat betrokken partijen elkaar (gaan) verstaan. Ik breng mensen en situaties bij elkaar om samen veranderingen tot stand te brengen, oplossingen te verzinnen, plannen te maken en uit te voeren.
+  Ik zorg ervoor dat betrokken partijen elkaar (gaan) verstaan. Ik mensen en situaties bij elkaar om samen oplossingen tot stand te brengen, plannen te maken en uit te voeren.
 
   Voorbeelden van thema's: Biodiversiteit, nieuwe natuur, kringlooplandbouw, klimaatadaptatie, bodemdaling, stad-plattelandrelaties, burgerparticipatie, duurzame energie, landbouw en nieuwe functies voor boerenerven.
 ervaring: 'Ik werk al bijna 30 jaar samen met bewoners en gebruikers van het landelijke
