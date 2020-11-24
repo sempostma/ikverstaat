@@ -18,10 +18,9 @@ colored_blocks:
   icon: "/uploads/support.png"
   color: "#009b57"
 - title: iK Verstaat is inzetbaar
-  description: "Voor begeleiding van gebiedsprocessen, groepsprocessen en het voeren
-    van individuele keukentafelgesprekken. Projectontwikkeling: van vage ideeën tot
-    concrete  uitvoeringsplannen.\nSchrijven van teksten en verwerken van data in
-    een Geografisch Informatie Systeem (GIS "
+  description: |-
+    Voor begeleiding van gebiedsprocessen, groepsprocessen en het voeren van individuele keukentafelgesprekken. Projectontwikkeling: van vage ideeën tot concrete  uitvoeringsplannen.
+    Schrijven van teksten en verwerken van data in een Geografisch Informatie Systeem (GIS).
   icon: "/uploads/team.png"
   color: "#00675c"
 over: |-
