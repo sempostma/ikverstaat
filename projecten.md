@@ -5,16 +5,18 @@ layout: projecten
 description: Projecten van Ienze Koekkoek - verstaat.
 banner: "/uploads/L1000152.JPG"
 projects_list:
-- title: Programmabureau Utrecht-West
+- title: Procesbegeleider Programmabureau Utrecht-West
   short_description: Begeleiden van gebiedsprocessen in het veenweidegebied van de
     provincie Utrecht
-  long_description: 'Het westelijke deel van de provincie Utrecht, het veenweidegebied,
+  long_description: "Het westelijke deel van de provincie Utrecht, het veenweidegebied,
     staan veranderingen voor de deur om bodemdaling en de uitstoot van CO2 uit het
     veenpakket tegen te gaan. De boeren in deze streek, overheden en natuurorganisaties
     willen hun steentje bijdragen om de veranderingen tot stand te brengen. Ik begeleid
     hiervoor gebiedsprocessen in verschillende polders, waaronder de Waardassackerpolder
-    bij Abcoude. Daarnaast ben ik secretaris van de Stuurgroep Landbouw Utrecht-West.
-    Deze werkzaamheden doe ik in opdracht van het Programmabureau Utrecht-West. '
+    en Botshol bij Abcoude. Verder onderzoek ik met streekhouders de mogelijkheden
+    voor kansrijk gebiedsprocessen in de polders bij Zegveld en de omgeving van Ruigeweide
+    bij Oudewater.\nDaarnaast ben ik secretaris van de Adviesgroep Landbouw Utrecht-West.
+    Deze werkzaamheden doe ik in opdracht van het Programmabureau Utrecht-West. "
   image: "/uploads/logo Utrecht-west def.png"
   timespan: september 2019 tot heden
 - title: Proces- en projectbegeleiding landelijk gebied
