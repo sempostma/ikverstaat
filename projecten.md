@@ -30,7 +30,7 @@ projects_list:
     - Ontwikkelen van een project voor keukentafelgesprekken met agrarische ondernemers en hun gezinnen voor de Regio Foodvalley;
     - Deelnemen aan projectontwikkeling voor een grondfonds in de regio Foodvalley.
 
-    Lopende opdracht
+    Afgerond
   timespan: ''
 - title: Nieuwe Natuur Oostkant Dronten
   short_description: 'Proces- en projectbegeleiding voor de ontwikkeling van nieuwe
