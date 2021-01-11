@@ -43,7 +43,7 @@ projects_list:
 
     Als proces- en projectbegeleider begeleid ik in opdracht van de gemeente de realisatie van deze nieuwe natuur. Er wordt een uitvoeringsovereenkomst tussen ondernemers en gemeente ontworpen en getekend. Daarna komt de verder detaillering van de plannen aan de orde, het gesprek met de omgeving en de bestemmingsplanprocedure. Als dat is afgerond kan de uitvoering ter hand worden genomen en het beheer gestart.
 
-    Lopend project
+    Afgerond
   image: "/uploads/Logo gemeente Dronten.JPG"
   timespan: ''
 - title: 'Nieuwe functies voor agrarische erven '
