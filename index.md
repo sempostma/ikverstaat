@@ -50,10 +50,10 @@ slideshow:
   description: Stukje tekst 5
   image: "/uploads/agriculture-country-countryside-810893.jpg"
 projecten:
-- title: Nieuwe Natuur Oostkant Dronten
-  description: Ik begeleid het proces om met agrarische ondernemers de nieuwe natuur
-    te realiseren. Dit is een uitvloeisel van het programma Nieuwe Natuur van de provincie
-    Flevoland.
+- title: Begeleider gebiedsprocessen Utrecht-West
+  description: 'Als procesbegeleider initiëren en begeleiden van gebiedsprocessen
+    met agrariërs, natuurorganisatie en overheden in Utrecht-West. Doel: planvorming
+    met het gebied met draagvlak voor toekomstbestendige polders en agrarische bedrijven.'
   image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
 - title: Stichting De AmerkantOp
   description: Agrarische ondernemers hebben het initiatief opgepakt om een gebiedsproces
