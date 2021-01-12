@@ -50,10 +50,9 @@ slideshow:
   description: Stukje tekst 5
   image: "/uploads/agriculture-country-countryside-810893.jpg"
 projecten:
-- title: Begeleider gebiedsprocessen Utrecht-West
-  description: 'Als procesbegeleider initiëren en begeleiden van gebiedsprocessen
-    met agrariërs, natuurorganisatie en overheden in Utrecht-West. Doel: planvorming
-    met het gebied met draagvlak voor toekomstbestendige polders en agrarische bedrijven.'
+- title: Projectbegeleider Nieuwe Natuur Dronten
+  description: Ik begeleid het proces om met agrariërs nieuwe natuur te realiseren.
+    Dit is een uitvloeisel van het Programma Nieuwe Natuur van de provincie Flevoland.
   image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
 - title: Begeleider gebiedsprocessen Utrecht-West
   description: 'Als procesbegeleider initiëren en begeleiden van gebiedsprocessen
@@ -66,5 +65,6 @@ projecten:
     Noord-Brabant)
   image: "/uploads/agriculture-barn-clouds-462136.jpg"
 over_banner_image: "/uploads/IMG_1652.JPG"
+published: false
 
 ---
