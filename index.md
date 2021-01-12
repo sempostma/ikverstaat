@@ -66,6 +66,5 @@ projecten:
     Noord-Brabant)
   image: "/uploads/agriculture-barn-clouds-462136.jpg"
 over_banner_image: "/uploads/IMG_1652.JPG"
-published: false
 
 ---
