@@ -55,11 +55,11 @@ projecten:
     met agrariërs, natuurorganisatie en overheden in Utrecht-West. Doel: planvorming
     met het gebied met draagvlak voor toekomstbestendige polders en agrarische bedrijven.'
   image: "/uploads/agriculture-animal-black-and-white-cows-325257.jpg"
-- title: Stichting De AmerkantOp
-  description: Agrarische ondernemers hebben het initiatief opgepakt om een gebiedsproces
-    in gang te zetten in West-Brabant om landbouw, natuur, recreatie en consumenten
-    meer met elkaar te integreren en samenwerken. Ik ben één van de procesbegeleiders.
-  image: "/uploads/Biesbosch_Drone-0331.jpg"
+- title: Begeleider gebiedsprocessen Utrecht-West
+  description: 'Als procesbegeleider initiëren en begeleiden van gebiedsprocessen
+    met agrariërs, natuurorganisatie en overheden in Utrecht-West. Doel: planvorming
+    met het gebied met draagvlak voor toekomstbestendige polders en agrarische bedrijven.'
+  image: "/uploads/img_9874.JPG"
 - title: Nieuwe functies voor boerenerven
   description: Als deskundige begeleid ik gestopte agrariërs in hun zoektocht naar
     een nieuwe functie voor hun agrarische erf (in het kader van VABIMPULS, provincie
