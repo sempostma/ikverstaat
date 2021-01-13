@@ -1,6 +1,5 @@
 ---
 title: ienze koekkoek - Verstaat
-permalink: "/"
 layout: home
 sub_titel: Subtitel
 description: Duurzaam perspectief voor het landelijke gebied.
@@ -65,6 +64,4 @@ projecten:
     Noord-Brabant)
   image: "/uploads/agriculture-barn-clouds-462136.jpg"
 over_banner_image: "/uploads/IMG_1652.JPG"
-published: false
-
 ---
