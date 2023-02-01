@@ -15,6 +15,13 @@ experience_list:
     * Contactpersoon en procesbegeleider 'Warme sanering varkenshouderij Barneveld'
     * Procesbegeleider gebiedsproces De AmerkantOp in West-Brabant
     * Projectleider POP3 project 'Natuurinclusieve landbouw met burgerparticipatie'
+    * Procesbegeleider gebiedsproces Waardassacker polder/Botshol/Nellestein (Abcoude) voor Programmabureau Utrecht-West
+    * Voorbereidingen gebiedsprocessen voor Programmabureau Utrecht-West (Zegveld, Zouweboezem, Oudewater)
+    * Voorbereiden Warme sanering varkenshouderij gemeente Barneveld
+    * Voorbereiden gebiedsproces omgeving Kamers in de gemeente Bernheze
+    * Voeren van keukentafelgesprekken met agrarische ondernemers in de gemeente Molenlanden en in de gemeente Rhenen
+    * Onderzoeken mogelijkheden openhouden delen van lange afstand wandelroutes van Wandelnet
+    * Schrijven van teksten
   long_description: ''
   image: "/uploads/ikverstaat-cropped-sm.png"
   timespan: februari 2019 - heden

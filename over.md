@@ -9,9 +9,9 @@ background_image: "/uploads/Biesbosch-9670.jpg"
 over_logo: "/uploads/logo_shadow_extreme.png"
 cta: Bekijk ook mijn ervaring.
 me: |-
-  Je kunt mij opdracht geven om in het landelijk gebied  bewoners, ondernemers (zoals agrariërs), maatschappelijke organisaties en overheden te organiseren om gezamenlijk veranderingen in gang te zetten die nodig zijn voor een duurzame toekomst. Dus voor mens, milieu en economie.
+  Ik organiseer in het landelijke gebied bewoners, ondernemers (zoals agrariërs), maatschappelijke organisaties en overheden om samen stappen te zetten voor een duurzame toekomst. Dus voor mens, milieu en economie. Dit zijn gebiedsprocessen. Ik ben niet de adviseur die alle oplossingen paraat heeft, maar de procesbegeleider die met 'streekhouders' aan de slag gaat om met activiteiten en projecten een optimaal resultaat te behalen.
 
-  Daarbij ben ik niet de adviseur die alle oplossingen paraat  heeft, maar de procesbegeleider die met ‘streekhouders’ aan de slag gaat om met activiteiten en projecten een optimaal resultaat te behalen.
+  Meestal begint een gebiedsproces met individuele gesprekken aan keukentafels. Ik kan goed luisteren, vragen en 'verstaan' wat er wordt bedoeld. Vandaar de naam van mijn bedrijf: iKVerstaat.
 
   Bij mij is 'afspraak is afspraak'. Ik zet mij ook altijd in voor een prettige werksfeer.
 
