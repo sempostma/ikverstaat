@@ -10,6 +10,8 @@ experience_list:
   short_description: |-
     Begeleiden van processen en projecten voor verandertrajecten in het landelijke gebied
 
+    * Onafhankelijke begeleiding van agrarische ondernemers in de Foodvalley (Gelderse Vallei) die zich hebben aangemeld voor de landelijke beëindigingsregeling (Lbv plus), verplaatsingsregeling (lvvp) en innovatieregeling (Sbv). Tevens begeleider van agrarische ondernemers die deelnemen aan de landelijk pilot ondernemingsplan in Barneveld en Ede.
+    * Voeren van keukentafelgesprekken met agrarische ondernemers rond vijf Natura 2000 gebieden in Brabant. Doel hiervan is om agrarische inbreng op de planvorming voor deze gebieden te genereren.
     * Begeleiden stoppende en gestopte agrariërs bij zoektocht naar nieuwe functie gebouwen (VABIMPULS provincie Noord-Brabant)
     * Procesbegeleider nieuwe natuur gemeente Dronten
     * Contactpersoon en procesbegeleider 'Warme sanering varkenshouderij Barneveld'
@@ -17,8 +19,7 @@ experience_list:
     * Projectleider POP3 project 'Natuurinclusieve landbouw met burgerparticipatie'
     * Procesbegeleider gebiedsproces Waardassacker polder/Botshol/Nellestein (Abcoude) voor Programmabureau Utrecht-West
     * Voorbereidingen gebiedsprocessen voor Programmabureau Utrecht-West (Zegveld, Zouweboezem, Oudewater)
-    * Voorbereiden Warme sanering varkenshouderij gemeente Barneveld
-    * Voorbereiden gebiedsproces omgeving Kamers in de gemeente Bernheze
+    * Voorbereiden gebiedsproces omgeving Kameren in de gemeente Bernheze
     * Voeren van keukentafelgesprekken met agrarische ondernemers in de gemeente Molenlanden en in de gemeente Rhenen
     * Onderzoeken mogelijkheden openhouden delen van lange afstand wandelroutes van Wandelnet
     * Schrijven van teksten

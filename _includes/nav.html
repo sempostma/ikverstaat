@@ -48,6 +48,13 @@
                 </a>
             </li>
             {% endif %}
+            {% if site.linkedin_username%}<li class="nav-item nav-item-icon">
+                <a class="nav-link" target="_blank" title="Het ienze koekkoek - Verstaat LinkedIn account" rel="external" aria-label="LinkedIn" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
+                    <!-- <div class="fa fa-linkedin"></div> -->
+                    <span class="icon-nav-label">LinkedIn</span>
+                </a>    
+            </li>
+            {% endif %}
         </ul>
 
     </div>

@@ -5,6 +5,36 @@ layout: projecten
 description: Projecten van Ienze Koekkoek - verstaat.
 banner: "/uploads/L1000152.JPG"
 projects_list:
+- title: Zaakbegeleider van agrarische ondernemers die deelnemen aan Piekbelastersmaatregelen van de Rijksoverheid in opdracht van de gemeente Ede
+  short_description: Onafhankelijke begeleiding van ondernemers in Foodvalley die deelnemen aan de beëindigingsregeling, verplaatsingsregeling, subsidieregeling voor innovatieve maatregelen en de pilot ondernemingsplannen.
+  long_description: ''
+  image: "/uploads/logo gemeente Ede.svg"
+  timespan: ''
+- title: Keukentafelgesprekken met agrarische ondernemers voor de ZLTO
+  short_description: Voeren van gesprekken met agrarische ondernemers rondom vijf Natura 2000 gebieden in Noord-Brabant in het kader van de Gebiedsgerichte Aanpak van de provincie
+  long_description: ''
+  image: "/uploads/zlto-logo.jpg"
+  timespan: ''
+- title: Keukentafelgesprekken met agrarische ondernemers voor PPP Agro Advies
+  short_description: Voeren van gesprekken met agrarische ondernemers in de Alblasserwaard in het kader van het Omgevingsplan
+  long_description: ''
+  image: "/uploads/logo PPP Agro Advies.jpg"
+  timespan: ''
+- title: Procesbegeleider gebiedsproces gemeente Bernheze
+  short_description: Adviseren over het opzetten van een gebiedsproces in gebied 'Kameren'
+  long_description: ''
+  image: "/uploads/logo gemeente Bernheze.png"
+  timespan: ''
+- title: Procesbegeleiding gebiedsproces polder bij Haarlem voor het Hoogheemraadschap van Rijnland
+  short_description: Adviseren over het opzetten van een gebiedsproces in de Verenigd Grote en Kleine Polder in Haarlem
+  long_description: ''
+  image: "/uploads/logo Hoogheemraadschap van Rijnland.png"
+  timespan: ''
+- title: Keukentafelgesprekken met agrarische ondernemers voor de gemeente Rhenen
+  short_description: Voeren van gesprekken met agrarische ondernemers in het Binnenveld van Rhenen voor het maken van een gebiedsvisie
+  long_description: ''
+  image: "/uploads/logo gemeente Rhenen.jpeg"
+  timespan: ''
 - title: Procesbegeleider Programmabureau Utrecht-West
   short_description: Begeleiden van gebiedsprocessen in het veenweidegebied van de
     provincie Utrecht

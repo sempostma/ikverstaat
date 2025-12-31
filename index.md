@@ -28,7 +28,7 @@ over: |-
   Ik zorg ervoor dat betrokken partijen elkaar (gaan) verstaan. Ik mensen en situaties bij elkaar om samen oplossingen tot stand te brengen, plannen te maken en uit te voeren.
 
   Voorbeelden van thema's: Biodiversiteit, nieuwe natuur, kringlooplandbouw, klimaatadaptatie, bodemdaling, stad-plattelandrelaties, burgerparticipatie, duurzame energie, landbouw en nieuwe functies voor boerenerven.
-ervaring: 'Ik werk al bijna 30 jaar samen met bewoners en gebruikers van het landelijke
+ervaring: 'Ik werk al 35 jaar samen met bewoners en gebruikers van het landelijke
   gebied: als beleidsmedewerker van een gemeente en als projectleider bij een  landbouworganisatie
   en verschillende adviesbureaus. Met die ervaring weet ik hoe het maatschappelijke
   krachtenveld er uit ziet en kan ik daar gebruik van maken in mijn werk.'
