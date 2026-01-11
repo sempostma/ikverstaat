@@ -33,7 +33,7 @@ projects_list:
 - title: Keukentafelgesprekken met agrarische ondernemers voor de gemeente Rhenen
   short_description: Voeren van gesprekken met agrarische ondernemers in het Binnenveld van Rhenen voor het maken van een gebiedsvisie
   long_description: ''
-  image: "/uploads/logo gemeente Rhenen.jpeg"
+  image: "/uploads/logo gemeente Rhenen.webp"
   timespan: ''
 - title: Procesbegeleider Programmabureau Utrecht-West
   short_description: Begeleiden van gebiedsprocessen in het veenweidegebied van de
